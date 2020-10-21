@@ -1,1 +1,610 @@
-[]
+[
+  {
+    "priority": 3,
+    "date": "2020-06-01T00:00:00+00:00",
+    "title": "ECMAScript 2020",
+    "href": "http://www.ecma-international.org/ecma-262/11.0/index.html",
+    "description": "Introduction of BigInt for arbitrary-sized integers, new null coalescing syntax, and a name which always refers to the global object.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2020-05-01T00:00:00+00:00",
+    "title": "WebStorm turns 10",
+    "href": "https://www.jetbrains.com/webstorm/",
+    "description": "The <a href=\"https://www.jetbrains.com/webstorm/\">WebStorm</a> team celebrates the tenth WebStorm's birthday, working on the new IDE version and trying to get to used to the new \"working from home\" reality.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2020-05-13T00:00:00+00:00",
+    "title": "Deno 1.0 released",
+    "href": "https://deno.land/posts/v1",
+    "description": "Deno finally makes it to public with it's <a href=\"https://deno.land/posts/v1\">first release</a>. It's still not clear whether it's going to become the next big thing but the hopes are high.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2019-12-01T00:00:00+00:00",
+    "title": "WebAssembly 1.0 to be the fourth language to run natively in browsers",
+    "href": "https://www.infoq.com/news/2019/12/webassembly-w3c-recommendation/",
+    "description": "The World Wide Web Consortium (W3C) announces that the WebAssembly Core Specification is now an official web standard. Following HTML, CSS and JavaScript, WebAssembly thus officially becomes the fourth language to run natively in browsers.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2019-06-01T00:00:00+00:00",
+    "title": "ECMAScript 2019",
+    "href": "http://www.ecma-international.org/ecma-262/10.0/index.html",
+    "description": "New features include Array.prototype.flat, Array.prototype.flatMap, changes to Array.sort and Object.fromEntries.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2019-04-01T00:00:00+00:00",
+    "title": "Svelte 3 released",
+    "href": "https://svelte.dev/blog/svelte-3-rethinking-reactivity",
+    "description": "The framework gets a major update, Svelte 3 and starts gaining popularity. Many developers try to understand why this update is important and <a href=\"https://dev.to/zenika/svelte-why-so-much-hype-2k61\">share their thoughts</a> with the community.<br /><br /> \"Compiler frameworks uncover new horizons for the future of the web. Are we heading towards a decline of front-end frameworks as we know them today to make way for compilers? When will this happen? How? Who will be the main actors? It's far too early to say, all this will take time, but one thing is sure, Svelte contributes strongly to this new momentum and makes the web move forward.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2018-09-01T00:00:00+00:00",
+    "title": "Chrome and DevTools turn 10",
+    "href": "https://blog.chromium.org/2018/09/10-years-of-chrome-devtools.html",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2018-06-01T00:00:00+00:00",
+    "title": "ECMAScript 2018",
+    "href": "http://www.ecma-international.org/ecma-262/9.0/index.html",
+    "description": "Rest/spread operator for object literals, asynchronous iteration and additions to RegExp.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2018-05-01T00:00:00+00:00",
+    "title": "ECMAScript 2018",
+    "href": "https://youtu.be/M3BM9TB-8yA",
+    "description": "Ryan Dahl, the creator of Node.js, gives a talk at JSConf EU 2018 and introduces Deno, a new runtime for JavaScript and TypeScript. The talk was called <a href=\"https://youtu.be/M3BM9TB-8yA\">10 Things I Regret About Node.js</a> and is still available on YouTube.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2017-06-01T00:00:00+00:00",
+    "title": "ECMAScript 2017",
+    "href": "http://www.ecma-international.org/ecma-262/8.0/index.html",
+    "description": "Improvements include Object.values, Object.entries and Object.getOwnPropertyDescriptors functions for easier object manipulation, async/await constructions which use generators and promises as well as concurrency and atomic features.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2017-04-01T00:00:00+00:00",
+    "title": "Prettier 1.0 released",
+    "href": "https://jlongster.com/prettier-1.0",
+    "description": "Christopher Chedeau and James Long publish a blog post about Prettier 1.0 release.<br /><br /> \"We officially announced prettier over two months ago as a way to solve the problem of wasting time formatting your code. It started as an experiment but it clearly resonated with a lot of people, amassing ~7000 GitHub stars and over 100,000 monthly npm downloads in just two months.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2016-11-01T00:00:00+00:00",
+    "title": "Version 1 of Svelte",
+    "href": "https://svelte.dev/blog/frameworks-without-the-framework",
+    "description": "Rich Harris publishes the article Frameworks without the framework: why didn't we think of this sooner? and introduces Svelte.js, another JavaScript framework.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2016-10-01T00:00:00+00:00",
+    "title": "Yarn: a new package manager for JavaScript",
+    "href": "https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2016-09-01T00:00:00+00:00",
+    "title": "Angular was born",
+    "href": "https://www.ngdevelop.tech/angular/history/",
+    "description": "The same team that built AngularJS completely rewrites it and introduces Angular 2, written in TypeScript.\n\nAt this point, quite a few teams started to turn their back on AngularJS for libraries like React. Some developers even wrote <a href=\"https://levelup.gitconnected.com/angular-its-you-not-me-9e9232ad3bcd\">break-up letters</a> to their once beloved framework.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2016-06-01T00:00:00+00:00",
+    "title": "ECMAScript 2016 finalized",
+    "href": "http://www.ecma-international.org/ecma-262/7.0/index.html",
+    "description": "This update got such features as async and await keywords for asynchronous programming, block-scoping of variables and functions, destructing patters of variables, among many others.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2015-09-01T00:00:00+00:00",
+    "title": "GraphQL: a data query language",
+    "href": "https://engineering.fb.com/core-data/graphql-a-data-query-language/",
+    "description": "Facebook introduces GraphQL, a query language for APIs and a runtime for fulfilling those queries with existing data, which they had already been using for three years internally back then.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2015-09-01T00:00:00+00:00",
+    "title": "Node.js and io.js combined into single codebase",
+    "href": "https://nodejs.org/ar/blog/announcements/foundation-v4-announce/",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2015-06-01T00:00:00+00:00",
+    "title": "ES2015, big ECMAScript update",
+    "href": "http://www.ecma-international.org/ecma-262/6.0/index.html",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2015-04-01T00:00:00+00:00",
+    "title": "VS Code released",
+    "href": "https://devblogs.microsoft.com/visualstudio/build-2015-news-visual-studio-code-visual-studio-2015-rc-team-foundation-server-2015-rc-visual-studio-2013-update-5/",
+    "description": "Microsoft announces Visual Studio Code, a new member of the Visual Studio family, at its annual conference Build. The new code editor was built using the Electron framework.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2015-03-01T00:00:00+00:00",
+    "title": "NativeScript 1.0.0 released",
+    "href": "https://www.i-programmer.info/news/167-javascript/8561-nativescript-100-released.html",
+    "description": "Version 1 of NativeScript, an open-source framework that allows you to write native apps for Android, iOS and Windows Phone using JavaScript, has become available.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2014-12-01T00:00:00+00:00",
+    "title": "io.js: Node.js split in two",
+    "href": "https://blog.risingstack.com/iojs-overview/",
+    "description": "The part of the Node.js team, who were unhappy with the stewardship of Node's official sponsor, Joyent, forked the Node.js project and created their own version of it called io.js. The main differences included proper semver and the updated V8 engine with ES6 features. In the long run, they hoped that both projects would be merged back together and that it would help the JavaScript community move forward.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2014-02-01T00:00:00+00:00",
+    "title": "Atom, text editor built on Electron",
+    "href": "https://blog.atom.io/2014/02/26/introducing-atom.html",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2014-02-01T00:00:00+00:00",
+    "title": "Vue.js released by Evan You",
+    "href": "https://web.archive.org/web/20170603052649/https://betweenthewires.org/2016/11/03/evan-you/",
+    "description": "\"I figured, what if I could just extract the part that I really liked about Angular and build something really lightweight without all the extra concepts involved? I was also curious as to how its internal implementation worked. I started this experiment just trying to replicate this minimal feature set, like declarative data binding. That was basically how Vue started.\"",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2013-07-01T00:00:00+00:00",
+    "title": "GitHub introduces Electron",
+    "href": "https://www.electronjs.org/blog/electron",
+    "description": "GitHub develops Atom Shell, a framework that would be later renamed to Electron. The goal behind this was to \"create a straightforward framework that would allow people to use web technologies to build cross-platform desktop apps with all of the native trimmings.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2013-07-01T00:00:00+00:00",
+    "title": "First gulp release",
+    "href": "https://libraries.io/npm/gulp",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2013-06-01T00:00:00+00:00",
+    "title": "The beginning of React Native's story",
+    "href": "https://engineering.fb.com/android/react-native-a-year-in-review/",
+    "description": "React Native started as a hackathon project in the summer of 2013.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2013-05-01T00:00:00+00:00",
+    "title": "React gets open sourced",
+    "href": "https://engineering.fb.com/android/react-native-a-year-in-review/",
+    "description": "Tom Occhino and Jordan Walke introduce React at <a href=\"https://youtu.be/GW0rj4sNH2w\">JSConf US 2013</a>. React becomes an open-source project.<br /><br /> The audience at the conference was <a href=\"https://youtu.be/A0Kj49z6WdM?t=851\">skeptical</a>. Some people thought that React was a huge step backward. This happened as mostly \"early adopters\" and \"early majority\" attended this conference, while React was targeted at \"innovators\".",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2013-03-21T00:00:00+00:00",
+    "title": "asm.js in Firefox Nightly",
+    "href": "https://blog.mozilla.org/luke/2013/03/21/asm-js-in-firefox-nightly/",
+    "description": "asm.js, a subset of JavaScript later superseded by WebAssembly, was announced to be shipped with Firefox 22.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2013-03-01T00:00:00+00:00",
+    "title": "TypeScript tooling starts to catch up",
+    "href": "https://blog.jetbrains.com/webstorm/2013/03/webstorm-6-0-released-adds-typescript-debugging-with-source-maps-fresh-ui-and-much-more/",
+    "description": "WebStorm was among the first cross-platform IDEs to <a href=\"https://blog.jetbrains.com/webstorm/2013/03/webstorm-6-0-released-adds-typescript-debugging-with-source-maps-fresh-ui-and-much-more/\">get support for TypeScript</a>.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2012-10-01T00:00:00+00:00",
+    "title": "TypeScript made public",
+    "href": "https://www.infoworld.com/article/2614863/microsoft-augments-javascript-for-large-scale-development.html",
+    "description": "After 2 years of internal development, Microsoft introduces a JavaScript superset called TypedScript. They developed TypeScript in at attempt to help use JavaScript for large-scale development.<br /><br />The first impressions of TypeScript were controversial. For example, <a href=\"https://tirania.org/blog/archive/2012/Oct-01.html\">Miguel de Icaza highlighted</a> quite a few pros but also raised concerns about the lack of support for TypeScript in tooling, apart from Microsoft Visual Studio.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2012-04-01T00:00:00+00:00",
+    "title": "Meteor officially launched",
+    "href": "https://techcrunch.com/2012/04/11/meteor-launch/",
+    "description": "Initially introduced under the name <a href=\"https://blog.meteor.com/skybreak-is-now-meteor-e680d1dbaf84\">Skybreak</a>, Meteor, a framework and application server for building websites in JavaScript, was officially soft-launched.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2012-03-01T00:00:00+00:00",
+    "title": "Grunt introduced",
+    "href": "https://bocoup.com/blog/introducing-grunt",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2012-03-01T00:00:00+00:00",
+    "title": "webpack module bundler",
+    "href": "https://en.wikipedia.org/wiki/Webpack",
+    "description": "webpack, a new static module bundler for JavaScript applications, is introduced.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2011-10-01T00:00:00+00:00",
+    "title": "Dart unveiled",
+    "href": "http://gotocon.com/dl/goto-aarhus-2011/slides/GiladBracha_and_LarsBak_OpeningKeynoteDartANewProgrammingLanguageForStructuredWebProgramming.pdf",
+    "description": "Lars Bak and Gilad Bracha from Google give a talk at GOTO Aarhus and present a new programming language called Dart.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2011-09-01T00:00:00+00:00",
+    "title": "An early prototype of React",
+    "href": "https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/",
+    "description": "Jordan Walke starts working on <a href=\"https://github.com/jordwalke/FaxJs\">FaxJS</a>, the early prototype of React.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2011-04-01T00:00:00+00:00",
+    "title": "The first commit of Ember.js",
+    "href": "https://blog.emberjs.com/2013/08/31/ember-1-0-released.html",
+    "description": "The first commit to the repository that would become Ember.js happened on April 30th, 2011. About two and a half years later, the Ember.js core team would announce the release of Ember 1.0.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2011-03-01T00:00:00+00:00",
+    "title": "IE6 Countdown",
+    "href": "https://web.archive.org/web/20141217174028/https://www.modern.ie/en-us/ie6countdown",
+    "description": "Microsoft launches a website called <a href=\"https://web.archive.org/web/20141217174028/https://www.modern.ie/en-us/ie6countdown\">IE6 Countdown</a> which would show the usage of Internet Explorer 6 in the world to motivate people to upgrade.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2010-10-01T00:00:00+00:00",
+    "title": "Backbone.js and AngularJS released",
+    "href": "https://en.wikipedia.org/wiki/Backbone.js",
+    "description": "Released just a week apart from each other, <a href=\"https://en.wikipedia.org/wiki/Backbone.js\">Backbone.js</a> and <a href=\"https://en.wikipedia.org/wiki/AngularJS\">AngularJS</a> were designed specifically for building single-page apps with JavaScript.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2010-05-27T00:00:00+00:00",
+    "title": "WebStorm 1.0, a new JavaScript IDE by JetBrains",
+    "href": "https://en.wikipedia.org/wiki/Backbone.js",
+    "description": "Previously known under its working name Web IDE, <a href=\"https://web.archive.org/web/20101228024817/http://www.jetbrains.com/webstorm/\">WebStorm 1.0</a> was released with support for HTML, CSS, and JavaScript.<br /><br /> Support for these technologies had been available within IntelliJ IDEA, another IDE by JetBrains, starting from 2005, but now developers got a chance to use a dedicated tool for JavaScript development.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2010-01-01T00:00:00+00:00",
+    "title": "npm was born",
+    "href": "https://blog.izs.me/",
+    "description": "Isaac Schlueter invents npm, a brand-new package manager for JavaScript.<br /><br /> \"Back in 2009, after too long without a vacation, I quit my job, in hopes of discovering what happens when I untether my creativity.<br /><br /> What happened is I wrote a package manager.<br /><br /> I created npm with the goal of sharing modules in a tiny group of nerdy weirdos who'd decided to write web servers in JavaScript. From that niche beginning, npm grew, slowly but surely, the background project I'd greedily steal away time for.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2009-12-01T00:00:00+00:00",
+    "title": "Initial commit of CoffeeScript",
+    "href": "https://github.com/jashkenas/coffeescript/commit/8e9d637985d2dc9b44922076ad54ffef7fa8e9c2",
+    "description": "On December 14, 2009, Jeremy Ashkenas <a href=\"https://github.com/jashkenas/coffeescript/commit/8e9d637985d2dc9b44922076ad54ffef7fa8e9c2\">commits</a> a bunch of files to GitHub with the message: \"initial commit of the mystery language\". Drawing inspiration from Python, Ruby, and some other languages, he started working on a new programming language that compiles into JavaScript called CoffeeScript.<br /><br /> Ashkenas is also known as the creator of two JavaScript libraries - <a href=\"https://github.com/jashkenas/coffeescript/commit/8e9d637985d2dc9b44922076ad54ffef7fa8e9c2\">Underscore.js</a> and <a href=\"https://backbonejs.org/\">Backbone.js</a>.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2009-12-01T00:00:00+00:00",
+    "title": "End of dark times for ECMAScript",
+    "href": "https://www.infoq.com/news/2009/12/ecmascript5/",
+    "description": "With the version 3.1 used as a starting point, ECMAScript finally gets revamped after a very long break. The new fifth version includes such important features as strict mode, getters and setters, JSON support, and many others.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2009-09-01T00:00:00+00:00",
+    "title": "RequireJS module loader",
+    "href": "https://requirejs.org/docs/history.html",
+    "description": "The primordial parts of the RequireJS loader started to take form in September 2009, with many releases through October 2011, when 1.0 was introduced.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2009-06-01T00:00:00+00:00",
+    "title": "Work on Express.js started",
+    "href": "https://github.com/expressjs/express/commit/9998490f93d3ad3d56c00d23c0aa13fac41c3f6b",
+    "description": "TJ Holowaychuk makes the initial commit to the repository called expressjs, which would later become a home for a popular Node.js framework.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2009-05-01T00:00:00+00:00",
+    "title": "The rise of Node.js",
+    "href": "https://youtu.be/ztspvPYybIY",
+    "description": "Ryan Dahl introduces Node.js, a JavaScript runtime built on top of Chrome's V8 JavaScript engine. From now on, JavaScript developers can build their entire web application stack with a single programming language - the JavaScript Everywhere paradigm becomes a reality.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2009-05-01T00:00:00+00:00",
+    "title": "PhoneGap created",
+    "href": "https://readwrite.com/2009/04/02/phone_gap_todays_peoples_choice_winner_at_launch_p",
+    "description": "PhoneGap brings HTML5 and JavaScript to mobile applications in iOS and Android, creating the cross-platform application category.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2009-01-01T00:00:00+00:00",
+    "title": "CommonJS project started",
+    "href": "https://www.blueskyonmars.com/2009/01/29/what-server-side-javascript-needs/",
+    "description": "Kevin Dangoon sets up a new ServerJS group trying to standardize the module ecosystem for JavaScript outside of the web browser. The project was later renamed to CommonJS.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2008-09-01T00:00:00+00:00",
+    "title": "Google Chrome: a fresh take on the browser",
+    "href": "https://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html",
+    "description": "To \"help drive innovation on the web\", Google launches the beta version of Google Chrome, along with a new JavaScript engine, <a href=\"https://en.wikipedia.org/wiki/V8_(JavaScript_engine)\">V8</a>. They accompanied the announcement by this <a href=\"https://www.google.com/googlebooks/chrome/index.html\">comic</a> book.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2008-01-01T00:00:00+00:00",
+    "title": "HTML5 first public working draft",
+    "href": "https://www.w3.org/TR/2008/WD-html5-20080122/",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2007-04-01T00:00:00+00:00",
+    "title": "Ext JS 1.0 released",
+    "href": "https://twitter.com/jackslocum/status/323672362883104768",
+    "description": "The version 1.0 of Ext JS, a framework for building interactive cross-platform web applications with Ajax, DHTML and DOM, was released.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2006-10-01T00:00:00+00:00",
+    "title": "Microsoft restarts IE development",
+    "href": "https://twitter.com/jackslocum/status/323672362883104768",
+    "description": "Internet Explorer gets the first major update since 2001.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2006-01-01T00:00:00+00:00",
+    "title": "Initial release of jQuery",
+    "href": "https://jquery.org/history/",
+    "description": "John Resig makes the initial release of jQuery, a JavaScript library that makes it easier to navigate the HTML DOM and manipulate it.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2005-09-01T00:00:00+00:00",
+    "title": "Dojo Toolkit 0.1",
+    "href": "https://infrequently.org/2009/06/a-visual-history-of-dojo/",
+    "description": "Alex Russell, Dylan Schiemann, David Schontzler, and some other folks release the 0.1 version of Dojo, a JavaScript toolkit designed to ease the development of cross-platform, Ajax-based applications and web sites. The first stable version is yet to come in 2007.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2005-06-01T00:00:00+00:00",
+    "title": "Apple open sources WebKit",
+    "href": "https://dot.kde.org/2005/06/07/apple-opens-webkit-cvs-and-bug-database",
+    "description": "Apple announces the immediate availability of the WebKit Open Source Project, their fork of KHTML.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2005-02-01T00:00:00+00:00",
+    "title": "Prototype.js created",
+    "href": "https://github.com/prototypejs/prototype",
+    "description": "Prototype, a JavaScript framework that aims to ease the development of dynamic web applications, was made available. The framework offered extensive Ajax support, higher-order programming constructs, and easy DOM manipulation.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2005-02-01T00:00:00+00:00",
+    "title": "The rise of MDN",
+    "href": "https://developer.mozilla.org/en-US/docs/MDN_at_ten/History_of_MDN",
+    "description": "Deb Richardson joins Mozilla Corporation and launches the initial <a href=\"https://developer.mozilla.org/\">Mozilla Developer Network</a> in March 2005.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2005-02-01T00:00:00+00:00",
+    "title": "Jesse James Garrett coins the term Ajax",
+    "href": "https://web.archive.org/web/20150910072359/http://adaptivepath.org/ideas/ajax-new-approach-web-applications/",
+    "description": "Jesse introduces the new term in an article titled Ajax: A New Approach to Web Applications, based on techniques used on Google pages.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2004-04-01T00:00:00+00:00",
+    "title": "Beta release of Gmail",
+    "href": "https://time.com/43263/gmail-10th-anniversary/",
+    "description": "Google publicly announces <a href=\"https://googlepress.blogspot.com/2004/04/google-gets-message-launches-gmail.html\">Gmail</a>, starting the Ajax (even though the term wasn't coined yet) and web application era. Its release on April 1 made some people think that the announcement was a prank.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2003-06-01T00:00:00+00:00",
+    "title": "Dark times for ECMAScript",
+    "href": "",
+    "description": "After months of hard work on the new update to ECMAScript, the fourth edition was abandoned in June, 2003. Some of the features proposed for that edition have never made it to the standard.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2003-01-01T00:00:00+00:00",
+    "title": "Apple introduces Safari and WebKit",
+    "href": "https://dot.kde.org/2003/01/08/apple-announces-new-safari-browser",
+    "description": "Giving a speech at Macworld Expo, Steve Jobs unveils a new Macintosh browser named Safari. The browser was based on Apple's internal fork of the KHTML rendering engine, called WebKit.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2002-09-01T00:00:00+00:00",
+    "title": "Mozilla Firefox released",
+    "href": "https://en.wikipedia.org/wiki/Browser_wars",
+    "description": "Internet Explorer, which has been dominating the market of web browsers since early 2000s, is about to start losing a part of its market share to a new web browser, <a href=\"https://www.wired.com/2012/09/happy-birthday-firefox-the-little-web-browser-that-could-turns-10/\">Mozilla Firefox</a>.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2001-08-01T00:00:00+00:00",
+    "title": "Internet Explorer 6 made available",
+    "href": "https://en.wikipedia.org/wiki/Internet_Explorer_6",
+    "description": "This would become the last major update to this browser for the next 5 years. Despite dominating the market share, this version of Internet Explorer was widely criticized for its security issues and lack of support for modern web standards. It even got into some of the \"worst tech products of all time\" lists, being labeled as \"<a href=\"https://www.pcworld.com/article/125772/worst_products_ever.html?page=3\">the least secure software on the planet</a>.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2001-04-01T00:00:00+00:00",
+    "title": "The first JSON message was sent",
+    "href": "https://twobithistory.org/2017/09/21/the-rise-and-rise-of-json.html",
+    "description": "The message looked like this:<br /><pre>&lt;html&gt;&lt;head&gt;&lt;script&gt;\n    document.domain = 'fudco';\n    parent.session.receive(\n        { to: \"session\", do: \"test\",\n          text: \"Hello world\" }\n    )\n&lt;/script&gt;&lt;/head&gt;&lt;/html&gt;</pre>",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2000-12-01T00:00:00+00:00",
+    "title": "Opera browser goes free",
+    "href": "https://www.theregister.com/2000/12/06/opera_browser_goes_free",
+    "description": "Opera, the \"third force in the browser wars\", was made available for free download from December 6, 2000, with the launch of Opera 5.0.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2000-10-01T00:00:00+00:00",
+    "title": "KHTML rewritten",
+    "href": "https://youtu.be/Tldf1rT0Rn0",
+    "description": "KHTML, a browser engine developed by the KDE project and the ancestor of WebKit, was included in KDE 2.0.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2000-08-01T00:00:00+00:00",
+    "title": "Flash Player 5 released with ActionScript",
+    "href": "https://en.wikipedia.org/wiki/ActionScript",
+    "description": "Flash Player 5 included the first version of ActionScript. This version was influenced by JavaScript and the ECMA-262 standard and supported the standard's object model and many of its core data types.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "1999-12-01T00:00:00+00:00",
+    "title": "ECMAScript 3 released",
+    "href": "https://en.wikipedia.org/wiki/ECMAScript",
+    "description": "The new version gets regular expressions, try/catch exception handling, better error handling, and some other important enhancements.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "1999-05-01T00:00:00+00:00",
+    "title": "JSDoc debut",
+    "href": "https://github.com/mozilla/rhino/blob/master/examples/jsdoc.js",
+    "description": "An early example using a Javadoc-like syntax to document JavaScript was released in 1999 with the Netscape/Mozilla <a href=\"https://github.com/mozilla/rhino/blob/master/examples/jsdoc.js\">project Rhino</a>, a JavaScript runtime system written in Java. The project included a toy \"JSDoc\" HTML generator as an example of its JavaScript capabilities.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "1999-03-01T00:00:00+00:00",
+    "title": "First steps to Ajax",
+    "href": "https://web.archive.org/web/20070623125327/http://www.alexhopmann.com/xmlhttp.htm",
+    "description": "With Internet Explorer 5.0, Microsoft releases the first version of XMLHttpRequest (XHR), an API for transferring data between a web browser and a web server.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "1998-06-01T00:00:00+00:00",
+    "title": "Updates to ECMAScript 1",
+    "href": "https://en.wikipedia.org/wiki/JavaScript",
+    "description": "Some minor editorial changes to the ECMAScript 1 specification were made to keep it fully aligned with ISO/IEC 16262 international standard.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "1998-01-01T00:00:00+00:00",
+    "title": "Mozilla Project created",
+    "href": "https://www.mozilla.org/en-US/about/history/",
+    "description": "Netscape open sources its browser suite, which leads to the creation of the Mozilla Project.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "1997-01-01T00:00:00+00:00",
+    "title": "The first edition of ECMA-262 published",
+    "href": "https://en.wikipedia.org/wiki/JavaScript",
+    "description": "With the first edition of ECMAScript, browser vendors, among the others, get a consistent set of guidelines for implementing the JavaScript language.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "1996-12-01T00:00:00+00:00",
+    "title": "CSS1 specifications by W3C",
+    "href": "https://www.w3.org/TR/1999/REC-CSS1-19990111",
+    "description": "The World Wide Web Consortium introduces the document specifying level 1 of the Cascading Style Sheet mechanism.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "1996-11-01T00:00:00+00:00",
+    "title": "The beginning of JavaScript standartization",
+    "href": "https://youtu.be/3-9fnjzmXWA",
+    "description": "Netscape realizes that JavaScript needs to be standartized and submits a proposal to <a href=\"https://www.ecma-international.org/\">ECMA International</a>.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "1996-08-01T00:00:00+00:00",
+    "title": "JavaScript gets its first dialect",
+    "href": "https://en.wikipedia.org/wiki/JavaScript",
+    "description": "Internet Exploper, the recently introduced browser by Microsoft, gets its own, reverse-engineered alternative to JavaScript and names it JScript. Two almost identical languages, JScript and JavaScript, existed at this time.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "1995-12-04T00:00:00+00:00",
+    "title": "Netscape and Sun Microsystems announce JavaScript",
+    "href": "https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html",
+    "description": "In an attempt to <a href=\"https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html\">make web pages dynamic</a>, Brendan Eich from Netscape starts working on a new scripting language. The first version of this language was developed in ten days and called Mocha. Later it was renamed to LiveScript and finally to JavaScript.",
+    "comment": ""
+  }
+]
