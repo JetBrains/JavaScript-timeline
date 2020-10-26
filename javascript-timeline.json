@@ -120,6 +120,14 @@
     "comment": ""
   },
   {
+    "priority": 1,
+    "date": "2016-05-12T00:00:00+00:00",
+    "title": "First commits to TC39 proposals repository",
+    "href": "https://github.com/tc39/proposals/commit/023a1c80b553fc4daf87877be72d171524db3450",
+    "description": "<a href=\"https://github.com/tc39/proposals\">The repository</a> contains all actual information about stages of proposals to ECMAScript",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2015-09-01T00:00:00+00:00",
     "title": "GraphQL: a data query language",
@@ -168,6 +176,14 @@
     "comment": ""
   },
   {
+    "priority": 1,
+    "date": "2014-09-28T00:00:00+00:00",
+    "title": "First commit to Babel.js",
+    "href": "https://github.com/babel/babel/commit/c97696c224d718d96848df9e1577f337b45464be#diff-7ae45ad102eab3b6d7e7896acd08c427a9b25b346470d7bc6507b6481575d519",
+    "description": "Sebastian McKenzie started project with '6to5' name above <a href=\"https://github.com/acornjs/acorn\">acornjs parser</a> for transpiling new version of ECMAScript for old browsers.",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2014-02-01T00:00:00+00:00",
     "title": "Atom, text editor built on Electron",
@@ -192,11 +208,11 @@
     "comment": ""
   },
   {
-    "priority": 3,
-    "date": "2013-07-01T00:00:00+00:00",
-    "title": "First gulp release",
-    "href": "https://libraries.io/npm/gulp",
-    "description": "",
+    "priority": 2,
+    "date": "2013-06-30T00:00:00+00:00",
+    "title": "First ESLint release",
+    "href": "https://en.wikipedia.org/wiki/ESLint#History",
+    "description": "Both <a href=\"https://en.wikipedia.org/wiki/JSLint\">JSLint</a> and <a href=\"https://en.wikipedia.org/wiki/JSHint\">JSHint</a> were lacking the ability to create additional rules for code quality and coding style. After contributing to JSHint, Nicholas C. Zakas decided to create a new linting tool where all rules are configurable, and additional rules can be defined or loaded at run-time.",
     "comment": ""
   },
   {
@@ -313,6 +329,14 @@
   },
   {
     "priority": 3,
+    "date": "2010-05-12T00:00:00+00:00",
+    "title": "Test262: ECMAScript Test Suite initial contribution",
+    "href": "https://github.com/tc39/proposals/commit/023a1c80b553fc4daf87877be72d171524db3450",
+    "description": "Test262 is the implementation conformance test suite for the latest drafts (or most recent published edition) of the following Ecma specifications: <a href=\"https://tc39.github.io/ecma262/\">ECMA-262</a>, <a href=\"https://tc39.github.io/ecma402/\">ECMA-402</a>, <a href=\"https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf\">ECMA-404</a>",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2010-01-01T00:00:00+00:00",
     "title": "npm was born",
     "href": "https://blog.izs.me/",
@@ -337,6 +361,14 @@
   },
   {
     "priority": 3,
+    "date": "2009-11-05T00:00:00+00:00",
+    "title": "Google Closure Compiler release",
+    "href": "http://googlecode.blogspot.com/2009/11/introducing-closure-tools.html",
+    "description": "Google Closure Compiler still stay one of the best JavaScript code minifier with amazing dead code elimination ability",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2009-09-01T00:00:00+00:00",
     "title": "RequireJS module loader",
     "href": "https://requirejs.org/docs/history.html",
@@ -344,7 +376,7 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 2,
     "date": "2009-06-01T00:00:00+00:00",
     "title": "Work on Express.js started",
     "href": "https://github.com/expressjs/express/commit/9998490f93d3ad3d56c00d23c0aa13fac41c3f6b",
@@ -384,6 +416,14 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2008-05-01T00:00:00+00:00",
+    "title": "JavaScript: The Good Parts book release",
+    "href": "https://www.oreilly.com/library/view/javascript-the-good/9780596517748/",
+    "description": "One of the most popular book about JavaScript. It was written by Douglas Crockford",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2008-01-01T00:00:00+00:00",
     "title": "HTML5 first public working draft",
@@ -398,9 +438,16 @@
     "href": "https://twitter.com/jackslocum/status/323672362883104768",
     "description": "The version 1.0 of Ext JS, a framework for building interactive cross-platform web applications with Ajax, DHTML and DOM, was released.",
     "comment": ""
-  },
+  },{
+  "priority": 1,
+  "date": "2007-01-09T00:00:00+00:00",
+  "title": "Steve Jobs announced iPhone without support Adobe Flash Player",
+  "href": "https://youtu.be/vN4U5FqrOdQ?t=157",
+  "description": "With iPhone Steve presented iPhone version of Safari browser. Supporting for Adobe Flash Player never has been added for Safari on iPhone. It has driven process of HTML5 standardization.",
+  "comment": ""
+},
   {
-    "priority": 3,
+    "priority": 2,
     "date": "2006-10-01T00:00:00+00:00",
     "title": "Microsoft restarts IE development",
     "href": "https://twitter.com/jackslocum/status/323672362883104768",
@@ -408,7 +455,23 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2006-05-16T00:00:00+00:00",
+    "title": "Google Web Toolkit",
+    "href": "https://webtoolkit.googleblog.com/2006/05/welcome-to-gwt-blog.html",
+    "description": "One of the first toolchains for compiling Java to JavaScript.",
+    "comment": ""
+  },
+  {
     "priority": 2,
+    "date": "2006-02-13T00:00:00+00:00",
+    "title": "YUI Library release",
+    "href": "https://web.archive.org/web/20060315153416/http://yuiblog.com/blog/2006/02/13/welcome-to-the-yahoo-user-interface-blog/",
+    "description": "YUI contained a lot of <a href=\"https://en.wikipedia.org/wiki/YUI_Library#Features\">components</a> and one of the first minifiers of JavaScript code: <a href=\"https://github.com/yui/yuicompressor\">YUI Compressor</a>.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
     "date": "2006-01-01T00:00:00+00:00",
     "title": "Initial release of jQuery",
     "href": "https://jquery.org/history/",
@@ -485,6 +548,14 @@
     "title": "Mozilla Firefox released",
     "href": "https://en.wikipedia.org/wiki/Browser_wars",
     "description": "Internet Explorer, which has been dominating the market of web browsers since early 2000s, is about to start losing a part of its market share to a new web browser, <a href=\"https://www.wired.com/2012/09/happy-birthday-firefox-the-little-web-browser-that-could-turns-10/\">Mozilla Firefox</a>.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2002-06-01T00:00:00+00:00",
+    "title": "JSLint",
+    "href": "https://en.wikipedia.org/wiki/JSLint",
+    "description": "JSLint by Douglas Crockford is considered by some to be the first JavaScript syntax checker. It has since inspired various other tools.",
     "comment": ""
   },
   {
@@ -589,6 +660,14 @@
     "title": "The beginning of JavaScript standartization",
     "href": "https://youtu.be/3-9fnjzmXWA",
     "description": "Netscape realizes that JavaScript needs to be standartized and submits a proposal to <a href=\"https://www.ecma-international.org/\">ECMA International</a>.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "1996-08-01T00:00:00+00:00",
+    "title": "JavaScript: The Definitive Guide, Beta Version book release",
+    "href": "https://web.archive.org/web/20110913022342/http://shop.oreilly.com/product/9781565921931.do",
+    "description": "David Flanagan wrote one of the first book about JavaScript",
     "comment": ""
   },
   {
