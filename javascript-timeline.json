@@ -200,6 +200,14 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2013-07-18T00:00:00+00:00",
+    "title": "First commit in core-js repository",
+    "href": "https://github.com/zloirock/core-js/commit/faebf39ec88842a83c3e97ab1240351d4355f99c",
+    "description": "Denis Pushkarev started the project for system polyfilling new features of JavaScript.",
+    "comment": ""
+  },
+  {
     "priority": 1,
     "date": "2013-07-01T00:00:00+00:00",
     "title": "GitHub introduces Electron",
@@ -245,6 +253,14 @@
     "title": "TypeScript tooling starts to catch up",
     "href": "https://blog.jetbrains.com/webstorm/2013/03/webstorm-6-0-released-adds-typescript-debugging-with-source-maps-fresh-ui-and-much-more/",
     "description": "WebStorm was among the first cross-platform IDEs to <a href=\"https://blog.jetbrains.com/webstorm/2013/03/webstorm-6-0-released-adds-typescript-debugging-with-source-maps-fresh-ui-and-much-more/\">get support for TypeScript</a>.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2012-10-24T00:00:00+00:00",
+    "title": "Promises/A+ specification initial commit",
+    "href": "https://github.com/promises-aplus/promises-spec/commit/2057129ce72ae77188f4c26115035d37d46d5268",
+    "description": "An open standard for sound, interoperable JavaScript promises—by implementers, for implementers.",
     "comment": ""
   },
   {
@@ -516,6 +532,14 @@
     "title": "Jesse James Garrett coins the term Ajax",
     "href": "https://web.archive.org/web/20150910072359/http://adaptivepath.org/ideas/ajax-new-approach-web-applications/",
     "description": "Jesse introduces the new term in an article titled Ajax: A New Approach to Web Applications, based on techniques used on Google pages.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2004-06-04T00:00:00+00:00",
+    "title": "WHATWG Formation",
+    "href": "https://en.wikipedia.org/wiki/WHATWG#History",
+    "description": "The WHATWG was founded by individuals from Apple Inc., the Mozilla Foundation and Opera Software, leading Web browser vendors in response to the slow development of W3C.",
     "comment": ""
   },
   {
