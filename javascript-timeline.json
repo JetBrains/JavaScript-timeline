@@ -9,6 +9,14 @@
   },
   {
     "priority": 2,
+    "date": "2020-05-31T00:00:00+00:00",
+    "title": "SpaceX Dragon 2 with JavaScript UI in space",
+    "href": "https://twitter.com/jason_mayes/status/1267227834096861184",
+    "description": "Sofian Hnaide said in AMA <a href=\"https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/ft5zou3/?utm_source=reddit&utm_medium=web2x&context=3\">raddit tread</a>, \"Yes we use Chromium and we do use a reactive library that we developed in house.\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2020-05-27T00:00:00+00:00",
     "title": "WebStorm turns 10",
     "href": "https://www.jetbrains.com/webstorm/",
@@ -112,7 +120,7 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 2,
     "date": "2016-11-26T00:00:00+00:00",
     "title": "Version 1 of Svelte",
     "href": "https://svelte.dev/blog/frameworks-without-the-framework",
@@ -184,19 +192,19 @@
     "comment": ""
   },
   {
-    "priority": 2,
-    "date": "2015-04-01T00:00:00+00:00",
-    "title": "VS Code released",
-    "href": "https://devblogs.microsoft.com/visualstudio/build-2015-news-visual-studio-code-visual-studio-2015-rc-team-foundation-server-2015-rc-visual-studio-2013-update-5/",
-    "description": "Microsoft announces Visual Studio Code, a new member of the Visual Studio family, at its annual conference Build. The new code editor was built using the Electron framework.",
-    "comment": ""
-  },
-  {
     "priority": 3,
     "date": "2015-05-08T00:00:00+00:00",
     "title": "NativeScript 1.0.0 released",
     "href": "https://www.i-programmer.info/news/167-javascript/8561-nativescript-100-released.html",
     "description": "Version 1 of NativeScript, an open-source framework that allows you to write native apps for Android, iOS and Windows Phone using JavaScript, has become available.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2015-04-01T00:00:00+00:00",
+    "title": "VS Code released",
+    "href": "https://devblogs.microsoft.com/visualstudio/build-2015-news-visual-studio-code-visual-studio-2015-rc-team-foundation-server-2015-rc-visual-studio-2013-update-5/",
+    "description": "Microsoft announces Visual Studio Code, a new member of the Visual Studio family, at its annual conference Build. The new code editor was built using the Electron framework.",
     "comment": ""
   },
   {
@@ -304,19 +312,19 @@
     "comment": ""
   },
   {
-    "priority": 2,
-    "date": "2013-03-06T00:00:00+00:00",
-    "title": "TypeScript tooling starts to catch up",
-    "href": "https://blog.jetbrains.com/webstorm/2013/03/webstorm-6-0-released-adds-typescript-debugging-with-source-maps-fresh-ui-and-much-more/",
-    "description": "WebStorm was among the first cross-platform IDEs to <a href=\"https://blog.jetbrains.com/webstorm/2013/03/webstorm-6-0-released-adds-typescript-debugging-with-source-maps-fresh-ui-and-much-more/\">get support for TypeScript</a>.",
-    "comment": ""
-  },
-  {
     "priority": 3,
     "date": "2013-03-14T00:00:00+00:00",
     "title": "Autoprefixer initial commit",
     "href": "https://github.com/postcss/autoprefixer/commit/d36346effe999e82fa8064076dc5f0e8f37e7e48",
     "description": "Andrey Sitnik created plugin for <a href=\"https://github.com/reworkcss/rework\">Rework project</a> for for automatically adding vendor prefixes in CSS code.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2013-03-06T00:00:00+00:00",
+    "title": "TypeScript tooling starts to catch up",
+    "href": "https://blog.jetbrains.com/webstorm/2013/03/webstorm-6-0-released-adds-typescript-debugging-with-source-maps-fresh-ui-and-much-more/",
+    "description": "WebStorm was among the first cross-platform IDEs to <a href=\"https://blog.jetbrains.com/webstorm/2013/03/webstorm-6-0-released-adds-typescript-debugging-with-source-maps-fresh-ui-and-much-more/\">get support for TypeScript</a>.",
     "comment": ""
   },
   {
@@ -440,7 +448,7 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 1,
     "date": "2010-01-12T00:00:00+00:00",
     "title": "npm was born",
     "href": "https://blog.izs.me/",
@@ -542,14 +550,15 @@
     "href": "https://twitter.com/jackslocum/status/323672362883104768",
     "description": "The version 1.0 of Ext JS, a framework for building interactive cross-platform web applications with Ajax, DHTML and DOM, was released.",
     "comment": ""
-  },{
-  "priority": 1,
-  "date": "2007-01-09T00:00:00+00:00",
-  "title": "Steve Jobs announced iPhone without support Adobe Flash Player",
-  "href": "https://youtu.be/vN4U5FqrOdQ?t=157",
-  "description": "With iPhone Steve presented iPhone version of Safari browser. Supporting for Adobe Flash Player never has been added for Safari on iPhone. It has driven process of HTML5 standardization.",
-  "comment": ""
-},
+  },
+  {
+    "priority": 1,
+    "date": "2007-01-09T00:00:00+00:00",
+    "title": "Steve Jobs announced iPhone without support Adobe Flash Player",
+    "href": "https://youtu.be/vN4U5FqrOdQ?t=157",
+    "description": "With iPhone Steve presented iPhone version of Safari browser. Supporting for Adobe Flash Player never has been added for Safari on iPhone. It has driven process of HTML5 standardization.",
+    "comment": ""
+  },
   {
     "priority": 2,
     "date": "2006-10-18T00:00:00+00:00",
@@ -607,19 +616,19 @@
     "comment": ""
   },
   {
-    "priority": 1,
-    "date": "2005-02-01T00:00:00+00:00",
-    "title": "The rise of MDN",
-    "href": "https://developer.mozilla.org/en-US/docs/MDN_at_ten/History_of_MDN",
-    "description": "Deb Richardson joins Mozilla Corporation and launches the initial <a href=\"https://developer.mozilla.org/\">Mozilla Developer Network</a> in March 2005.",
-    "comment": ""
-  },
-  {
     "priority": 2,
     "date": "2005-02-18T00:00:00+00:00",
     "title": "Jesse James Garrett coins the term Ajax",
     "href": "https://web.archive.org/web/20150910072359/http://adaptivepath.org/ideas/ajax-new-approach-web-applications/",
     "description": "Jesse introduces the new term in an article titled Ajax: A New Approach to Web Applications, based on techniques used on Google pages.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2005-02-01T00:00:00+00:00",
+    "title": "The rise of MDN",
+    "href": "https://developer.mozilla.org/en-US/docs/MDN_at_ten/History_of_MDN",
+    "description": "Deb Richardson joins Mozilla Corporation and launches the initial <a href=\"https://developer.mozilla.org/\">Mozilla Developer Network</a> in March 2005.",
     "comment": ""
   },
   {
@@ -775,7 +784,7 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 1,
     "date": "1996-11-21T00:00:00+00:00",
     "title": "The beginning of JavaScript standardization",
     "href": "https://www.ecma-international.org/archive/ecmascript/1996/TC39/96-001.pdf",
@@ -784,18 +793,18 @@
   },
   {
     "priority": 2,
-    "date": "1996-08-01T00:00:00+00:00",
-    "title": "JavaScript: The Definitive Guide, Beta Version book release",
-    "href": "https://web.archive.org/web/20110913022342/http://shop.oreilly.com/product/9781565921931.do",
-    "description": "David Flanagan wrote one of the first book about JavaScript",
-    "comment": ""
-  },
-  {
-    "priority": 2,
     "date": "1996-08-15T00:00:00+00:00",
     "title": "JavaScript gets its first dialect",
     "href": "",
     "description": "Internet Explorer, the recently introduced browser by Microsoft, gets its own, reverse-engineered alternative to JavaScript and names it JScript. Two almost identical languages, JScript and JavaScript, existed at this time.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "1996-08-01T00:00:00+00:00",
+    "title": "JavaScript: The Definitive Guide, Beta Version book release",
+    "href": "https://web.archive.org/web/20110913022342/http://shop.oreilly.com/product/9781565921931.do",
+    "description": "David Flanagan wrote one of the first book about JavaScript",
     "comment": ""
   },
   {
