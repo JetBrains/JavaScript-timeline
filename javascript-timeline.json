@@ -9,6 +9,14 @@
   },
   {
     "priority": 2,
+    "date": "2020-05-31T00:00:00+00:00",
+    "title": "SpaceX Dragon 2 with JavaScript UI in space",
+    "href": "https://twitter.com/jason_mayes/status/1267227834096861184",
+    "description": "Sofian Hnaide said in AMA <a href=\"https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/ft5zou3/?utm_source=reddit&utm_medium=web2x&context=3\">raddit tread</a>, \"Yes we use Chromium and we do use a reactive library that we developed in house.\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2020-05-27T00:00:00+00:00",
     "title": "WebStorm turns 10",
     "href": "https://www.jetbrains.com/webstorm/",
@@ -32,6 +40,14 @@
     "comment": ""
   },
   {
+    "priority": 1,
+    "date": "2019-12-04T00:00:00+00:00",
+    "title": "Optional Chaining and Nullish Coalescing",
+    "href": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-4.md#optional-chaining-for-stage-4",
+    "description": "Both proposals were moved to stage 4. Syntax was extended with two new operators <code>?.</code> and <code>??</code> which helps to write more safe code",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2019-06-01T00:00:00+00:00",
     "title": "ECMAScript 2019",
@@ -45,6 +61,14 @@
     "title": "Svelte 3 released",
     "href": "https://svelte.dev/blog/svelte-3-rethinking-reactivity",
     "description": "The framework gets a major update, Svelte 3 and starts gaining popularity. Many developers try to understand why this update is important and <a href=\"https://dev.to/zenika/svelte-why-so-much-hype-2k61\">share their thoughts</a> with the community.<br /><br /> \"Compiler frameworks uncover new horizons for the future of the web. Are we heading towards a decline of front-end frameworks as we know them today to make way for compilers? When will this happen? How? Who will be the main actors? It's far too early to say, all this will take time, but one thing is sure, Svelte contributes strongly to this new momentum and makes the web move forward.\"",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2018-10-25T00:00:00+00:00",
+    "title": "React hooks announcement",
+    "href": "https://www.youtube.com/watch?v=dpw9EHDh2bM",
+    "description": "Sophie Alpert, Dan Abramov, and Ryan Florence defined problem with wrapper hell, huge components and confusing classes and showed React hooks.",
     "comment": ""
   },
   {
@@ -88,7 +112,15 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 2,
+    "date": "2017-02-04T00:00:00+00:00",
+    "title": "Nest.js available on npm",
+    "href": "https://www.npmjs.com/package/@nestjs/core/v/1.0.2",
+    "description": "Kamil Mysliwiec created Node.js framework with architecture is heavily inspired by Angular",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2016-11-26T00:00:00+00:00",
     "title": "Version 1 of Svelte",
     "href": "https://svelte.dev/blog/frameworks-without-the-framework",
@@ -120,6 +152,14 @@
     "comment": ""
   },
   {
+    "priority": 1,
+    "date": "2016-05-12T00:00:00+00:00",
+    "title": "First commits to TC39 proposals repository",
+    "href": "https://github.com/tc39/proposals/commit/023a1c80b553fc4daf87877be72d171524db3450",
+    "description": "<a href=\"https://github.com/tc39/proposals\">The repository</a> contains all actual information about stages of proposals to ECMAScript",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2015-09-14T00:00:00+00:00",
     "title": "GraphQL: a data query language",
@@ -144,11 +184,27 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2015-06-02T00:00:00+00:00",
+    "title": "Redux initial release",
+    "href": "https://github.com/reduxjs/redux/releases/tag/v0.2.0",
+    "description": "Redux was created by Dan Abramov and Andrew Clark. Dan began writing the first Redux implementation while preparing for a <a href=\"https://www.youtube.com/watch?v=xsSnOQynTHs\">conference talk at React Europe</a>.<br /><br /> Dan remarks, \"I was trying to make a proof of concept of Flux where I could change the logic. And it would let me time travel. And it would let me reapply the future actions on the code change.\"",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2015-05-08T00:00:00+00:00",
     "title": "NativeScript 1.0.0 released",
     "href": "https://www.i-programmer.info/news/167-javascript/8561-nativescript-100-released.html",
     "description": "Version 1 of NativeScript, an open-source framework that allows you to write native apps for Android, iOS and Windows Phone using JavaScript, has become available.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2015-04-01T00:00:00+00:00",
+    "title": "VS Code released",
+    "href": "https://devblogs.microsoft.com/visualstudio/build-2015-news-visual-studio-code-visual-studio-2015-rc-team-foundation-server-2015-rc-visual-studio-2013-update-5/",
+    "description": "Microsoft announces Visual Studio Code, a new member of the Visual Studio family, at its annual conference Build. The new code editor was built using the Electron framework.",
     "comment": ""
   },
   {
@@ -168,6 +224,14 @@
     "comment": ""
   },
   {
+    "priority": 1,
+    "date": "2014-09-28T00:00:00+00:00",
+    "title": "First commit to Babel.js",
+    "href": "https://github.com/babel/babel/commit/c97696c224d718d96848df9e1577f337b45464be#diff-7ae45ad102eab3b6d7e7896acd08c427a9b25b346470d7bc6507b6481575d519",
+    "description": "Sebastian McKenzie started project with '6to5' name above <a href=\"https://github.com/acornjs/acorn\">acornjs parser</a> for transpiling new version of ECMAScript for old browsers.",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2014-02-26T00:00:00+00:00",
     "title": "Atom, text editor built on Electron",
@@ -184,6 +248,22 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2013-11-05T00:00:00+00:00",
+    "title": "PostCSS was released",
+    "href": "https://twitter.com/Autoprefixer/status/397483117088223232",
+    "description": "Andrey Sitnik create PostCSS for replacing <a href=\"https://github.com/reworkcss/rework\">Rework project</a> in <a href=\"https://github.com/postcss/autoprefixer\">Autoprefixer</a>",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2013-07-18T00:00:00+00:00",
+    "title": "First commit in core-js repository",
+    "href": "https://github.com/zloirock/core-js/commit/faebf39ec88842a83c3e97ab1240351d4355f99c",
+    "description": "Denis Pushkarev started the project for system polyfilling new features of JavaScript.",
+    "comment": ""
+  },
+  {
     "priority": 1,
     "date": "2013-07-15T00:00:00+00:00",
     "title": "GitHub introduces Electron",
@@ -197,6 +277,14 @@
     "title": "First gulp release",
     "href": "https://libraries.io/npm/gulp",
     "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2013-06-30T00:00:00+00:00",
+    "title": "First ESLint release",
+    "href": "https://en.wikipedia.org/wiki/ESLint#History",
+    "description": "Both <a href=\"https://en.wikipedia.org/wiki/JSLint\">JSLint</a> and <a href=\"https://en.wikipedia.org/wiki/JSHint\">JSHint</a> were lacking the ability to create additional rules for code quality and coding style. After contributing to JSHint, Nicholas C. Zakas decided to create a new linting tool where all rules are configurable, and additional rules can be defined or loaded at run-time.",
     "comment": ""
   },
   {
@@ -224,11 +312,35 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2013-03-14T00:00:00+00:00",
+    "title": "Autoprefixer initial commit",
+    "href": "https://github.com/postcss/autoprefixer/commit/d36346effe999e82fa8064076dc5f0e8f37e7e48",
+    "description": "Andrey Sitnik created plugin for <a href=\"https://github.com/reworkcss/rework\">Rework project</a> for for automatically adding vendor prefixes in CSS code.",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2013-03-06T00:00:00+00:00",
     "title": "TypeScript tooling starts to catch up",
     "href": "https://blog.jetbrains.com/webstorm/2013/03/webstorm-6-0-released-adds-typescript-debugging-with-source-maps-fresh-ui-and-much-more/",
     "description": "WebStorm was among the first cross-platform IDEs to <a href=\"https://blog.jetbrains.com/webstorm/2013/03/webstorm-6-0-released-adds-typescript-debugging-with-source-maps-fresh-ui-and-much-more/\">get support for TypeScript</a>.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2012-12-01T00:00:00+00:00",
+    "title": "ECMAScript Internationalization API Specification 1st Edition",
+    "href": "https://www.ecma-international.org/ecma-402/1.0/",
+    "description": "\"The ECMAScript Internationalization API provides key language-sensitive functionality as a complement to the ECMAScript Language Specification, 5.1 edition or successor. Its functionality has been selected from that of well-established internationalization APIs such as those of the Internationalization Components for Unicode (ICU) library, of the .NET framework, or of the Java platform.<br /><br />The API was developed by an ad-hoc group established by Ecma TC 39 in September 2010 based on a proposal by Nebojša Ćirić and Jungshik Shin.\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2012-10-24T00:00:00+00:00",
+    "title": "Promises/A+ specification initial commit",
+    "href": "https://github.com/promises-aplus/promises-spec/commit/2057129ce72ae77188f4c26115035d37d46d5268",
+    "description": "An open standard for sound, interoperable JavaScript promises—by implementers, for implementers.",
     "comment": ""
   },
   {
@@ -256,7 +368,7 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 1,
     "date": "2012-03-10T00:00:00+00:00",
     "title": "webpack module bundler",
     "href": "",
@@ -280,6 +392,14 @@
     "comment": ""
   },
   {
+    "priority": 1,
+    "date": "2011-05-11T00:00:00+00:00",
+    "title": "WebKit Remote Debugging",
+    "href": "https://web.archive.org/web/20110512002552/http://www.webkit.org/blog/1620/webkit-remote-debugging/",
+    "description": "WebKit Remote Debugging opened new era for debugging mobile browsers. In future it'll transform to <a href=\"https://chromedevtools.github.io/devtools-protocol/\">Chrome DevTools Protocol</a>.",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2011-04-30T00:00:00+00:00",
     "title": "The first commit of Ember.js",
@@ -293,6 +413,14 @@
     "title": "IE6 Countdown",
     "href": "",
     "description": "Microsoft launches a website called <a href=\"https://web.archive.org/web/20141217174028/https://www.modern.ie/en-us/ie6countdown\">IE6 Countdown</a> which would show the usage of Internet Explorer 6 in the world to motivate people to upgrade.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2011-02-09T00:00:00+00:00",
+    "title": "rx first publication on npm",
+    "href": "https://www.npmjs.com/package/rx/v/0.0.1",
+    "description": "Set of libraries to compose asynchronous and event-based programs using observable collections.",
     "comment": ""
   },
   {
@@ -313,6 +441,14 @@
   },
   {
     "priority": 3,
+    "date": "2010-05-12T00:00:00+00:00",
+    "title": "Test262: ECMAScript Test Suite initial contribution",
+    "href": "https://github.com/tc39/proposals/commit/023a1c80b553fc4daf87877be72d171524db3450",
+    "description": "Test262 is the implementation conformance test suite for the latest drafts (or most recent published edition) of the following Ecma specifications: <a href=\"https://tc39.github.io/ecma262/\">ECMA-262</a>, <a href=\"https://tc39.github.io/ecma402/\">ECMA-402</a>, <a href=\"https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf\">ECMA-404</a>",
+    "comment": ""
+  },
+  {
+    "priority": 1,
     "date": "2010-01-12T00:00:00+00:00",
     "title": "npm was born",
     "href": "https://blog.izs.me/",
@@ -345,6 +481,14 @@
   },
   {
     "priority": 3,
+    "date": "2009-11-05T00:00:00+00:00",
+    "title": "Google Closure Compiler release",
+    "href": "http://googlecode.blogspot.com/2009/11/introducing-closure-tools.html",
+    "description": "Google Closure Compiler still stay one of the best JavaScript code minifier with amazing dead code elimination ability",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2009-09-01T00:00:00+00:00",
     "title": "RequireJS module loader",
     "href": "https://requirejs.org/docs/history.html",
@@ -352,7 +496,7 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 2,
     "date": "2009-06-26T00:00:00+00:00",
     "title": "Work on Express.js started",
     "href": "https://github.com/expressjs/express/commit/9998490f93d3ad3d56c00d23c0aa13fac41c3f6b",
@@ -384,6 +528,14 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2008-05-01T00:00:00+00:00",
+    "title": "JavaScript: The Good Parts book release",
+    "href": "https://www.oreilly.com/library/view/javascript-the-good/9780596517748/",
+    "description": "One of the most popular book about JavaScript. It was written by Douglas Crockford",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2008-01-22T00:00:00+00:00",
     "title": "HTML5 first public working draft",
@@ -400,11 +552,35 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 1,
+    "date": "2007-01-09T00:00:00+00:00",
+    "title": "Steve Jobs announced iPhone without support Adobe Flash Player",
+    "href": "https://youtu.be/vN4U5FqrOdQ?t=157",
+    "description": "With iPhone Steve presented iPhone version of Safari browser. Supporting for Adobe Flash Player never has been added for Safari on iPhone. It has driven process of HTML5 standardization.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2006-10-18T00:00:00+00:00",
     "title": "Microsoft restarts IE development",
     "href": "",
     "description": "Internet Explorer gets the first major update since 2001.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2006-05-16T00:00:00+00:00",
+    "title": "Google Web Toolkit release",
+    "href": "https://webtoolkit.googleblog.com/2006/05/welcome-to-gwt-blog.html",
+    "description": "One of the first toolchains for compiling Java to JavaScript.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2006-02-13T00:00:00+00:00",
+    "title": "YUI Library release",
+    "href": "https://web.archive.org/web/20060315153416/http://yuiblog.com/blog/2006/02/13/welcome-to-the-yahoo-user-interface-blog/",
+    "description": "YUI contained a lot of <a href=\"https://en.wikipedia.org/wiki/YUI_Library#Features\">components</a> and one of the first minifiers of JavaScript code: <a href=\"https://github.com/yui/yuicompressor\">YUI Compressor</a>.",
     "comment": ""
   },
   {
@@ -440,6 +616,14 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2005-02-18T00:00:00+00:00",
+    "title": "Jesse James Garrett coins the term Ajax",
+    "href": "https://web.archive.org/web/20150910072359/http://adaptivepath.org/ideas/ajax-new-approach-web-applications/",
+    "description": "Jesse introduces the new term in an article titled Ajax: A New Approach to Web Applications, based on techniques used on Google pages.",
+    "comment": ""
+  },
+  {
     "priority": 1,
     "date": "2005-02-01T00:00:00+00:00",
     "title": "The rise of MDN",
@@ -449,10 +633,10 @@
   },
   {
     "priority": 2,
-    "date": "2005-02-18T00:00:00+00:00",
-    "title": "Jesse James Garrett coins the term Ajax",
-    "href": "https://web.archive.org/web/20150910072359/http://adaptivepath.org/ideas/ajax-new-approach-web-applications/",
-    "description": "Jesse introduces the new term in an article titled Ajax: A New Approach to Web Applications, based on techniques used on Google pages.",
+    "date": "2004-06-04T00:00:00+00:00",
+    "title": "WHATWG Formation",
+    "href": "https://en.wikipedia.org/wiki/WHATWG#History",
+    "description": "The WHATWG was founded by individuals from Apple Inc., the Mozilla Foundation and Opera Software, leading Web browser vendors in response to the slow development of W3C.",
     "comment": ""
   },
   {
@@ -485,6 +669,14 @@
     "title": "Mozilla Firefox released",
     "href": "",
     "description": "Internet Explorer, which has been dominating the market of web browsers since early 2000s, is about to start losing a part of its market share to a new web browser, <a href=\"https://www.wired.com/2012/09/happy-birthday-firefox-the-little-web-browser-that-could-turns-10/\">Mozilla Firefox</a>.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2002-06-01T00:00:00+00:00",
+    "title": "JSLint",
+    "href": "https://en.wikipedia.org/wiki/JSLint",
+    "description": "JSLint by Douglas Crockford is considered by some to be the first JavaScript syntax checker. It has since inspired various other tools.",
     "comment": ""
   },
   {
@@ -525,6 +717,14 @@
     "title": "Flash Player 5 released with ActionScript",
     "href": "",
     "description": "Flash Player 5 included the first version of ActionScript. This version was influenced by JavaScript and the ECMA-262 standard and supported the standard's object model and many of its core data types.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2000-02-01T00:00:00+00:00",
+    "title": "XSS mentioned in CERT®",
+    "href": "https://web.archive.org/web/20100516115740/http://www.cert.org/advisories/CA-2000-02.html",
+    "description": "XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users. Almost all popular web services had XSS problems. ",
     "comment": ""
   },
   {
@@ -584,7 +784,7 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 1,
     "date": "1996-11-21T00:00:00+00:00",
     "title": "The beginning of JavaScript standardization",
     "href": "https://www.ecma-international.org/archive/ecmascript/1996/TC39/96-001.pdf",
@@ -597,6 +797,14 @@
     "title": "JavaScript gets its first dialect",
     "href": "",
     "description": "Internet Explorer, the recently introduced browser by Microsoft, gets its own, reverse-engineered alternative to JavaScript and names it JScript. Two almost identical languages, JScript and JavaScript, existed at this time.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "1996-08-01T00:00:00+00:00",
+    "title": "JavaScript: The Definitive Guide, Beta Version book release",
+    "href": "https://web.archive.org/web/20110913022342/http://shop.oreilly.com/product/9781565921931.do",
+    "description": "David Flanagan wrote one of the first book about JavaScript",
     "comment": ""
   },
   {
