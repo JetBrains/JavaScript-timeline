@@ -32,6 +32,14 @@
     "comment": ""
   },
   {
+    "priority": 1,
+    "date": "2019-12-04T00:00:00+00:00",
+    "title": "Optional Chaining and Nullish Coalescing",
+    "href": "https://github.com/tc39/notes/blob/master/meetings/2019-12/december-4.md#optional-chaining-for-stage-4",
+    "description": "Both proposals were moved to stage 4. Syntax was extended with two new operators <code>?.</code> and <code>??</code> which helps to write more safe code",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2019-06-01T00:00:00+00:00",
     "title": "ECMAScript 2019",
@@ -45,6 +53,14 @@
     "title": "Svelte 3 released",
     "href": "https://svelte.dev/blog/svelte-3-rethinking-reactivity",
     "description": "The framework gets a major update, Svelte 3 and starts gaining popularity. Many developers try to understand why this update is important and <a href=\"https://dev.to/zenika/svelte-why-so-much-hype-2k61\">share their thoughts</a> with the community.<br /><br /> \"Compiler frameworks uncover new horizons for the future of the web. Are we heading towards a decline of front-end frameworks as we know them today to make way for compilers? When will this happen? How? Who will be the main actors? It's far too early to say, all this will take time, but one thing is sure, Svelte contributes strongly to this new momentum and makes the web move forward.\"",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2018-10-25T00:00:00+00:00",
+    "title": "React hooks announcement",
+    "href": "https://www.youtube.com/watch?v=dpw9EHDh2bM",
+    "description": "Sophie Alpert, Dan Abramov, and Ryan Florence defined problem with wrapper hell, huge components and confusing classes and showed React hooks.",
     "comment": ""
   },
   {
@@ -66,7 +82,7 @@
   {
     "priority": 1,
     "date": "2018-05-01T00:00:00+00:00",
-    "title": "ECMAScript 2018",
+    "title": "Ryan Dahl presents the prototype of Deno",
     "href": "https://youtu.be/M3BM9TB-8yA",
     "description": "Ryan Dahl, the creator of Node.js, gives a talk at JSConf EU 2018 and introduces Deno, a new runtime for JavaScript and TypeScript. The talk was called <a href=\"https://youtu.be/M3BM9TB-8yA\">10 Things I Regret About Node.js</a> and is still available on YouTube.",
     "comment": ""
@@ -85,6 +101,14 @@
     "title": "Prettier 1.0 released",
     "href": "https://jlongster.com/prettier-1.0",
     "description": "Christopher Chedeau and James Long publish a blog post about Prettier 1.0 release.<br /><br /> \"We officially announced prettier over two months ago as a way to solve the problem of wasting time formatting your code. It started as an experiment but it clearly resonated with a lot of people, amassing ~7000 GitHub stars and over 100,000 monthly npm downloads in just two months.\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2017-02-04T00:00:00+00:00",
+    "title": "Nest.js available on npm",
+    "href": "https://www.npmjs.com/package/@nestjs/core/v/1.0.2",
+    "description": "Kamil Mysliwiec created Node.js framework with architecture is heavily inspired by Angular",
     "comment": ""
   },
   {
@@ -148,7 +172,15 @@
     "date": "2015-06-01T00:00:00+00:00",
     "title": "ES2015, big ECMAScript update",
     "href": "http://www.ecma-international.org/ecma-262/6.0/index.html",
-    "description": "",
+    "description": "The 6th edition, initially known as ECMAScript 6 was later renamed to ECMAScript 2015, or ES2015. This big update included arrow function expressions, let and const keywords, class declaration, promises, and many other improvements.<br /><br />Starting from this edition, ECMAScript would also get regular updates each year.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2015-06-02T00:00:00+00:00",
+    "title": "Redux initial release",
+    "href": "https://github.com/reduxjs/redux/releases/tag/v0.2.0",
+    "description": "Redux was created by Dan Abramov and Andrew Clark. Dan began writing the first Redux implementation while preparing for a <a href=\"https://www.youtube.com/watch?v=xsSnOQynTHs\">conference talk at React Europe</a>.<br /><br /> Dan remarks, \"I was trying to make a proof of concept of Flux where I could change the logic. And it would let me time travel. And it would let me reapply the future actions on the code change.\"",
     "comment": ""
   },
   {
@@ -197,6 +229,14 @@
     "title": "Vue.js released by Evan You",
     "href": "https://web.archive.org/web/20170603052649/https://betweenthewires.org/2016/11/03/evan-you/",
     "description": "\"I figured, what if I could just extract the part that I really liked about Angular and build something really lightweight without all the extra concepts involved? I was also curious as to how its internal implementation worked. I started this experiment just trying to replicate this minimal feature set, like declarative data binding. That was basically how Vue started.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2013-11-05T00:00:00+00:00",
+    "title": "PostCSS was released",
+    "href": "https://twitter.com/Autoprefixer/status/397483117088223232",
+    "description": "Andrey Sitnik create PostCSS for replacing <a href=\"https://github.com/reworkcss/rework\">Rework project</a> in <a href=\"https://github.com/postcss/autoprefixer\">Autoprefixer</a>",
     "comment": ""
   },
   {
@@ -256,6 +296,22 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2013-03-14T00:00:00+00:00",
+    "title": "Autoprefixer initial commit",
+    "href": "https://github.com/postcss/autoprefixer/commit/d36346effe999e82fa8064076dc5f0e8f37e7e48",
+    "description": "Andrey Sitnik created plugin for <a href=\"https://github.com/reworkcss/rework\">Rework project</a> for for automatically adding vendor prefixes in CSS code.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2012-12-01T00:00:00+00:00",
+    "title": "ECMAScript Internationalization API Specification 1st Edition",
+    "href": "https://www.ecma-international.org/ecma-402/1.0/",
+    "description": "\"The ECMAScript Internationalization API provides key language-sensitive functionality as a complement to the ECMAScript Language Specification, 5.1 edition or successor. Its functionality has been selected from that of well-established internationalization APIs such as those of the Internationalization Components for Unicode (ICU) library, of the .NET framework, or of the Java platform.<br /><br />The API was developed by an ad-hoc group established by Ecma TC 39 in September 2010 based on a proposal by Nebojša Ćirić and Jungshik Shin.\"",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2012-10-24T00:00:00+00:00",
     "title": "Promises/A+ specification initial commit",
@@ -288,7 +344,7 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 1,
     "date": "2012-03-01T00:00:00+00:00",
     "title": "webpack module bundler",
     "href": "https://en.wikipedia.org/wiki/Webpack",
@@ -312,6 +368,14 @@
     "comment": ""
   },
   {
+    "priority": 1,
+    "date": "2011-05-11T00:00:00+00:00",
+    "title": "WebKit Remote Debugging",
+    "href": "https://web.archive.org/web/20110512002552/http://www.webkit.org/blog/1620/webkit-remote-debugging/",
+    "description": "WebKit Remote Debugging opened new era for debugging mobile browsers. In future it'll transform to <a href=\"https://chromedevtools.github.io/devtools-protocol/\">Chrome DevTools Protocol</a>.",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2011-04-01T00:00:00+00:00",
     "title": "The first commit of Ember.js",
@@ -325,6 +389,14 @@
     "title": "IE6 Countdown",
     "href": "https://web.archive.org/web/20141217174028/https://www.modern.ie/en-us/ie6countdown",
     "description": "Microsoft launches a website called <a href=\"https://web.archive.org/web/20141217174028/https://www.modern.ie/en-us/ie6countdown\">IE6 Countdown</a> which would show the usage of Internet Explorer 6 in the world to motivate people to upgrade.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2011-02-09T00:00:00+00:00",
+    "title": "rx first publication on npm",
+    "href": "https://www.npmjs.com/package/rx/v/0.0.1",
+    "description": "Set of libraries to compose asynchronous and event-based programs using observable collections.",
     "comment": ""
   },
   {
@@ -473,7 +545,7 @@
   {
     "priority": 3,
     "date": "2006-05-16T00:00:00+00:00",
-    "title": "Google Web Toolkit",
+    "title": "Google Web Toolkit release",
     "href": "https://webtoolkit.googleblog.com/2006/05/welcome-to-gwt-blog.html",
     "description": "One of the first toolchains for compiling Java to JavaScript.",
     "comment": ""
@@ -623,6 +695,14 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2000-02-01T00:00:00+00:00",
+    "title": "XSS mentioned in CERT®",
+    "href": "https://web.archive.org/web/20100516115740/http://www.cert.org/advisories/CA-2000-02.html",
+    "description": "XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users. Almost all popular web services had XSS problems. ",
+    "comment": ""
+  },
+  {
     "priority": 1,
     "date": "1999-12-01T00:00:00+00:00",
     "title": "ECMAScript 3 released",
@@ -679,7 +759,7 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 2,
     "date": "1996-11-01T00:00:00+00:00",
     "title": "The beginning of JavaScript standartization",
     "href": "https://youtu.be/3-9fnjzmXWA",
@@ -687,7 +767,7 @@
     "comment": ""
   },
   {
-    "priority": 1,
+    "priority": 2,
     "date": "1996-08-01T00:00:00+00:00",
     "title": "JavaScript: The Definitive Guide, Beta Version book release",
     "href": "https://web.archive.org/web/20110913022342/http://shop.oreilly.com/product/9781565921931.do",
