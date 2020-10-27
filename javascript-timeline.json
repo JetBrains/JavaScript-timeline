@@ -1,5 +1,13 @@
 [
   {
+    "priority": 2,
+    "date": "2020-09-19T00:00:00+00:00",
+    "title": "Vue.js 3.0 \"One Piece\" release",
+    "href": "https://github.com/vuejs/vue-next/releases/tag/v3.0.0",
+    "description": "\"The 3.0 release represents over 2 years of development efforts, featuring 30+ RFCs, 2,600+ commits, 628 pull requests from 99 contributors, plus tremendous amount of development and documentation work outside of the core repo.\"",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2020-06-01T00:00:00+00:00",
     "title": "ECMAScript 2020",
@@ -104,11 +112,27 @@
     "comment": ""
   },
   {
-    "priority": 1,
+    "priority": 3,
+    "date": "2017-05-25T00:00:00+00:00",
+    "title": "npm v5.0.0 released with package-lock.json",
+    "href": "https://blog.npmjs.org/post/161081169345/v500",
+    "description": "\"A new, standardised lockfile feature meant for cross-package-manager compatibility (package-lock.json), and a new format and semantics for shrinkwrap\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2017-04-13T00:00:00+00:00",
     "title": "Prettier 1.0 released",
     "href": "https://jlongster.com/prettier-1.0",
     "description": "Christopher Chedeau and James Long publish a blog post about Prettier 1.0 release.<br /><br /> \"We officially announced prettier over two months ago as a way to solve the problem of wasting time formatting your code. It started as an experiment but it clearly resonated with a lot of people, amassing ~7000 GitHub stars and over 100,000 monthly npm downloads in just two months.\"",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2017-03-13T00:00:00+00:00",
+    "title": "Temporal proposal initial commit",
+    "href": "https://github.com/tc39/proposal-temporal/commit/8a171d1661babda716251250fbdb4dd39f2dd1c2",
+    "description": "Maggie Johnson-Pint started motivation with, \"Date has been a long time pain point in ECMAScript. This proposes 'temporal', a built in module that brings a DateTime API similar to Java 8's to the ECMAScript language.\"",
     "comment": ""
   },
   {
@@ -145,6 +169,14 @@
   },
   {
     "priority": 2,
+    "date": "2016-07-26T00:00:00+00:00",
+    "title": "async/await",
+    "href": "https://github.com/tc39/notes/blob/master/meetings/2016-07/jul-28.md#10iv-async-functions",
+    "description": "Async Functions proposal was moved to stage 4",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2016-06-01T00:00:00+00:00",
     "title": "ECMAScript 2016 finalized",
     "href": "http://www.ecma-international.org/ecma-262/7.0/index.html",
@@ -176,11 +208,11 @@
     "comment": ""
   },
   {
-    "priority": 1,
-    "date": "2015-06-01T00:00:00+00:00",
-    "title": "ES2015, big ECMAScript update",
-    "href": "http://www.ecma-international.org/ecma-262/6.0/index.html",
-    "description": "The 6th edition, initially known as ECMAScript 6 was later renamed to ECMAScript 2015, or ES2015. This big update included arrow function expressions, let and const keywords, class declaration, promises, and many other improvements.<br /><br /> Starting from this edition, ECMAScript would also get regular updates each year.",
+    "priority": 3,
+    "date": "2015-06-02T00:00:00+00:00",
+    "title": "npm v3.0.0 release with flat dependencies",
+    "href": "https://github.com/npm/npm/releases/tag/v3.0.0",
+    "description": "\"Flat, flat, flat!<br />Your dependencies will now be installed maximally flat. Insofar as is possible, all of your dependencies, and their dependencies, and THEIR dependencies will be installed in your project's node_modules folder with no nesting. You'll only see modules nested underneath one another when two (or more) modules have conflicting dependencies.\"",
     "comment": ""
   },
   {
@@ -192,19 +224,19 @@
     "comment": ""
   },
   {
+    "priority": 1,
+    "date": "2015-06-01T00:00:00+00:00",
+    "title": "ES2015, big ECMAScript update",
+    "href": "http://www.ecma-international.org/ecma-262/6.0/index.html",
+    "description": "The 6th edition, initially known as ECMAScript 6 was later renamed to ECMAScript 2015, or ES2015. This big update included arrow function expressions, let and const keywords, class declaration, promises, generators and many other improvements.<br /><br /> Starting from this edition, ECMAScript would also get regular updates each year.",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2015-05-08T00:00:00+00:00",
     "title": "NativeScript 1.0.0 released",
     "href": "https://www.i-programmer.info/news/167-javascript/8561-nativescript-100-released.html",
     "description": "Version 1 of NativeScript, an open-source framework that allows you to write native apps for Android, iOS and Windows Phone using JavaScript, has become available.",
-    "comment": ""
-  },
-  {
-    "priority": 2,
-    "date": "2015-04-01T00:00:00+00:00",
-    "title": "VS Code released",
-    "href": "https://devblogs.microsoft.com/visualstudio/build-2015-news-visual-studio-code-visual-studio-2015-rc-team-foundation-server-2015-rc-visual-studio-2013-update-5/",
-    "description": "Microsoft announces Visual Studio Code, a new member of the Visual Studio family, at its annual conference Build. The new code editor was built using the Electron framework.",
     "comment": ""
   },
   {
@@ -240,7 +272,7 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 1,
     "date": "2014-02-11T00:00:00+00:00",
     "title": "Vue.js released by Evan You",
     "href": "https://web.archive.org/web/20170603052649/https://betweenthewires.org/2016/11/03/evan-you/",
@@ -352,6 +384,14 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2012-10-01T00:00:00+00:00",
+    "title": "Bower initial release",
+    "href": "https://github.com/bower/bower/commit/c22032933740e6ed4021f798fd579c7d4e961f7a",
+    "description": "Twitter made the package manager for the web. Bower tried to build flat dependency tree.",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2012-04-11T00:00:00+00:00",
     "title": "Meteor officially launched",
@@ -417,6 +457,14 @@
   },
   {
     "priority": 3,
+    "date": "2011-03-04T00:00:00+00:00",
+    "title": "Moment.js release",
+    "href": "https://github.com/moment/moment/commit/7c014e633a8cb9c077d29f9cec952d08356d1d78",
+    "description": "Tim Wood released one of the popular library for working with dates.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2011-02-09T00:00:00+00:00",
     "title": "rx first publication on npm",
     "href": "https://www.npmjs.com/package/rx/v/0.0.1",
@@ -426,9 +474,17 @@
   {
     "priority": 2,
     "date": "2010-10-20T00:00:00+00:00",
-    "title": "Backbone.js and AngularJS released",
-    "href": "",
-    "description": "Released just a week apart from each other, Backbone.js and AngularJS were designed specifically for building single-page apps with JavaScript.",
+    "title": "AngularJS released",
+    "href": "https://web.archive.org/web/20101117165321/http://www.getangular.com/",
+    "description": "AngularJS was originally developed in 2009 by Miško Hevery",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2010-10-13T00:00:00+00:00",
+    "title": "Backbone.js released",
+    "href": "https://github.com/jashkenas/backbone/tree/0.1.0",
+    "description": "Jeremy Ashkenas released Backbone.js which was designed specifically for building single-page apps with JavaScript.",
     "comment": ""
   },
   {
@@ -605,6 +661,14 @@
     "title": "Apple open sources WebKit",
     "href": "https://dot.kde.org/2005/06/07/apple-opens-webkit-cvs-and-bug-database",
     "description": "Apple announces the immediate availability of the WebKit Open Source Project, their fork of KHTML.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2005-05-01T00:00:00+00:00",
+    "title": "Adobe Photoshop CS2 release with JavaScript as one of scripting languages",
+    "href": "https://www.adobe.com/content/dam/acom/en/devnet/photoshop/scripting/JavaScriptReferenceGuide.pdf",
+    "description": "\"All of the Adobe Creative Suite 2 applications, including Adobe Photoshop CS2, use ExtendScript, Adobe’s extended implementation of JavaScript. ExtendScript files are distinguished by the .jsx extension. ExtendScript offers all standard JavaScript features, plus additional features and utilities\"",
     "comment": ""
   },
   {
