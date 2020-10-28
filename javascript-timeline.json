@@ -57,6 +57,14 @@
   },
   {
     "priority": 3,
+    "date": "2019-07-11T00:00:00+00:00",
+    "title": "Facebook is open sourcing Hermes",
+    "href": "https://twitter.com/reactnative/status/1149347916877901824",
+    "description": "JavaScript engine optimized for fast start-up of React Native apps on Android. It features ahead-of-time static optimization and compact bytecode.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2019-06-01T00:00:00+00:00",
     "title": "ECMAScript 2019",
     "href": "http://www.ecma-international.org/ecma-262/10.0/index.html",
@@ -69,6 +77,22 @@
     "title": "Svelte 3 released",
     "href": "https://svelte.dev/blog/svelte-3-rethinking-reactivity",
     "description": "The framework gets a major update, Svelte 3 and starts gaining popularity. Many developers try to understand why this update is important and <a href=\"https://dev.to/zenika/svelte-why-so-much-hype-2k61\">share their thoughts</a> with the community.<br /><br /> \"Compiler frameworks uncover new horizons for the future of the web. Are we heading towards a decline of front-end frameworks as we know them today to make way for compilers? When will this happen? How? Who will be the main actors? It's far too early to say, all this will take time, but one thing is sure, Svelte contributes strongly to this new momentum and makes the web move forward.\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2018-12-13T00:00:00+00:00",
+    "title": "Private class fields are shipping in Chrome 72",
+    "href": "https://v8.dev/features/class-fields#private-class-fields",
+    "description": "JavaScript has difficult history of object private fields emulation. In <a href=\"https://github.com/tc39/proposal-class-fields#private-fields\">proposal \"Class field declarations for JavaScript\"</a> it was solved for classes and V8 developers implemented it V8 v7.2. For it syntax was extended with <code>#</code> symbol for private fields definition.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2018-12-06T00:00:00+00:00",
+    "title": "Microsoft Edge move to Chromium announce",
+    "href": "https://github.com/MicrosoftEdge/MSEdge/blob/7d69268e85e198cee1c2b452d888ac5b9e5995ca/README.md",
+    "description": "Soon Edge would be available on Linux and MacOS. (For MacOS first time since IE5.)",
     "comment": ""
   },
   {
@@ -208,6 +232,14 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2015-12-05T00:00:00+00:00",
+    "title": "ChakraCore open sourcing announce",
+    "href": "https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/",
+    "description": "Microsoft Edge’s JavaScript engine to go open-source.",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2015-09-14T00:00:00+00:00",
     "title": "GraphQL: a data query language",
@@ -304,6 +336,14 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2013-09-26T00:00:00+00:00",
+    "title": "Espruino source code released",
+    "href": "https://www.kickstarter.com/projects/gfw/espruino-javascript-for-things/posts/610483",
+    "description": "Gordon Williams released open-source JavaScript interpreter for microcontrollers.",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2013-07-18T00:00:00+00:00",
     "title": "First commit to the core-js repository",
@@ -377,6 +417,14 @@
   },
   {
     "priority": 2,
+    "date": "2013-03-06T00:00:00+00:00",
+    "title": "Opera moved to WebKit and V8",
+    "href": "https://dev.opera.com/blog/300-million-users-and-move-to-webkit/",
+    "description": "Opera switched own browser engine <a href=\"https://en.wikipedia.org/wiki/Presto_(browser_engine)\">Presto</a> to <a href=\"https://en.wikipedia.org/wiki/Blink_(browser_engine)\">Blink</a> for desktop browser.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2012-12-01T00:00:00+00:00",
     "title": "ECMAScript Internationalization API Specification 1st Edition",
     "href": "https://www.ecma-international.org/ecma-402/1.0/",
@@ -417,6 +465,14 @@
   },
   {
     "priority": 3,
+    "date": "2012-04-02T00:00:00+00:00",
+    "title": "Johnny-Five started",
+    "href": "https://github.com/rwaldron/johnny-five/commit/0e8b94cb45524519dc2b12770fd2fdfa5227fc17",
+    "description": "Rick Waldron starts JavaScript robotics programming framework.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2012-03-29T00:00:00+00:00",
     "title": "Grunt introduced",
     "href": "https://bocoup.com/blog/introducing-grunt",
@@ -429,6 +485,14 @@
     "title": "webpack module bundler",
     "href": "",
     "description": "webpack, a new static module bundler for JavaScript applications, is introduced.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2011-10-23T00:00:00+00:00",
+    "title": "Centralization information about UMD",
+    "href": "https://github.com/umdjs/umd/commit/d0657cb76bdef3e6f267895a20fb18181a0d3d58",
+    "description": "Addy Osmani writes, <br/>\"To date, a number of UMD variations have been proposed, ranging from Kit-Cambridge's UMD at https://gist.github.com/1251221, through to patterns discussed by Thomas Davis, Ryan Florence and I here  https://github.com/addyosmani/jquery-plugin-patterns/issues/1 and most recently the UMD patterns proposed by JR Burke here https://gist.github.com/1262861. The latter of these\npatterns will likely form the basis of the UMD we recommend actually using in production and more details about any proposed patterns will be documented as they're finalized.\"",
     "comment": ""
   },
   {
@@ -489,10 +553,34 @@
   },
   {
     "priority": 2,
+    "date": "2011-02-03T00:00:00+00:00",
+    "title": "Browserify v0.0.1",
+    "href": "https://www.npmjs.com/package/browserify/v/0.0.1",
+    "description": "Browserify provides browsers <code>require()</code> for npm packages.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2011-01-23T00:00:00+00:00",
+    "title": "PhantomJS release",
+    "href": "http://ariya.blogspot.com/2011/01/phantomjs-minimalistic-headless-webkit.html",
+    "description": "Ariya Hidayat after several years in development released headless browser based on WebKit and used for automating web page interaction with JavaScript API.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2010-10-20T00:00:00+00:00",
     "title": "AngularJS released",
     "href": "https://web.archive.org/web/20101117165321/http://www.getangular.com/",
     "description": "AngularJS was originally developed in 2009 by Miško Hevery",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2010-10-19T00:00:00+00:00",
+    "title": "File API shipped in Chrome&nbsp;7.0.517.41",
+    "href": "https://chromereleases.googleblog.com/2010/10/stable-channel-update.html",
+    "description": "First release of one of the most important part of HTML5 standard.",
     "comment": ""
   },
   {
@@ -688,11 +776,27 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 1,
     "date": "2006-01-14T00:00:00+00:00",
     "title": "Initial release of jQuery",
     "href": "https://jquery.org/history/",
     "description": "John Resig makes the initial release of jQuery, a JavaScript library that makes it easier to navigate the HTML DOM and manipulate it.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2006-01-12T00:00:00+00:00",
+    "title": "Firebug v0.2",
+    "href": "https://web.archive.org/web/20170821212017/https://addons.mozilla.org/en-US/firefox/addon/firebug/versions/?page=4#version-0.2",
+    "description": "First friendly JavaScript debugger in browser was released by Joe Hewitt as Firefox extension.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2005-11-10T00:00:00+00:00",
+    "title": "Opera Mini launched in Germany",
+    "href": "https://web.archive.org/web/20081006230846/http://opera.com/pressreleases/en/2005/11/10/",
+    "description": "Opera Mini uses a proxy servers to translate HTML, CSS and JavaScript into a more compact format <a href=\"https://dev.opera.com/articles/opera-binary-markup-language/\">OBML</a>. Opera Mini could execute small subset of JavaScript and had done it on servers side.",
     "comment": ""
   },
   {
@@ -704,7 +808,7 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 1,
     "date": "2005-06-07T00:00:00+00:00",
     "title": "Apple open sources WebKit",
     "href": "https://dot.kde.org/2005/06/07/apple-opens-webkit-cvs-and-bug-database",
