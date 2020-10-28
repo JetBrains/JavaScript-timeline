@@ -40,6 +40,14 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2020-02-06T00:00:00+00:00",
+    "title": "Angular 9.0.0 with Ivy",
+    "href": "https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3",
+    "description": "\"This release switches applications to the Ivy compiler and runtime by default.\"",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2019-12-06T00:00:00+00:00",
     "title": "WebAssembly 1.0 to be the fourth language to run natively in browsers",
@@ -128,6 +136,14 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2018-05-02T00:00:00+00:00",
+    "title": "BigInts in V8",
+    "href": "https://v8.dev/blog/bigint",
+    "description": "<pre>const a = 2172141653n;\nconst b = 15346349309n;\na * b;\n// → 33334444555566667777n     // Yay!\nNumber(a) * Number(b);\n// → 33334444555566670000      // Boo!</pre>",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2017-06-01T00:00:00+00:00",
     "title": "ECMAScript 2017",
@@ -173,6 +189,14 @@
     "title": "Nest.js made available on npm",
     "href": "https://www.npmjs.com/package/@nestjs/core/v/1.0.2",
     "description": "Kamil Mysliwiec creates a Nest.js, a web framework for Node.js. Its architecture was heavily inspired by Angular.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2017-01-28T00:00:00+00:00",
+    "title": "BigInt: Arbitrary precision integers in JavaScript proposal",
+    "href": "https://github.com/tc39/proposal-bigint/commit/c05ae7ee18542770637ae954ece4fc2e764a6101",
+    "description": "Daniel Ehrenberg writes, \"In many cases in JavaScript coding, integers larger than 2^53 come up, where casting to a double-precision float would lose real, relevant data\"",
     "comment": ""
   },
   {
@@ -257,6 +281,14 @@
   },
   {
     "priority": 3,
+    "date": "2015-06-12T00:00:00+00:00",
+    "title": "Ember.js 1.13.0 with Glimmer engine",
+    "href": "https://blog.emberjs.com/2015/06/12/ember-1-13-0-released.html",
+    "description": "\"The Glimmer rendering engine, <a href=\"https://www.youtube.com/watch?v=o12-90Dm-Qs&feature=youtu.be&t=47m21s\">announced at EmberConf</a> and introduced to Ember.js Canary on May 5th, is released today in Ember.js 1.13. Glimmer is the third overhaul of Ember's 1.x rendering layer (wow, right?), and dramatically improves re-render performance in many common scenarios. Additionally it lays important groundwork for the Ember 2.x development model.\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2015-06-02T00:00:00+00:00",
     "title": "npm v3.0.0 release with flat dependencies",
     "href": "https://github.com/npm/npm/releases/tag/v3.0.0",
@@ -304,6 +336,14 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2014-11-18T00:00:00+00:00",
+    "title": "Flow early version release",
+    "href": "https://engineering.fb.com/2014/11/18/web/flow-a-new-static-type-checker-for-javascript/",
+    "description": "\"We have designed Flow so developers can reap its benefits without losing the “feel” of coding in JavaScript. Flow adds minimal compile-time overhead, as it does all its work proactively in the background. And Flow does not force you to change how you code — it performs sophisticated program analysis to work with the idioms you already know and love.\"",
+    "comment": ""
+  },
+  {
     "priority": 1,
     "date": "2014-09-28T00:00:00+00:00",
     "title": "First commit to Babel.js",
@@ -344,7 +384,7 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 3,
     "date": "2013-07-18T00:00:00+00:00",
     "title": "First commit to the core-js repository",
     "href": "https://github.com/zloirock/core-js/commit/faebf39ec88842a83c3e97ab1240351d4355f99c",
@@ -360,7 +400,7 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 2,
     "date": "2013-07-04T00:00:00+00:00",
     "title": "First gulp release",
     "href": "https://libraries.io/npm/gulp",
@@ -377,6 +417,14 @@
   },
   {
     "priority": 3,
+    "date": "2013-06-09T00:00:00+00:00",
+    "title": "sinopia v0.0.1",
+    "href": "https://www.npmjs.com/package/sinopia/v/0.1.0",
+    "description": "Alex Kocharin write, \"We want to create a private/caching npm repository server.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2013-06-01T00:00:00+00:00",
     "title": "The beginning of React Native's story",
     "href": "https://engineering.fb.com/android/react-native-a-year-in-review/",
@@ -389,6 +437,14 @@
     "title": "React gets open sourced",
     "href": "https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/",
     "description": "Tom Occhino and Jordan Walke introduce React at <a href=\"https://youtu.be/GW0rj4sNH2w\">JSConf US 2013</a>. React becomes an open-source project.<br /><br /> The audience at the conference was <a href=\"https://youtu.be/A0Kj49z6WdM?t=851\">skeptical</a>. Some people thought that React was a huge step backward. This happened as mostly \"early adopters\" and \"early majority\" attended this conference, while React was targeted at \"innovators\".",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2013-04-03T00:00:00+00:00",
+    "title": "Blink announce",
+    "href": "https://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html",
+    "description": "\"However, Chromium uses a different multi-process architecture than other WebKit-based browsers, and supporting multiple architectures over the years has led to increasing complexity for both the WebKit and Chromium projects. This has slowed down the collective pace of innovation - so today, we are introducing Blink, a new open source rendering engine based on WebKit.\"",
     "comment": ""
   },
   {
@@ -453,6 +509,14 @@
     "title": "Bower initial release",
     "href": "https://github.com/bower/bower/commit/c22032933740e6ed4021f798fd579c7d4e961f7a",
     "description": "Twitter made the package manager for the web. Bower tried to build flat dependency tree.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2012-06-12T00:00:00+00:00",
+    "title": "PLV8",
+    "href": "https://legitimatesounding.com/blog/building_a_mongodb_clone_in_postgres_part_1.html",
+    "description": "Jerry Sievert writes, \"I had a crazy thought. Don't all good ideas start with that phrase? Well, this one was suitably crazy: why not build my own version of MongoDB right on top of Postgres? It sounds a little far-fetched, but in all honesty it's pretty simple.\"",
     "comment": ""
   },
   {
@@ -525,6 +589,14 @@
     "title": "The first commit of Ember.js",
     "href": "https://blog.emberjs.com/2013/08/31/ember-1-0-released.html",
     "description": "The first commit to the repository that would become Ember.js happened on April 30th, 2011. About two and a half years later, the Ember.js core team would announce the release of Ember 1.0.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2011-03-09T00:00:00+00:00",
+    "title": "Samsung Smart TVs",
+    "href": "https://web.archive.org/web/20110809111747/http://www.samsung.com/us/article/the-wonder-of-samsung-smart-tvs",
+    "description": "<a href=\"https://www.youtube.com/watch?v=TP43Ts78sBw\">Let's develop a JavaScript app for TV</a>.",
     "comment": ""
   },
   {
@@ -688,6 +760,14 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2009-02-11T00:00:00+00:00",
+    "title": "Beta release of the Mongo database",
+    "href": "https://web.archive.org/web/20090214163829/http://www.10gen.com/blog/2009/2/v08-released",
+    "description": "",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2009-01-29T00:00:00+00:00",
     "title": "CommonJS project started",
@@ -757,6 +837,14 @@
     "title": "Microsoft restarts IE development",
     "href": "",
     "description": "Internet Explorer gets the first major update since 2001.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2006-08-21T00:00:00+00:00",
+    "title": "CouchDB Alpha",
+    "href": "http://web.archive.org/web/20070708200123/http://damienkatz.net/2006/08/the_alpha_has_l_1.html",
+    "description": "Damien Katz announced first alpha of project. He had developed it since 2005.",
     "comment": ""
   },
   {
