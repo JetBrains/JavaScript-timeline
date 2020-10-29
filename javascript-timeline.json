@@ -1,6 +1,14 @@
 [
   {
     "priority": 2,
+    "date": "2020-12-31T00:00:00+00:00",
+    "title": "Adobe Flash EOL",
+    "href": "https://www.adobe.com/products/flashplayer/end-of-life.html",
+    "description": "Adobe stops distributing and updating Flash Player.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2020-09-19T00:00:00+00:00",
     "title": "Vue.js 3.0 \"One Piece\" release",
     "href": "https://github.com/vuejs/vue-next/releases/tag/v3.0.0",
@@ -45,6 +53,14 @@
     "title": "Angular 9.0.0 with Ivy",
     "href": "https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3",
     "description": "\"This release switches applications to the Ivy compiler and runtime by default.\"",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2020-01-15T00:00:00+00:00",
+    "title": "New Microsoft Edge browser based on Chromium released",
+    "href": "https://blogs.windows.com/msedgedev/2020/01/15/upgrading-new-microsoft-edge-79-chromium/",
+    "description": "",
     "comment": ""
   },
   {
@@ -280,6 +296,14 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2016-02-15T00:00:00+00:00",
+    "title": "WebKit's B3 JIT Compiler introduced",
+    "href": "https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/",
+    "description": "B3 is a new compiler backend for JavaScriptCore JIT, which replaces LLVM backend.",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2015-12-05T00:00:00+00:00",
     "title": "ChakraCore open sourcing announce",
@@ -308,6 +332,14 @@
     "date": "2015-09-14T00:00:00+00:00",
     "title": "Node.js and io.js combined into single codebase",
     "href": "https://nodejs.org/ar/blog/announcements/foundation-v4-announce/",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2015-06-25T00:00:00+00:00",
+    "title": "Microsoft releases it's new Edge browser",
+    "href": "",
     "description": "",
     "comment": ""
   },
@@ -360,10 +392,26 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2015-03-05T00:00:00+00:00",
+    "title": "TypeScript and AtScript languages have been converged",
+    "href": "https://youtu.be/QHulaj5ZxbI?t=1310",
+    "description": "Google and Microsoft announce at ng-conf that TypeScript and AtScript languages have been converged, and Angular 2 will be built with TypeScript",
+    "comment": ""
+  },
+  {
     "priority": 2,
-    "date": "2014-12-02T00:00:00+00:00",
-    "title": "io.js: Node.js split in two",
+    "date": "2015-01-14T00:00:00+00:00",
+    "title": "io.js 1.0.0 release",
     "href": "https://blog.risingstack.com/iojs-overview/",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2014-11-27T00:00:00+00:00",
+    "title": "io.js: Node.js split in two",
+    "href": "",
     "description": "The part of the Node.js team, who were unhappy with the stewardship of Node's official sponsor, Joyent, forked the Node.js project and created their own version of it called io.js. The main differences included proper semver and the updated V8 engine with ES6 features. In the long run, they hoped that both projects would be merged back together and that it would help the JavaScript community move forward.",
     "comment": ""
   },
@@ -376,11 +424,27 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2014-10-28T00:00:00+00:00",
+    "title": "AtScript introduced at the ng-Europe conference",
+    "href": "https://www.youtube.com/watch?v=lGdnh8QSPPk",
+    "description": "AtScript was an extension of TypeScript, with some features from Dart. In October 2014, Google announced that Angular 2.0 would be written in AtScript.",
+    "comment": ""
+  },
+  {
     "priority": 1,
     "date": "2014-09-28T00:00:00+00:00",
     "title": "First commit to Babel.js",
     "href": "https://github.com/babel/babel/commit/c97696c224d718d96848df9e1577f337b45464be#diff-7ae45ad102eab3b6d7e7896acd08c427a9b25b346470d7bc6507b6481575d519",
     "description": "Sebastian McKenzie starts a new project which would help with converting the new version of ECMAScript into versions that older JavaScript engines could process.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2014-03-13T00:00:00+00:00",
+    "title": "WebKit's FTL JIT (Faster Than Light Just In Time compiler) introduced",
+    "href": "https://webkit.org/blog/3362/introducing-the-webkit-ftl-jit/",
+    "description": "",
     "comment": ""
   },
   {
@@ -532,7 +596,7 @@
     "date": "2012-10-01T00:00:00+00:00",
     "title": "TypeScript made public",
     "href": "https://www.infoworld.com/article/2614863/microsoft-augments-javascript-for-large-scale-development.html",
-    "description": "After 2 years of internal development, Microsoft introduces a JavaScript superset called TypedScript. They developed TypeScript in at attempt to help use JavaScript for large-scale development.<br /><br />The first impressions of TypeScript were controversial. For example, <a href=\"https://tirania.org/blog/archive/2012/Oct-01.html\">Miguel de Icaza highlighted</a> quite a few pros but also raised concerns about the lack of support for TypeScript in tooling, apart from Microsoft Visual Studio.",
+    "description": "After 2 years of internal development, Microsoft introduces a JavaScript superset called TypeScript. They developed TypeScript in at attempt to help use JavaScript for large-scale development.<br /><br />The first impressions of TypeScript were controversial. For example, <a href=\\\"https://tirania.org/blog/archive/2012/Oct-01.html\\\">Miguel de Icaza highlighted</a> quite a few pros but also raised concerns about the lack of support for TypeScript in tooling, apart from Microsoft Visual Studio.",
     "comment": ""
   },
   {
@@ -621,6 +685,14 @@
     "title": "The first commit of Ember.js",
     "href": "https://blog.emberjs.com/2013/08/31/ember-1-0-released.html",
     "description": "The first commit to the repository that would become Ember.js happened on April 30th, 2011. About two and a half years later, the Ember.js core team would announce the release of Ember 1.0.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2011-03-14T00:00:00+00:00",
+    "title": "Internet Explorer 9 with new Chakra JavaScript engine with JIT",
+    "href": "",
+    "description": "",
     "comment": ""
   },
   {
