@@ -65,6 +65,14 @@
   },
   {
     "priority": 3,
+    "date": "2019-11-22T00:00:00+00:00",
+    "title": "Node.js support for ECMAScript modules",
+    "href": "https://nodejs.medium.com/announcing-core-node-js-support-for-ecmascript-modules-c5d6dc29b663",
+    "description": "Node.js 13.2.0 ships support for ECMAScript modules",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2019-07-11T00:00:00+00:00",
     "title": "Facebook is open sourcing Hermes",
     "href": "https://twitter.com/reactnative/status/1149347916877901824",
@@ -144,6 +152,14 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2018-03-30T00:00:00+00:00",
+    "title": "TensorFlow.js",
+    "href": "https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db",
+    "description": "\"Open-source library you can use to define, train, and run machine learning models entirely in the browser, using Javascript and a high-level layers API.\"",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2017-06-01T00:00:00+00:00",
     "title": "ECMAScript 2017",
@@ -216,6 +232,14 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2016-09-30T00:00:00+00:00",
+    "title": "Vue.js 2.0 with JSX support",
+    "href": "https://medium.com/the-vue-point/vue-2-0-is-here-ef1f26acf4b8",
+    "description": "Evan You writes, \"Today I am thrilled to announce the official release of Vue.js 2.0: Ghost in the Shell. After 8 alphas, 8 betas and 8 rcs (a total coincidence!), Vue.js 2.0 is ready for production!\"",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2016-09-14T00:00:00+00:00",
     "title": "Angular was born",
@@ -273,6 +297,14 @@
   },
   {
     "priority": 3,
+    "date": "2015-09-11T00:00:00+00:00",
+    "title": "First version Preact on npm",
+    "href": "https://www.npmjs.com/package/preact/v/1.2.0",
+    "description": "Jason Miller writes, \"Preact is an attempt to recreate the core value proposition of React (or similar libraries like Mithril) using as little code as possible\".",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2015-09-14T00:00:00+00:00",
     "title": "Node.js and io.js combined into single codebase",
     "href": "https://nodejs.org/ar/blog/announcements/foundation-v4-announce/",
