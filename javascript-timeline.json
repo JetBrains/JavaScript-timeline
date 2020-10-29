@@ -49,6 +49,14 @@
   },
   {
     "priority": 3,
+    "date": "2020-05-13T00:00:00+00:00",
+    "title": "Playwright announce",
+    "href": "https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f",
+    "description": "\"Today we are announcing Playwright – our take on fixing end-to-end testing. Playwright is a cross-browser automation library to write tests that are fast, reliable and capable.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2020-02-06T00:00:00+00:00",
     "title": "Angular 9.0.0 with Ivy",
     "href": "https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3",
@@ -56,7 +64,7 @@
     "comment": ""
   },
   {
-    "priority": 1,
+    "priority": 2,
     "date": "2020-01-15T00:00:00+00:00",
     "title": "New Microsoft Edge browser based on Chromium released",
     "href": "https://blogs.windows.com/msedgedev/2020/01/15/upgrading-new-microsoft-edge-79-chromium/",
@@ -101,6 +109,14 @@
     "title": "ECMAScript 2019",
     "href": "http://www.ecma-international.org/ecma-262/10.0/index.html",
     "description": "New features include Array.prototype.flat, Array.prototype.flatMap, changes to Array.sort and Object.fromEntries.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2019-05-10T00:00:00+00:00",
+    "title": "Announcing GraalVM 19.0",
+    "href": "https://medium.com/graalvm/announcing-graalvm-19-4590cf354df8",
+    "description": "GraalVm can run JavaScript with Java, Ruby, Python, R and any other languages which have <a hre=\"https://www.graalvm.org/graalvm-as-a-platform/implement-language/\">Truffle APIs</a> integration.",
     "comment": ""
   },
   {
@@ -177,6 +193,22 @@
   },
   {
     "priority": 3,
+    "date": "2018-01-12T00:00:00+00:00",
+    "title": "Puppeteer v1.0.0",
+    "href": "https://github.com/puppeteer/puppeteer/releases/tag/v1.0.0",
+    "description": "Web automation tool for headless Chrome.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2017-07-15T00:00:00+00:00",
+    "title": "Gatsby.js first beta release",
+    "href": "https://www.gatsbyjs.com/blog/gatsby-first-beta-release",
+    "description": "Kyle Mathews, writes \"Gatsby is a modern blazing-fast static site generator for React.js.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2017-06-01T00:00:00+00:00",
     "title": "ECMAScript 2017",
     "href": "http://www.ecma-international.org/ecma-262/8.0/index.html",
@@ -194,7 +226,7 @@
   {
     "priority": 3,
     "date": "2017-05-25T00:00:00+00:00",
-    "title": "npm v5.0.0 released with package-lock.json",
+    "title": "npm v5.0.0 with package-lock.json",
     "href": "https://blog.npmjs.org/post/161081169345/v500",
     "description": "\"A new, standardised lockfile feature meant for cross-package-manager compatibility (package-lock.json), and a new format and semantics for shrinkwrap\"",
     "comment": ""
@@ -241,6 +273,14 @@
   },
   {
     "priority": 3,
+    "date": "2016-10-25T00:00:00+00:00",
+    "title": "Next.js 1.0.0",
+    "href": "https://vercel.com/blog/next",
+    "description": "\"We're very proud to open-source Next.js, a small framework for server-rendered universal JavaScript webapps.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2016-10-11T00:00:00+00:00",
     "title": "Yarn: a new package manager for JavaScript",
     "href": "https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/",
@@ -268,6 +308,14 @@
     "date": "2016-07-26T00:00:00+00:00",
     "title": "async/await",
     "href": "https://github.com/tc39/notes/blob/master/meetings/2016-07/jul-28.md#10iv-async-functions",
+    "description": "Async Functions proposal was moved to stage 4",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2016-07-26T00:00:00+00:00",
+    "title": "First public draft of Houdini specification",
+    "href": "https://www.w3.org/TR/2016/WD-css-properties-values-api-1-20160607/",
     "description": "Async Functions proposal was moved to stage 4",
     "comment": ""
   },
@@ -336,9 +384,9 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 3,
     "date": "2015-06-25T00:00:00+00:00",
-    "title": "Microsoft releases it's new Edge browser",
+    "title": "Microsoft Edge release",
     "href": "",
     "description": "",
     "comment": ""
@@ -346,15 +394,15 @@
   {
     "priority": 3,
     "date": "2015-06-12T00:00:00+00:00",
-    "title": "Ember.js 1.13.0 with Glimmer engine",
+    "title": "Ember.js 1.13.0 & Glimmer engine",
     "href": "https://blog.emberjs.com/2015/06/12/ember-1-13-0-released.html",
     "description": "\"The Glimmer rendering engine, <a href=\"https://www.youtube.com/watch?v=o12-90Dm-Qs&feature=youtu.be&t=47m21s\">announced at EmberConf</a> and introduced to Ember.js Canary on May 5th, is released today in Ember.js 1.13. Glimmer is the third overhaul of Ember's 1.x rendering layer (wow, right?), and dramatically improves re-render performance in many common scenarios. Additionally it lays important groundwork for the Ember 2.x development model.\"",
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 3,
     "date": "2015-06-02T00:00:00+00:00",
-    "title": "npm v3.0.0 release with flat dependencies",
+    "title": "npm v3.0.0 with flat dependencies",
     "href": "https://github.com/npm/npm/releases/tag/v3.0.0",
     "description": "\"Flat, flat, flat!<br />Your dependencies will now be installed maximally flat. Insofar as is possible, all of your dependencies, and their dependencies, and THEIR dependencies will be installed in your project's node_modules folder with no nesting. You'll only see modules nested underneath one another when two (or more) modules have conflicting dependencies.\"",
     "comment": ""
@@ -408,6 +456,14 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2014-12-04T00:00:00+00:00",
+    "title": "Service Worker in Chrome 40 Beta",
+    "href": "https://blog.chromium.org/2014/12/chrome-40-beta-powerful-offline-and.html",
+    "description": "\"This release adds service workers, a powerful new API that allows developers to make sites work offline by intercepting network requests to deliver programmatic or cached responses.\"",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2014-11-27T00:00:00+00:00",
     "title": "io.js: Node.js split in two",
@@ -429,6 +485,14 @@
     "title": "AtScript introduced at the ng-Europe conference",
     "href": "https://www.youtube.com/watch?v=lGdnh8QSPPk",
     "description": "AtScript was an extension of TypeScript, with some features from Dart. In October 2014, Google announced that Angular 2.0 would be written in AtScript.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2014-10-09T00:00:00+00:00",
+    "title": "WebApp Manifest in Chrome 39 Beta",
+    "href": "https://blog.chromium.org/2014/10/chrome-39-beta-js-generators-animation.html",
+    "description": "\"Manifests provide a way to wrap metadata about a web application into a single file\"",
     "comment": ""
   },
   {
@@ -570,9 +634,17 @@
   {
     "priority": 2,
     "date": "2013-03-06T00:00:00+00:00",
-    "title": "Opera moved to WebKit and V8",
+    "title": "Opera goes to WebKit & V8",
     "href": "https://dev.opera.com/blog/300-million-users-and-move-to-webkit/",
     "description": "Opera switched own browser engine <a href=\"https://en.wikipedia.org/wiki/Presto_(browser_engine)\">Presto</a> to <a href=\"https://en.wikipedia.org/wiki/Blink_(browser_engine)\">Blink</a> for desktop browser.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2013-02-24T00:00:00+00:00",
+    "title": "Firefox OS",
+    "href": "https://blog.mozilla.org/blog/2013/02/24/mozilla-unlocks-the-power-of-the-web-on-mobile-with-firefox-os/",
+    "description": "",
     "comment": ""
   },
   {
@@ -613,6 +685,14 @@
     "title": "PLV8",
     "href": "https://legitimatesounding.com/blog/building_a_mongodb_clone_in_postgres_part_1.html",
     "description": "Jerry Sievert writes, \"I had a crazy thought. Don't all good ideas start with that phrase? Well, this one was suitably crazy: why not build my own version of MongoDB right on top of Postgres? It sounds a little far-fetched, but in all honesty it's pretty simple.\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2012-05-27T00:00:00+00:00",
+    "title": "UglifyJS initial commit",
+    "href": "https://github.com/mishoo/UglifyJS/commit/562b12f021c8b26f5cb52fb322f6465dac4aadc9",
+    "description": "One of the most popular JavaScript tool for minification.",
     "comment": ""
   },
   {
@@ -677,6 +757,14 @@
     "title": "WebKit Remote Debugging",
     "href": "https://web.archive.org/web/20110512002552/http://www.webkit.org/blog/1620/webkit-remote-debugging/",
     "description": "WebKit Remote Debugging opened a new era for debugging mobile browsers. Later, it would transform to <a href=\"https://chromedevtools.github.io/devtools-protocol/\">Chrome DevTools Protocol</a>.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2011-05-05T00:00:00+00:00",
+    "title": "Traceur presented",
+    "href": "https://www.youtube.com/watch?v=ntDZa7ekFEA",
+    "description": "\"JavaScript.next-to-JavaScript-of-today compiler that allows you to use features from the future today. Traceur supports ES6 as well as some experimental ES.next features\"",
     "comment": ""
   },
   {
@@ -816,6 +904,14 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2009-12-08T00:00:00+00:00",
+    "title": "Chrome extensions beta",
+    "href": "https://chrome.googleblog.com/2009/12/google-chrome-for-holidays-mac-linux.html",
+    "description": "\"Extensions on Google Chrome accomplishes all these goals: they are as easy to create as web pages, easy to install, and each extension runs in its own process to avoid crashing or significantly slowing down the browser.\"",
+    "comment": ""
+  },
+  {
     "priority": 1,
     "date": "2009-11-08T00:00:00+00:00",
     "title": "The rise of Node.js",
@@ -845,6 +941,14 @@
     "title": "RequireJS module loader",
     "href": "https://requirejs.org/docs/history.html",
     "description": "The primordial parts of the RequireJS loader started to take form in September 2009, with many releases through October 2011, when 1.0 was introduced.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2009-06-30T00:00:00+00:00",
+    "title": "Firefox 3.5 with Web Workers",
+    "href": "https://website-archive.mozilla.org/www.mozilla.org/firefox_releasenotes/en-us/firefox/3.5/releasenotes/",
+    "description": "",
     "comment": ""
   },
   {
@@ -1041,6 +1145,14 @@
   },
   {
     "priority": 2,
+    "date": "2004-06-04T00:00:00+00:00",
+    "title": "Safari introduce &lt;canvas&gt",
+    "href": "https://web.archive.org/web/20040708074642/http://weblogs.mozillazine.org/hyatt/archives/2004_07.html#005913",
+    "description": "\"Another extension we made to HTML is a new element called the canvas. This element is essentially an image element that supports programmatic drawing. The way it works is that you can invoke a method called getContext on the canvas and then you have access to a whole range of 2d drawing calls.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2004-06-04T00:00:00+00:00",
     "title": "WHATWG Formation",
     "href": "https://www.w3.org/TR/2014/REC-html5-20141028/introduction.html#history-0",
