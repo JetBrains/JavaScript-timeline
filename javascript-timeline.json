@@ -436,8 +436,8 @@
     "date": "2010-05-12T00:00:00+00:00",
     "title": "Test262: ECMAScript Test Suite initial contribution",
     "href": "https://github.com/tc39/proposals/commit/023a1c80b553fc4daf87877be72d171524db3450",
-    "description": ".",
-    "comment": "Ecma International starts developing a test suite for the Ecma specifications."
+    "description": "Ecma International starts developing a test suite for the Ecma specifications.",
+    "comment": ""
   },
   {
     "priority": 1,
@@ -548,7 +548,7 @@
     "date": "2007-01-09T00:00:00+00:00",
     "title": "The first iPhone gets no support for Flash",
     "href": "https://youtu.be/vN4U5FqrOdQ?t=157",
-    "description": "Steve Jobs introduces the first iPhone. The phone used the mobile version of the Safari browser and had no support for Adobe Flash Player. Later, Jobs would share his <a href=\"http://web-old.archive.org/web/20101207055957/https://www.apple.com/hotnews/thoughts-on-flash/\">thoughts on Flash and unveil the reasons behind this decision.",
+    "description": "Steve Jobs introduces the first iPhone. The phone used the mobile version of the Safari browser and had no support for Adobe Flash Player. Later, Jobs would share his <a href=\"http://web-old.archive.org/web/20101207055957/https://www.apple.com/hotnews/thoughts-on-flash/\">thoughts on Flash</a> and unveil the reasons behind this decision.",
     "comment": ""
   },
   {
