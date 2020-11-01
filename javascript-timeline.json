@@ -8,11 +8,27 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2020-09-23T00:00:00+00:00",
+    "title": "Decorators: A new proposal iteration",
+    "href": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-23.md#decorators-a-new-proposal-iteration",
+    "description": "Chris Garrett presets to TC39 new iteration of decorators proposal",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2020-09-19T00:00:00+00:00",
     "title": "Vue.js 3.0 \"One Piece\" release",
     "href": "https://github.com/vuejs/vue-next/releases/tag/v3.0.0",
     "description": "\"The 3.0 release represents over 2 years of development efforts, featuring 30+ RFCs, 2,600+ commits, 628 pull requests from 99 contributors, plus tremendous amount of development and documentation work outside of the core repo.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2020-08-08T00:00:00+00:00",
+    "title": "Rome first beta release",
+    "href": "https://rome.tools/blog/2020/08/08/introducing-rome.html",
+    "description": "Sebastian McKenzie writes, \"Rome is a monolithic tool containing functionality that has traditionally been separate tools in the frontend ecosystem. We call this a toolchain. It is not a collection of existing tools, but completely custom, built largely from scratch, contained entirely in a single package and codebase.<br /><br />Rome is designed to replace Babel, ESLint, webpack, Prettier, Jest, and others.\"",
     "comment": ""
   },
   {
@@ -201,6 +217,14 @@
   },
   {
     "priority": 3,
+    "date": "2017-12-31T00:00:00+00:00",
+    "title": "Introducing Sapper",
+    "href": "https://svelte.dev/blog/sapper-towards-the-ideal-web-app-framework",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2017-07-15T00:00:00+00:00",
     "title": "Gatsby.js first beta release",
     "href": "https://www.gatsbyjs.com/blog/gatsby-first-beta-release",
@@ -269,6 +293,14 @@
     "title": "Version 1 of Svelte",
     "href": "https://svelte.dev/blog/frameworks-without-the-framework",
     "description": "Rich Harris publishes the article Frameworks without the framework: why didn't we think of this sooner? and introduces Svelte.js, another JavaScript framework.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2016-10-26T00:00:00+00:00",
+    "title": "Nuxt.js 0.0.1",
+    "href": "https://www.npmjs.com/package/nuxt/v/0.0.1",
+    "description": "\"A minimalistic framework for server-rendered Vue applications (completely inspired from <a href=\"https://github.com/zeit/next.js\">Next.js</a>)\n\n\"",
     "comment": ""
   },
   {
@@ -425,6 +457,14 @@
   },
   {
     "priority": 3,
+    "date": "2015-05-29T00:00:00+00:00",
+    "title": "Polymer 1.0",
+    "href": "https://www.polymer-project.org/blog/2015-05-29-one-dot-oh",
+    "description": "One of the major libraries for building web applications using Web Components.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2015-05-08T00:00:00+00:00",
     "title": "NativeScript 1.0.0 released",
     "href": "https://www.i-programmer.info/news/167-javascript/8561-nativescript-100-released.html",
@@ -472,9 +512,17 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2014-11-14T00:00:00+00:00",
+    "title": "Announcing AWS Lambda with Node.js",
+    "href": "https://aws.amazon.com/ru/blogs/compute/node-js-4-3-2-runtime-now-available-on-lambda/",
+    "description": "JavaScript is available for serverless.",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2014-11-18T00:00:00+00:00",
-    "title": "Flow early version release",
+    "title": "Flow",
     "href": "https://engineering.fb.com/2014/11/18/web/flow-a-new-static-type-checker-for-javascript/",
     "description": "\"We have designed Flow so developers can reap its benefits without losing the “feel” of coding in JavaScript. Flow adds minimal compile-time overhead, as it does all its work proactively in the background. And Flow does not force you to change how you code — it performs sophisticated program analysis to work with the idioms you already know and love.\"",
     "comment": ""
@@ -504,6 +552,14 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2014-04-10T00:00:00+00:00",
+    "title": "Start of modern decorators journey in TC39",
+    "href": "https://github.com/tc39/notes/blob/master/meetings/2014-04/apr-10.md#decorators-for-es7",
+    "description": "Yehuda Katz presents aspects of common use cases not yet covered by ES6 class",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2014-03-13T00:00:00+00:00",
     "title": "WebKit's FTL JIT (Faster Than Light Just In Time compiler) introduced",
@@ -525,6 +581,14 @@
     "title": "Vue.js released by Evan You",
     "href": "https://web.archive.org/web/20170603052649/https://betweenthewires.org/2016/11/03/evan-you/",
     "description": "\"I figured, what if I could just extract the part that I really liked about Angular and build something really lightweight without all the extra concepts involved? I was also curious as to how its internal implementation worked. I started this experiment just trying to replicate this minimal feature set, like declarative data binding. That was basically how Vue started.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2013-11-06T00:00:00+00:00",
+    "title": "koa 0.0.1 on npm",
+    "href": "https://www.npmjs.com/package/koa/v/0.0.1",
+    "description": "\"Expressive middleware for node.js using generators via co to make writing web applications and REST APIs more enjoyable to write.\"",
     "comment": ""
   },
   {
@@ -752,6 +816,14 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2011-06-11T00:00:00+00:00",
+    "title": "Google release of WebRTC source code",
+    "href": "https://lists.w3.org/Archives/Public/public-webrtc/2011May/0022.html",
+    "description": "The project provides web browsers and mobile applications with real-time communication (RTC) via simple APIs.",
+    "comment": ""
+  },
+  {
     "priority": 1,
     "date": "2011-05-11T00:00:00+00:00",
     "title": "WebKit Remote Debugging",
@@ -781,6 +853,14 @@
     "title": "Internet Explorer 9 with new Chakra JavaScript engine with JIT",
     "href": "",
     "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2011-03-03T00:00:00+00:00",
+    "title": "WebGL™ 1.0",
+    "href": "https://www.khronos.org/news/press/khronos-releases-final-webgl-1.0-specification",
+    "description": "\"Royalty-free specification brings OpenGL ES 2.0 3D graphics functionality to HTML5; Adopted by Apple, Google, Mozilla and Opera with implementations shipping today\"",
     "comment": ""
   },
   {
@@ -853,6 +933,14 @@
     "title": "Backbone.js released",
     "href": "https://github.com/jashkenas/backbone/tree/0.1.0",
     "description": "Jeremy Ashkenas released Backbone.js which was designed specifically for building single-page apps with JavaScript.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2010-07-22T00:00:00+00:00",
+    "title": "Chrome, \"Release Early, Release Often\"",
+    "href": "https://blog.chromium.org/2010/07/release-early-release-often.html",
+    "description": "Chrome team forces speed of the browser release cycle.<br /> In future it affect all other release cycles of major browsers.",
     "comment": ""
   },
   {
@@ -1009,6 +1097,14 @@
   },
   {
     "priority": 2,
+    "date": "2008-06-17T00:00:00+00:00",
+    "title": "First version of the protocol known as WebSocket",
+    "href": "https://lists.w3.org/Archives/Public/public-whatwg-archive/2008Jun/0165.html",
+    "description": "Michael Carter writes, \"We've had a number of discussions in the #whatwg channel thus far about the TCPConnection specification in section 6, and the consesus is that there is utility in an asynchronous, bi-directional communication mechanism, but the current proposal has a number of issues that need to be resolved.\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2008-05-01T00:00:00+00:00",
     "title": "JavaScript: The Good Parts book",
     "href": "https://www.oreilly.com/library/view/javascript-the-good/9780596517748/",
@@ -1016,11 +1112,11 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 1,
     "date": "2008-01-22T00:00:00+00:00",
     "title": "HTML5 first public working draft",
     "href": "https://www.w3.org/TR/2008/WD-html5-20080122/",
-    "description": "",
+    "description": "HTML5 includes detailed processing models to encourage more interoperable implementations; it extends, improves and rationalizes the markup available for documents and introduces markup and application programming interfaces (APIs) for complex web applications.",
     "comment": ""
   },
   {
