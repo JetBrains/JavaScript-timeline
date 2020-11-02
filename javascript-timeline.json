@@ -1,5 +1,37 @@
 [
   {
+    "priority": 2,
+    "date": "2020-12-31T00:00:00+00:00",
+    "title": "Adobe Flash EOL",
+    "href": "https://www.adobe.com/products/flashplayer/end-of-life.html",
+    "description": "Adobe stops distributing and updating Flash Player.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2020-09-23T00:00:00+00:00",
+    "title": "Decorators: A new proposal iteration",
+    "href": "https://github.com/tc39/notes/blob/master/meetings/2020-09/sept-23.md#decorators-a-new-proposal-iteration",
+    "description": "Chris Garrett presets to TC39 new iteration of decorators proposal",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2020-09-19T00:00:00+00:00",
+    "title": "Vue.js 3.0 \"One Piece\" release",
+    "href": "https://github.com/vuejs/vue-next/releases/tag/v3.0.0",
+    "description": "\"The 3.0 release represents over 2 years of development efforts, featuring 30+ RFCs, 2,600+ commits, 628 pull requests from 99 contributors, plus tremendous amount of development and documentation work outside of the core repo.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2020-08-08T00:00:00+00:00",
+    "title": "Rome first beta release",
+    "href": "https://rome.tools/blog/2020/08/08/introducing-rome.html",
+    "description": "Sebastian McKenzie writes, \"Rome is a monolithic tool containing functionality that has traditionally been separate tools in the frontend ecosystem. We call this a toolchain. It is not a collection of existing tools, but completely custom, built largely from scratch, contained entirely in a single package and codebase.<br /><br />Rome is designed to replace Babel, ESLint, webpack, Prettier, Jest, and others.\"",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2020-06-01T00:00:00+00:00",
     "title": "ECMAScript 2020",
@@ -32,6 +64,30 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2020-05-13T00:00:00+00:00",
+    "title": "Playwright announce",
+    "href": "https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f",
+    "description": "\"Today we are announcing Playwright – our take on fixing end-to-end testing. Playwright is a cross-browser automation library to write tests that are fast, reliable and capable.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2020-02-06T00:00:00+00:00",
+    "title": "Angular 9.0.0 with Ivy",
+    "href": "https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3",
+    "description": "\"This release switches applications to the Ivy compiler and runtime by default.\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2020-01-15T00:00:00+00:00",
+    "title": "New Microsoft Edge browser based on Chromium released",
+    "href": "https://blogs.windows.com/msedgedev/2020/01/15/upgrading-new-microsoft-edge-79-chromium/",
+    "description": "",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2019-12-06T00:00:00+00:00",
     "title": "WebAssembly 1.0 to be the fourth language to run natively in browsers",
@@ -49,10 +105,34 @@
   },
   {
     "priority": 3,
+    "date": "2019-11-22T00:00:00+00:00",
+    "title": "Node.js support for ECMAScript modules",
+    "href": "https://nodejs.medium.com/announcing-core-node-js-support-for-ecmascript-modules-c5d6dc29b663",
+    "description": "Node.js 13.2.0 ships support for ECMAScript modules",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2019-07-11T00:00:00+00:00",
+    "title": "Facebook is open sourcing Hermes",
+    "href": "https://twitter.com/reactnative/status/1149347916877901824",
+    "description": "JavaScript engine optimized for fast start-up of React Native apps on Android. It features ahead-of-time static optimization and compact bytecode.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2019-06-01T00:00:00+00:00",
     "title": "ECMAScript 2019",
     "href": "http://www.ecma-international.org/ecma-262/10.0/index.html",
     "description": "New features include Array.prototype.flat, Array.prototype.flatMap, changes to Array.sort and Object.fromEntries.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2019-05-10T00:00:00+00:00",
+    "title": "Announcing GraalVM 19.0",
+    "href": "https://medium.com/graalvm/announcing-graalvm-19-4590cf354df8",
+    "description": "GraalVm can run JavaScript with Java, Ruby, Python, R and any other languages which have <a hre=\"https://www.graalvm.org/graalvm-as-a-platform/implement-language/\">Truffle APIs</a> integration.",
     "comment": ""
   },
   {
@@ -61,6 +141,22 @@
     "title": "Svelte 3 released",
     "href": "https://svelte.dev/blog/svelte-3-rethinking-reactivity",
     "description": "The framework gets a major update, Svelte 3 and starts gaining popularity. Many developers try to understand why this update is important and <a href=\"https://dev.to/zenika/svelte-why-so-much-hype-2k61\">share their thoughts</a> with the community.<br /><br /> \"Compiler frameworks uncover new horizons for the future of the web. Are we heading towards a decline of front-end frameworks as we know them today to make way for compilers? When will this happen? How? Who will be the main actors? It's far too early to say, all this will take time, but one thing is sure, Svelte contributes strongly to this new momentum and makes the web move forward.\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2018-12-13T00:00:00+00:00",
+    "title": "Private class fields are shipping in Chrome 72",
+    "href": "https://v8.dev/features/class-fields#private-class-fields",
+    "description": "JavaScript has difficult history of object private fields emulation. In <a href=\"https://github.com/tc39/proposal-class-fields#private-fields\">proposal \"Class field declarations for JavaScript\"</a> it was solved for classes and V8 developers implemented it V8 v7.2. For it syntax was extended with <code>#</code> symbol for private fields definition.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2018-12-06T00:00:00+00:00",
+    "title": "Microsoft Edge move to Chromium announce",
+    "href": "https://github.com/MicrosoftEdge/MSEdge/blob/7d69268e85e198cee1c2b452d888ac5b9e5995ca/README.md",
+    "description": "Soon Edge would be available on Linux and MacOS. (For MacOS first time since IE5.)",
     "comment": ""
   },
   {
@@ -96,6 +192,46 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2018-05-02T00:00:00+00:00",
+    "title": "BigInts in V8",
+    "href": "https://v8.dev/blog/bigint",
+    "description": "<pre>const a = 2172141653n;\nconst b = 15346349309n;\na * b;\n// → 33334444555566667777n     // Yay!\nNumber(a) * Number(b);\n// → 33334444555566670000      // Boo!</pre>",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2018-03-30T00:00:00+00:00",
+    "title": "TensorFlow.js",
+    "href": "https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db",
+    "description": "\"Open-source library you can use to define, train, and run machine learning models entirely in the browser, using Javascript and a high-level layers API.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2018-01-12T00:00:00+00:00",
+    "title": "Puppeteer v1.0.0",
+    "href": "https://github.com/puppeteer/puppeteer/releases/tag/v1.0.0",
+    "description": "Web automation tool for headless Chrome.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2017-12-31T00:00:00+00:00",
+    "title": "Introducing Sapper",
+    "href": "https://svelte.dev/blog/sapper-towards-the-ideal-web-app-framework",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2017-07-15T00:00:00+00:00",
+    "title": "Gatsby.js first beta release",
+    "href": "https://www.gatsbyjs.com/blog/gatsby-first-beta-release",
+    "description": "Kyle Mathews, writes \"Gatsby is a modern blazing-fast static site generator for React.js.\"",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2017-06-01T00:00:00+00:00",
     "title": "ECMAScript 2017",
@@ -104,11 +240,35 @@
     "comment": ""
   },
   {
-    "priority": 1,
+    "priority": 2,
+    "date": "2017-05-30T00:00:00+00:00",
+    "title": "Node.js v8.0.0 with experimental N-API and async_hooks",
+    "href": "https://nodejs.org/uk/blog/release/v8.0.0/#say-hello-to-the-node-js-api-n-api",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2017-05-25T00:00:00+00:00",
+    "title": "npm v5.0.0 with package-lock.json",
+    "href": "https://blog.npmjs.org/post/161081169345/v500",
+    "description": "\"A new, standardised lockfile feature meant for cross-package-manager compatibility (package-lock.json), and a new format and semantics for shrinkwrap\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2017-04-13T00:00:00+00:00",
     "title": "Prettier 1.0 released",
     "href": "https://jlongster.com/prettier-1.0",
     "description": "Christopher Chedeau and James Long publish a blog post about Prettier 1.0 release.<br /><br /> \"We officially announced Prettier over two months ago as a way to solve the problem of wasting time formatting your code. It started as an experiment but it clearly resonated with a lot of people, amassing ~7000 GitHub stars and over 100,000 monthly npm downloads in just two months.\"",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2017-03-13T00:00:00+00:00",
+    "title": "Temporal proposal initial commit",
+    "href": "https://github.com/tc39/proposal-temporal/commit/8a171d1661babda716251250fbdb4dd39f2dd1c2",
+    "description": "Maggie Johnson-Pint started motivation with, \"Date has been a long time pain point in ECMAScript. This proposes 'temporal', a built in module that brings a DateTime API similar to Java 8's to the ECMAScript language.\"",
     "comment": ""
   },
   {
@@ -117,6 +277,14 @@
     "title": "Nest.js made available on npm",
     "href": "https://www.npmjs.com/package/@nestjs/core/v/1.0.2",
     "description": "Kamil Mysliwiec creates a Nest.js, a web framework for Node.js. Its architecture was heavily inspired by Angular.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2017-01-28T00:00:00+00:00",
+    "title": "BigInt: Arbitrary precision integers in JavaScript proposal",
+    "href": "https://github.com/tc39/proposal-bigint/commit/c05ae7ee18542770637ae954ece4fc2e764a6101",
+    "description": "Daniel Ehrenberg writes, \"In many cases in JavaScript coding, integers larger than 2^53 come up, where casting to a double-precision float would lose real, relevant data\"",
     "comment": ""
   },
   {
@@ -129,10 +297,34 @@
   },
   {
     "priority": 3,
+    "date": "2016-10-26T00:00:00+00:00",
+    "title": "Nuxt.js 0.0.1",
+    "href": "https://www.npmjs.com/package/nuxt/v/0.0.1",
+    "description": "\"A minimalistic framework for server-rendered Vue applications (completely inspired from <a href=\"https://github.com/zeit/next.js\">Next.js</a>)\n\n\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2016-10-25T00:00:00+00:00",
+    "title": "Next.js 1.0.0",
+    "href": "https://vercel.com/blog/next",
+    "description": "\"We're very proud to open-source Next.js, a small framework for server-rendered universal JavaScript webapps.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2016-10-11T00:00:00+00:00",
     "title": "Yarn: a new package manager for JavaScript",
     "href": "https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/",
     "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2016-09-30T00:00:00+00:00",
+    "title": "Vue.js 2.0 with JSX support",
+    "href": "https://medium.com/the-vue-point/vue-2-0-is-here-ef1f26acf4b8",
+    "description": "Evan You writes, \"Today I am thrilled to announce the official release of Vue.js 2.0: Ghost in the Shell. After 8 alphas, 8 betas and 8 rcs (a total coincidence!), Vue.js 2.0 is ready for production!\"",
     "comment": ""
   },
   {
@@ -141,6 +333,22 @@
     "title": "Angular was born",
     "href": "https://www.ngdevelop.tech/angular/history/",
     "description": "The same team that built AngularJS completely rewrites it and introduces Angular 2, written in TypeScript.\n\nAt this point, quite a few teams started to turn their back on AngularJS for libraries like React. Some developers even wrote <a href=\"https://levelup.gitconnected.com/angular-its-you-not-me-9e9232ad3bcd\">break-up letters</a> to their once beloved framework.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2016-07-26T00:00:00+00:00",
+    "title": "async/await",
+    "href": "https://github.com/tc39/notes/blob/master/meetings/2016-07/jul-28.md#10iv-async-functions",
+    "description": "Async Functions proposal was moved to stage 4",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2016-07-26T00:00:00+00:00",
+    "title": "First public draft of Houdini specification",
+    "href": "https://www.w3.org/TR/2016/WD-css-properties-values-api-1-20160607/",
+    "description": "Async Functions proposal was moved to stage 4",
     "comment": ""
   },
   {
@@ -161,6 +369,30 @@
   },
   {
     "priority": 2,
+    "date": "2016-03-22T00:00:00+00:00",
+    "title": "left-pad and npm",
+    "href": "https://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm",
+    "description": "Azer Koçulu unpublished his <code>kik</code> package and 272 other packages. One of those was <code>left-pad</code>.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2016-02-15T00:00:00+00:00",
+    "title": "WebKit's B3 JIT Compiler introduced",
+    "href": "https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/",
+    "description": "B3 is a new compiler backend for JavaScriptCore JIT, which replaces LLVM backend.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2015-12-05T00:00:00+00:00",
+    "title": "ChakraCore open sourcing announce",
+    "href": "https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/",
+    "description": "Microsoft Edge’s JavaScript engine to go open-source.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2015-09-14T00:00:00+00:00",
     "title": "GraphQL: a data query language",
     "href": "https://engineering.fb.com/core-data/graphql-a-data-query-language/",
@@ -169,6 +401,14 @@
   },
   {
     "priority": 3,
+    "date": "2015-09-11T00:00:00+00:00",
+    "title": "First version Preact on npm",
+    "href": "https://www.npmjs.com/package/preact/v/1.2.0",
+    "description": "Jason Miller writes, \"Preact is an attempt to recreate the core value proposition of React (or similar libraries like Mithril) using as little code as possible\".",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2015-09-14T00:00:00+00:00",
     "title": "Node.js and io.js combined into single codebase",
     "href": "https://nodejs.org/ar/blog/announcements/foundation-v4-announce/",
@@ -176,11 +416,27 @@
     "comment": ""
   },
   {
-    "priority": 1,
-    "date": "2015-06-01T00:00:00+00:00",
-    "title": "ES2015, big ECMAScript update",
-    "href": "http://www.ecma-international.org/ecma-262/6.0/index.html",
-    "description": "The 6th edition, initially known as ECMAScript 6 was later renamed to ECMAScript 2015, or ES2015. This big update included arrow function expressions, let and const keywords, class declaration, promises, and many other improvements.<br /><br /> Starting from this edition, ECMAScript would also get regular updates each year.",
+    "priority": 3,
+    "date": "2015-06-25T00:00:00+00:00",
+    "title": "Microsoft Edge release",
+    "href": "",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2015-06-12T00:00:00+00:00",
+    "title": "Ember.js 1.13.0 & Glimmer engine",
+    "href": "https://blog.emberjs.com/2015/06/12/ember-1-13-0-released.html",
+    "description": "\"The Glimmer rendering engine, <a href=\"https://www.youtube.com/watch?v=o12-90Dm-Qs&feature=youtu.be&t=47m21s\">announced at EmberConf</a> and introduced to Ember.js Canary on May 5th, is released today in Ember.js 1.13. Glimmer is the third overhaul of Ember's 1.x rendering layer (wow, right?), and dramatically improves re-render performance in many common scenarios. Additionally it lays important groundwork for the Ember 2.x development model.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2015-06-02T00:00:00+00:00",
+    "title": "npm v3.0.0 with flat dependencies",
+    "href": "https://github.com/npm/npm/releases/tag/v3.0.0",
+    "description": "\"Flat, flat, flat!<br />Your dependencies will now be installed maximally flat. Insofar as is possible, all of your dependencies, and their dependencies, and THEIR dependencies will be installed in your project's node_modules folder with no nesting. You'll only see modules nested underneath one another when two (or more) modules have conflicting dependencies.\"",
     "comment": ""
   },
   {
@@ -189,6 +445,22 @@
     "title": "Initial public release of Redux",
     "href": "https://github.com/reduxjs/redux/releases/tag/v0.2.0",
     "description": "Dan Abramov began writing the first implementation of Redux while preparing for a <a href=\"https://www.youtube.com/watch?v=xsSnOQynTHs\">conference talk at React Europe</a>. Later, he would offer Andrew Clark to collaborate with him.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2015-06-01T00:00:00+00:00",
+    "title": "ES2015, big ECMAScript update",
+    "href": "http://www.ecma-international.org/ecma-262/6.0/index.html",
+    "description": "The 6th edition, initially known as ECMAScript 6 was later renamed to ECMAScript 2015, or ES2015. This big update included arrow function expressions, let and const keywords, class declaration, promises, generators, Proxy objects, TypedArray Objects and many other improvements.<br /><br /> Starting from this edition, ECMAScript would also get regular updates each year.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2015-05-29T00:00:00+00:00",
+    "title": "Polymer 1.0",
+    "href": "https://www.polymer-project.org/blog/2015-05-29-one-dot-oh",
+    "description": "One of the major libraries for building web applications using Web Components.",
     "comment": ""
   },
   {
@@ -208,11 +480,67 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2015-03-05T00:00:00+00:00",
+    "title": "TypeScript and AtScript languages have been converged",
+    "href": "https://youtu.be/QHulaj5ZxbI?t=1310",
+    "description": "Google and Microsoft announce at ng-conf that TypeScript and AtScript languages have been converged, and Angular 2 will be built with TypeScript",
+    "comment": ""
+  },
+  {
     "priority": 2,
-    "date": "2014-12-02T00:00:00+00:00",
-    "title": "io.js: Node.js split in two",
+    "date": "2015-01-14T00:00:00+00:00",
+    "title": "io.js 1.0.0 release",
     "href": "https://blog.risingstack.com/iojs-overview/",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2014-12-04T00:00:00+00:00",
+    "title": "Service Worker in Chrome 40 Beta",
+    "href": "https://blog.chromium.org/2014/12/chrome-40-beta-powerful-offline-and.html",
+    "description": "\"This release adds service workers, a powerful new API that allows developers to make sites work offline by intercepting network requests to deliver programmatic or cached responses.\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2014-11-27T00:00:00+00:00",
+    "title": "io.js: Node.js split in two",
+    "href": "",
     "description": "The part of the Node.js team, who were unhappy with the stewardship of Node's official sponsor, Joyent, forked the Node.js project and created their own version of it called io.js. The main differences included proper semver and the updated V8 engine with ES6 features. In the long run, they hoped that both projects would be merged back together and that it would help the JavaScript community move forward.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2014-11-14T00:00:00+00:00",
+    "title": "Announcing AWS Lambda with Node.js",
+    "href": "https://aws.amazon.com/ru/blogs/compute/node-js-4-3-2-runtime-now-available-on-lambda/",
+    "description": "JavaScript is available for serverless.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2014-11-18T00:00:00+00:00",
+    "title": "Flow",
+    "href": "https://engineering.fb.com/2014/11/18/web/flow-a-new-static-type-checker-for-javascript/",
+    "description": "\"We have designed Flow so developers can reap its benefits without losing the “feel” of coding in JavaScript. Flow adds minimal compile-time overhead, as it does all its work proactively in the background. And Flow does not force you to change how you code — it performs sophisticated program analysis to work with the idioms you already know and love.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2014-10-28T00:00:00+00:00",
+    "title": "AtScript introduced at the ng-Europe conference",
+    "href": "https://www.youtube.com/watch?v=lGdnh8QSPPk",
+    "description": "AtScript was an extension of TypeScript, with some features from Dart. In October 2014, Google announced that Angular 2.0 would be written in AtScript.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2014-10-09T00:00:00+00:00",
+    "title": "WebApp Manifest in Chrome 39 Beta",
+    "href": "https://blog.chromium.org/2014/10/chrome-39-beta-js-generators-animation.html",
+    "description": "\"Manifests provide a way to wrap metadata about a web application into a single file\"",
     "comment": ""
   },
   {
@@ -225,6 +553,22 @@
   },
   {
     "priority": 3,
+    "date": "2014-04-10T00:00:00+00:00",
+    "title": "Start of modern decorators journey in TC39",
+    "href": "https://github.com/tc39/notes/blob/master/meetings/2014-04/apr-10.md#decorators-for-es7",
+    "description": "Yehuda Katz presents aspects of common use cases not yet covered by ES6 class",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2014-03-13T00:00:00+00:00",
+    "title": "WebKit's FTL JIT (Faster Than Light Just In Time compiler) introduced",
+    "href": "https://webkit.org/blog/3362/introducing-the-webkit-ftl-jit/",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2014-02-26T00:00:00+00:00",
     "title": "Atom, text editor built on Electron",
     "href": "https://blog.atom.io/2014/02/26/introducing-atom.html",
@@ -232,11 +576,19 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 1,
     "date": "2014-02-11T00:00:00+00:00",
     "title": "Vue.js released by Evan You",
     "href": "https://web.archive.org/web/20170603052649/https://betweenthewires.org/2016/11/03/evan-you/",
     "description": "\"I figured, what if I could just extract the part that I really liked about Angular and build something really lightweight without all the extra concepts involved? I was also curious as to how its internal implementation worked. I started this experiment just trying to replicate this minimal feature set, like declarative data binding. That was basically how Vue started.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2013-11-06T00:00:00+00:00",
+    "title": "koa 0.0.1 on npm",
+    "href": "https://www.npmjs.com/package/koa/v/0.0.1",
+    "description": "\"Expressive middleware for node.js using generators via co to make writing web applications and REST APIs more enjoyable to write.\"",
     "comment": ""
   },
   {
@@ -248,7 +600,15 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 3,
+    "date": "2013-09-26T00:00:00+00:00",
+    "title": "Espruino source code released",
+    "href": "https://www.kickstarter.com/projects/gfw/espruino-javascript-for-things/posts/610483",
+    "description": "Gordon Williams released open-source JavaScript interpreter for microcontrollers.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2013-07-18T00:00:00+00:00",
     "title": "First commit to the core-js repository",
     "href": "https://github.com/zloirock/core-js/commit/faebf39ec88842a83c3e97ab1240351d4355f99c",
@@ -264,7 +624,7 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 2,
     "date": "2013-07-04T00:00:00+00:00",
     "title": "First gulp release",
     "href": "https://libraries.io/npm/gulp",
@@ -281,6 +641,14 @@
   },
   {
     "priority": 3,
+    "date": "2013-06-09T00:00:00+00:00",
+    "title": "sinopia v0.0.1",
+    "href": "https://www.npmjs.com/package/sinopia/v/0.1.0",
+    "description": "Alex Kocharin write, \"We want to create a private/caching npm repository server.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2013-06-01T00:00:00+00:00",
     "title": "The beginning of React Native's story",
     "href": "https://engineering.fb.com/android/react-native-a-year-in-review/",
@@ -293,6 +661,14 @@
     "title": "React gets open sourced",
     "href": "https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/",
     "description": "Tom Occhino and Jordan Walke introduce React at <a href=\"https://youtu.be/GW0rj4sNH2w\">JSConf US 2013</a>. React becomes an open-source project.<br /><br /> The audience at the conference was <a href=\"https://youtu.be/A0Kj49z6WdM?t=851\">skeptical</a>. Some people thought that React was a huge step backward. This happened as mostly \"early adopters\" and \"early majority\" attended this conference, while React was targeted at \"innovators\".",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2013-04-03T00:00:00+00:00",
+    "title": "Blink announce",
+    "href": "https://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html",
+    "description": "\"However, Chromium uses a different multi-process architecture than other WebKit-based browsers, and supporting multiple architectures over the years has led to increasing complexity for both the WebKit and Chromium projects. This has slowed down the collective pace of innovation - so today, we are introducing Blink, a new open source rendering engine based on WebKit.\"",
     "comment": ""
   },
   {
@@ -321,6 +697,22 @@
   },
   {
     "priority": 2,
+    "date": "2013-03-06T00:00:00+00:00",
+    "title": "Opera goes to WebKit & V8",
+    "href": "https://dev.opera.com/blog/300-million-users-and-move-to-webkit/",
+    "description": "Opera switched own browser engine <a href=\"https://en.wikipedia.org/wiki/Presto_(browser_engine)\">Presto</a> to <a href=\"https://en.wikipedia.org/wiki/Blink_(browser_engine)\">Blink</a> for desktop browser.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2013-02-24T00:00:00+00:00",
+    "title": "Firefox OS",
+    "href": "https://blog.mozilla.org/blog/2013/02/24/mozilla-unlocks-the-power-of-the-web-on-mobile-with-firefox-os/",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2012-12-01T00:00:00+00:00",
     "title": "ECMAScript Internationalization API Specification 1st Edition",
     "href": "https://www.ecma-international.org/ecma-402/1.0/",
@@ -340,7 +732,31 @@
     "date": "2012-10-01T00:00:00+00:00",
     "title": "TypeScript made public",
     "href": "https://www.infoworld.com/article/2614863/microsoft-augments-javascript-for-large-scale-development.html",
-    "description": "After 2 years of internal development, Microsoft introduces a JavaScript superset called TypedScript. They developed TypeScript in at attempt to help use JavaScript for large-scale development.<br /><br />The first impressions of TypeScript were controversial. For example, <a href=\"https://tirania.org/blog/archive/2012/Oct-01.html\">Miguel de Icaza highlighted</a> quite a few pros but also raised concerns about the lack of support for TypeScript in tooling, apart from Microsoft Visual Studio.",
+    "description": "After 2 years of internal development, Microsoft introduces a JavaScript superset called TypeScript. They developed TypeScript in at attempt to help use JavaScript for large-scale development.<br /><br />The first impressions of TypeScript were controversial. For example, <a href=\"https://tirania.org/blog/archive/2012/Oct-01.html\">Miguel de Icaza highlighted</a> quite a few pros but also raised concerns about the lack of support for TypeScript in tooling, apart from Microsoft Visual Studio.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2012-10-01T00:00:00+00:00",
+    "title": "Bower initial release",
+    "href": "https://github.com/bower/bower/commit/c22032933740e6ed4021f798fd579c7d4e961f7a",
+    "description": "Twitter made the package manager for the web. Bower tried to build flat dependency tree.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2012-06-12T00:00:00+00:00",
+    "title": "PLV8",
+    "href": "https://legitimatesounding.com/blog/building_a_mongodb_clone_in_postgres_part_1.html",
+    "description": "Jerry Sievert writes, \"I had a crazy thought. Don't all good ideas start with that phrase? Well, this one was suitably crazy: why not build my own version of MongoDB right on top of Postgres? It sounds a little far-fetched, but in all honesty it's pretty simple.\"",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2012-05-27T00:00:00+00:00",
+    "title": "UglifyJS initial commit",
+    "href": "https://github.com/mishoo/UglifyJS/commit/562b12f021c8b26f5cb52fb322f6465dac4aadc9",
+    "description": "One of the most popular JavaScript tool for minification.",
     "comment": ""
   },
   {
@@ -349,6 +765,14 @@
     "title": "Meteor officially launched",
     "href": "https://techcrunch.com/2012/04/11/meteor-launch/",
     "description": "Initially introduced under the name <a href=\"https://blog.meteor.com/skybreak-is-now-meteor-e680d1dbaf84\">Skybreak</a>, Meteor, a framework and application server for building websites in JavaScript, was officially soft-launched.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2012-04-02T00:00:00+00:00",
+    "title": "Johnny-Five started",
+    "href": "https://github.com/rwaldron/johnny-five/commit/0e8b94cb45524519dc2b12770fd2fdfa5227fc17",
+    "description": "Rick Waldron starts JavaScript robotics programming framework.",
     "comment": ""
   },
   {
@@ -369,6 +793,14 @@
   },
   {
     "priority": 3,
+    "date": "2011-10-23T00:00:00+00:00",
+    "title": "Centralization information about UMD",
+    "href": "https://github.com/umdjs/umd/commit/d0657cb76bdef3e6f267895a20fb18181a0d3d58",
+    "description": "Addy Osmani writes, <br/>\"To date, a number of UMD variations have been proposed, ranging from Kit-Cambridge's UMD at https://gist.github.com/1251221, through to patterns discussed by Thomas Davis, Ryan Florence and I here  https://github.com/addyosmani/jquery-plugin-patterns/issues/1 and most recently the UMD patterns proposed by JR Burke here https://gist.github.com/1262861. The latter of these\npatterns will likely form the basis of the UMD we recommend actually using in production and more details about any proposed patterns will be documented as they're finalized.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2011-10-10T00:00:00+00:00",
     "title": "Dart unveiled",
     "href": "http://gotocon.com/dl/goto-aarhus-2011/slides/GiladBracha_and_LarsBak_OpeningKeynoteDartANewProgrammingLanguageForStructuredWebProgramming.pdf",
@@ -384,6 +816,14 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2011-06-11T00:00:00+00:00",
+    "title": "Google release of WebRTC source code",
+    "href": "https://lists.w3.org/Archives/Public/public-webrtc/2011May/0022.html",
+    "description": "The project provides web browsers and mobile applications with real-time communication (RTC) via simple APIs.",
+    "comment": ""
+  },
+  {
     "priority": 1,
     "date": "2011-05-11T00:00:00+00:00",
     "title": "WebKit Remote Debugging",
@@ -392,11 +832,43 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2011-05-05T00:00:00+00:00",
+    "title": "Traceur presented",
+    "href": "https://www.youtube.com/watch?v=ntDZa7ekFEA",
+    "description": "\"JavaScript.next-to-JavaScript-of-today compiler that allows you to use features from the future today. Traceur supports ES6 as well as some experimental ES.next features\"",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2011-04-30T00:00:00+00:00",
     "title": "The first commit of Ember.js",
     "href": "https://blog.emberjs.com/2013/08/31/ember-1-0-released.html",
     "description": "The first commit to the repository that would become Ember.js happened on April 30th, 2011. About two and a half years later, the Ember.js core team would announce the release of Ember 1.0.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2011-03-14T00:00:00+00:00",
+    "title": "Internet Explorer 9 with new Chakra JavaScript engine with JIT",
+    "href": "",
+    "description": "",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2011-03-03T00:00:00+00:00",
+    "title": "WebGL™ 1.0",
+    "href": "https://www.khronos.org/news/press/khronos-releases-final-webgl-1.0-specification",
+    "description": "\"Royalty-free specification brings OpenGL ES 2.0 3D graphics functionality to HTML5; Adopted by Apple, Google, Mozilla and Opera with implementations shipping today\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2011-03-09T00:00:00+00:00",
+    "title": "Samsung Smart TVs",
+    "href": "https://web.archive.org/web/20110809111747/http://www.samsung.com/us/article/the-wonder-of-samsung-smart-tvs",
+    "description": "<a href=\"https://www.youtube.com/watch?v=TP43Ts78sBw\">Let's develop a JavaScript app for TV</a>.",
     "comment": ""
   },
   {
@@ -409,6 +881,14 @@
   },
   {
     "priority": 3,
+    "date": "2011-03-04T00:00:00+00:00",
+    "title": "Moment.js release",
+    "href": "https://github.com/moment/moment/commit/7c014e633a8cb9c077d29f9cec952d08356d1d78",
+    "description": "Tim Wood released one of the popular library for working with dates.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2011-02-09T00:00:00+00:00",
     "title": "rx first publication on npm",
     "href": "https://www.npmjs.com/package/rx/v/0.0.1",
@@ -417,10 +897,50 @@
   },
   {
     "priority": 2,
+    "date": "2011-02-03T00:00:00+00:00",
+    "title": "Browserify v0.0.1",
+    "href": "https://www.npmjs.com/package/browserify/v/0.0.1",
+    "description": "Browserify provides browsers <code>require()</code> for npm packages.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2011-01-23T00:00:00+00:00",
+    "title": "PhantomJS release",
+    "href": "http://ariya.blogspot.com/2011/01/phantomjs-minimalistic-headless-webkit.html",
+    "description": "Ariya Hidayat after several years in development released headless browser based on WebKit and used for automating web page interaction with JavaScript API.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
     "date": "2010-10-20T00:00:00+00:00",
-    "title": "Backbone.js and AngularJS released",
-    "href": "",
-    "description": "Released just a week apart from each other, Backbone.js and AngularJS were designed specifically for building single-page apps with JavaScript.",
+    "title": "AngularJS released",
+    "href": "https://web.archive.org/web/20101117165321/http://www.getangular.com/",
+    "description": "AngularJS was originally developed in 2009 by Miško Hevery",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2010-10-19T00:00:00+00:00",
+    "title": "File API shipped in Chrome&nbsp;7.0.517.41",
+    "href": "https://chromereleases.googleblog.com/2010/10/stable-channel-update.html",
+    "description": "First release of one of the most important part of HTML5 standard.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2010-10-13T00:00:00+00:00",
+    "title": "Backbone.js released",
+    "href": "https://github.com/jashkenas/backbone/tree/0.1.0",
+    "description": "Jeremy Ashkenas released Backbone.js which was designed specifically for building single-page apps with JavaScript.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2010-07-22T00:00:00+00:00",
+    "title": "Chrome, \"Release Early, Release Often\"",
+    "href": "https://blog.chromium.org/2010/07/release-early-release-often.html",
+    "description": "Chrome team forces speed of the browser release cycle.<br /> In future it affect all other release cycles of major browsers.",
     "comment": ""
   },
   {
@@ -438,6 +958,14 @@
     "href": "https://github.com/tc39/proposals/commit/023a1c80b553fc4daf87877be72d171524db3450",
     "description": ".",
     "comment": "Ecma International starts developing a test suite for the Ecma specifications."
+  },
+  {
+    "priority": 3,
+    "date": "2010-04-08T00:00:00+00:00",
+    "title": "ECMAScript compatibility table initial",
+    "href": "https://github.com/kangax/compat-table/commit/aa950606ee8f13cd7ff4df6701fb94dc4b547c04",
+    "description": "",
+    "comment": ""
   },
   {
     "priority": 1,
@@ -464,6 +992,14 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2009-12-08T00:00:00+00:00",
+    "title": "Chrome extensions beta",
+    "href": "https://chrome.googleblog.com/2009/12/google-chrome-for-holidays-mac-linux.html",
+    "description": "\"Extensions on Google Chrome accomplishes all these goals: they are as easy to create as web pages, easy to install, and each extension runs in its own process to avoid crashing or significantly slowing down the browser.\"",
+    "comment": ""
+  },
+  {
     "priority": 1,
     "date": "2009-11-08T00:00:00+00:00",
     "title": "The rise of Node.js",
@@ -480,11 +1016,27 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2009-10-25T00:00:00+00:00",
+    "title": "First commit to underscore.js",
+    "href": "https://github.com/jashkenas/underscore/commit/02ede85b539a89a44a71ce098f09a9553a3a6890",
+    "description": "Jeremy Ashkenas started underscore.js project",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2009-09-01T00:00:00+00:00",
     "title": "RequireJS module loader",
     "href": "https://requirejs.org/docs/history.html",
     "description": "The primordial parts of the RequireJS loader started to take form in September 2009, with many releases through October 2011, when 1.0 was introduced.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2009-06-30T00:00:00+00:00",
+    "title": "Firefox 3.5 with Web Workers",
+    "href": "https://website-archive.mozilla.org/www.mozilla.org/firefox_releasenotes/en-us/firefox/3.5/releasenotes/",
+    "description": "",
     "comment": ""
   },
   {
@@ -504,11 +1056,27 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2009-02-11T00:00:00+00:00",
+    "title": "Beta release of the Mongo database",
+    "href": "https://web.archive.org/web/20090214163829/http://www.10gen.com/blog/2009/2/v08-released",
+    "description": "",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2009-01-29T00:00:00+00:00",
     "title": "CommonJS project started",
     "href": "https://www.blueskyonmars.com/2009/01/29/what-server-side-javascript-needs/",
     "description": "Kevin Dangoon sets up a new ServerJS group trying to standardize the module ecosystem for JavaScript outside of the web browser. The project was later renamed to CommonJS.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2009-01-02T00:00:00+00:00",
+    "title": "\"When can I use\" was born",
+    "href": "https://web.archive.org/web/20090122223659/http://a.deveria.com/?p=82",
+    "description": "Alexis Deveria wrote, \"A few weeks ago I was trying to find out which browser supported exactly which experimental feature, be it CSS3, HTML5, or something else. I found a couple of useful pages, but nothing quite as detailed as what I was looking for.\"",
     "comment": ""
   },
   {
@@ -520,6 +1088,22 @@
     "comment": ""
   },
   {
+    "priority": 3,
+    "date": "2008-08-02T00:00:00+00:00",
+    "title": "Raphaël release",
+    "href": "http://dmitry.baranovskiy.com/post/raphael-javascript-library",
+    "description": "Dmitry Baranovskiy released JavaScript library to work with vector graphics in all actual browsers including IE6. For IE6+ the library used <a href=\"https://docs.microsoft.com/ru-ru/windows/win32/vml/web-workshop---specs---standards----how-to-use-vml-on-web-pages?redirectedfrom=MSDN\">VML</a>.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2008-06-17T00:00:00+00:00",
+    "title": "First version of the protocol known as WebSocket",
+    "href": "https://lists.w3.org/Archives/Public/public-whatwg-archive/2008Jun/0165.html",
+    "description": "Michael Carter writes, \"We've had a number of discussions in the #whatwg channel thus far about the TCPConnection specification in section 6, and the consesus is that there is utility in an asynchronous, bi-directional communication mechanism, but the current proposal has a number of issues that need to be resolved.\"",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2008-05-01T00:00:00+00:00",
     "title": "JavaScript: The Good Parts book",
@@ -528,11 +1112,11 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 1,
     "date": "2008-01-22T00:00:00+00:00",
     "title": "HTML5 first public working draft",
     "href": "https://www.w3.org/TR/2008/WD-html5-20080122/",
-    "description": "",
+    "description": "HTML5 includes detailed processing models to encourage more interoperable implementations; it extends, improves and rationalizes the markup available for documents and introduces markup and application programming interfaces (APIs) for complex web applications.",
     "comment": ""
   },
   {
@@ -561,6 +1145,14 @@
   },
   {
     "priority": 3,
+    "date": "2006-08-21T00:00:00+00:00",
+    "title": "CouchDB Alpha",
+    "href": "http://web.archive.org/web/20070708200123/http://damienkatz.net/2006/08/the_alpha_has_l_1.html",
+    "description": "Damien Katz announced first alpha of project. He had developed it since 2005.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2006-05-16T00:00:00+00:00",
     "title": "Google Web Toolkit made available",
     "href": "https://webtoolkit.googleblog.com/2006/05/welcome-to-gwt-blog.html",
@@ -576,11 +1168,27 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 1,
     "date": "2006-01-14T00:00:00+00:00",
     "title": "Initial release of jQuery",
     "href": "https://jquery.org/history/",
     "description": "John Resig makes the initial release of jQuery, a JavaScript library that makes it easier to navigate the HTML DOM and manipulate it.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2006-01-12T00:00:00+00:00",
+    "title": "Firebug v0.2",
+    "href": "https://web.archive.org/web/20170821212017/https://addons.mozilla.org/en-US/firefox/addon/firebug/versions/?page=4#version-0.2",
+    "description": "First friendly JavaScript debugger in browser was released by Joe Hewitt as Firefox extension.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2005-11-10T00:00:00+00:00",
+    "title": "Opera Mini launched in Germany",
+    "href": "https://web.archive.org/web/20081006230846/http://opera.com/pressreleases/en/2005/11/10/",
+    "description": "Opera Mini uses a proxy servers to translate HTML, CSS and JavaScript into a more compact format <a href=\"https://dev.opera.com/articles/opera-binary-markup-language/\">OBML</a>. Opera Mini could execute small subset of JavaScript and had done it on servers side.",
     "comment": ""
   },
   {
@@ -592,11 +1200,19 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 1,
     "date": "2005-06-07T00:00:00+00:00",
     "title": "Apple open sources WebKit",
     "href": "https://dot.kde.org/2005/06/07/apple-opens-webkit-cvs-and-bug-database",
     "description": "Apple announces the immediate availability of the WebKit Open Source Project, their fork of KHTML.",
+    "comment": ""
+  },
+  {
+    "priority": 3,
+    "date": "2005-05-01T00:00:00+00:00",
+    "title": "Adobe Photoshop CS2 release with JavaScript as one of scripting languages",
+    "href": "https://www.adobe.com/content/dam/acom/en/devnet/photoshop/scripting/JavaScriptReferenceGuide.pdf",
+    "description": "\"All of the Adobe Creative Suite 2 applications, including Adobe Photoshop CS2, use ExtendScript, Adobe’s extended implementation of JavaScript. ExtendScript files are distinguished by the .jsx extension. ExtendScript offers all standard JavaScript features, plus additional features and utilities\"",
     "comment": ""
   },
   {
@@ -625,6 +1241,14 @@
   },
   {
     "priority": 2,
+    "date": "2004-06-04T00:00:00+00:00",
+    "title": "Safari introduce &lt;canvas&gt",
+    "href": "https://web.archive.org/web/20040708074642/http://weblogs.mozillazine.org/hyatt/archives/2004_07.html#005913",
+    "description": "\"Another extension we made to HTML is a new element called the canvas. This element is essentially an image element that supports programmatic drawing. The way it works is that you can invoke a method called getContext on the canvas and then you have access to a whole range of 2d drawing calls.\"",
+    "comment": ""
+  },
+  {
+    "priority": 3,
     "date": "2004-06-04T00:00:00+00:00",
     "title": "WHATWG Formation",
     "href": "https://www.w3.org/TR/2014/REC-html5-20141028/introduction.html#history-0",
