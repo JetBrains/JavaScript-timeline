@@ -328,7 +328,7 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 1,
     "date": "2016-09-14T00:00:00+00:00",
     "title": "Angular was born",
     "href": "https://www.ngdevelop.tech/angular/history/",
@@ -936,7 +936,7 @@
     "comment": ""
   },
   {
-    "priority": 1,
+    "priority": 2,
     "date": "2010-07-22T00:00:00+00:00",
     "title": "Chrome, \"Release Early, Release Often\"",
     "href": "https://blog.chromium.org/2010/07/release-early-release-often.html",
@@ -948,7 +948,7 @@
     "date": "2010-05-27T00:00:00+00:00",
     "title": "WebStorm 1.0, a new JavaScript IDE by JetBrains",
     "href": "",
-    "description": "Previously known under its working name Web IDE, <a href=\"https://web.archive.org/web/20101228024817/http://www.jetbrains.com/webstorm/\">WebStorm 1.0</a> was released with support for HTML, CSS, and JavaScript.<br /><br /> Support for these technologies had been available within IntelliJ IDEA starting from 2005, but now developers got a chance to use a dedicated tool for JavaScript development.",
+    "description": "Previously known under its working name Web IDE, <a href=\"https://web.archive.org/web/20101228024817/http://www.jetbrains.com/webstorm/\">WebStorm 1.0</a> was released with support for HTML, CSS, and JavaScript.",
     "comment": ""
   },
   {
@@ -1296,7 +1296,7 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 1,
     "date": "2001-08-27T00:00:00+00:00",
     "title": "Internet Explorer 6 made available",
     "href": "",
@@ -1304,7 +1304,7 @@
     "comment": ""
   },
   {
-    "priority": 3,
+    "priority": 2,
     "date": "2001-04-01T00:00:00+00:00",
     "title": "The first JSON message was sent",
     "href": "https://twobithistory.org/2017/09/21/the-rise-and-rise-of-json.html",
