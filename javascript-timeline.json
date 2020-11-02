@@ -732,7 +732,7 @@
     "date": "2012-10-01T00:00:00+00:00",
     "title": "TypeScript made public",
     "href": "https://www.infoworld.com/article/2614863/microsoft-augments-javascript-for-large-scale-development.html",
-    "description": "After 2 years of internal development, Microsoft introduces a JavaScript superset called TypeScript. They developed TypeScript in at attempt to help use JavaScript for large-scale development.<br /><br />The first impressions of TypeScript were controversial. For example, <a href=\\\"https://tirania.org/blog/archive/2012/Oct-01.html\\\">Miguel de Icaza highlighted</a> quite a few pros but also raised concerns about the lack of support for TypeScript in tooling, apart from Microsoft Visual Studio.",
+    "description": "After 2 years of internal development, Microsoft introduces a JavaScript superset called TypeScript. They developed TypeScript in at attempt to help use JavaScript for large-scale development.<br /><br />The first impressions of TypeScript were controversial. For example, <a href=\"https://tirania.org/blog/archive/2012/Oct-01.html\">Miguel de Icaza highlighted</a> quite a few pros but also raised concerns about the lack of support for TypeScript in tooling, apart from Microsoft Visual Studio.",
     "comment": ""
   },
   {
