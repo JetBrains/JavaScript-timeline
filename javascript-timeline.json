@@ -40,7 +40,7 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 1,
     "date": "2020-05-31T00:00:00+00:00",
     "title": "SpaceX Dragon 2 with the JavaScript UI in space",
     "href": "https://twitter.com/jason_mayes/status/1267227834096861184",
@@ -256,11 +256,11 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 1,
     "date": "2017-04-13T00:00:00+00:00",
     "title": "Prettier 1.0 released",
     "href": "https://jlongster.com/prettier-1.0",
-    "description": "Christopher Chedeau and James Long publish a blog post about Prettier 1.0 release.<br /><br /> \"We officially announced Prettier over two months ago as a way to solve the problem of wasting time formatting your code. It started as an experiment but it clearly resonated with a lot of people, amassing ~7000 GitHub stars and over 100,000 monthly npm downloads in just two months.\"",
+    "description": "Christopher Chedeau and James Long publish a blog post about Prettier 1.0 release.<br /><br /> \"It started as an experiment but it clearly resonated with a lot of people, amassing ~7000 GitHub stars and over 100,000 monthly npm downloads in just two months.\"",
     "comment": ""
   },
   {
@@ -857,14 +857,6 @@
   },
   {
     "priority": 3,
-    "date": "2011-03-04T00:00:00+00:00",
-    "title": "Moment.js release",
-    "href": "https://github.com/moment/moment/commit/7c014e633a8cb9c077d29f9cec952d08356d1d78",
-    "description": "Tim Wood releases the first version of a popular library for working with dates.",
-    "comment": ""
-  },
-  {
-    "priority": 3,
     "date": "2011-02-09T00:00:00+00:00",
     "title": "rx first publication on npm",
     "href": "https://www.npmjs.com/package/rx/v/0.0.1",
@@ -1352,7 +1344,7 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 1,
     "date": "1998-01-22T00:00:00+00:00",
     "title": "Mozilla Project created",
     "href": "https://www.mozilla.org/en-US/about/history/",
