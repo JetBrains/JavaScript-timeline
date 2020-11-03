@@ -1,13 +1,5 @@
 [
   {
-    "priority": 2,
-    "date": "2020-12-31T00:00:00+00:00",
-    "title": "Adobe Flash EOL",
-    "href": "https://www.adobe.com/products/flashplayer/end-of-life.html",
-    "description": "In July 2020, Adobe said they would stop updating and distributing the Flash Player after December 31, 2020.",
-    "comment": ""
-  },
-  {
     "priority": 3,
     "date": "2020-09-23T00:00:00+00:00",
     "title": "Decorators: a new proposal iteration",
@@ -42,9 +34,9 @@
   {
     "priority": 1,
     "date": "2020-05-31T00:00:00+00:00",
-    "title": "SpaceX Dragon 2 with the JavaScript UI in space",
+    "title": "JavaScript makes it into space",
     "href": "https://twitter.com/jason_mayes/status/1267227834096861184",
-    "description": "Sofian Hnaide confirms that they used Chromium and had a reactive library developed in-house during their <a href=\"https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/ft5zou3/\">AMA on Reddit</a>.",
+    "description": "The SpaceX Dragon launch brings JavaScript to space! The Dragon 2 flight interface was built using Chromium and JavaScript along with C++ for flight computers.",
     "comment": ""
   },
   {
@@ -132,7 +124,7 @@
     "date": "2019-05-10T00:00:00+00:00",
     "title": "GraalVM 19.0",
     "href": "https://medium.com/graalvm/announcing-graalvm-19-4590cf354df8",
-    "description": "GraalVm can run JavaScript with Java, Ruby, Python, R and any other languages which have the<a hre=\"https://www.graalvm.org/graalvm-as-a-platform/implement-language/\">Truffle APIs</a> integration.",
+    "description": "GraalVm, a runtime that removes the isolation between programming languages, is ready for production use. It lets you run JavaScript with Java, Ruby, Python, R and any other languages which support the<a hre=\"https://www.graalvm.org/graalvm-as-a-platform/implement-language/\">Truffle APIs</a> integration.",
     "comment": ""
   },
   {
@@ -221,6 +213,14 @@
     "title": "The creation of Sapper",
     "href": "https://svelte.dev/blog/sapper-towards-the-ideal-web-app-framework",
     "description": "A new Next.js-style framework was introduced.",
+    "comment": ""
+  },
+  {
+    "priority": 2,
+    "date": "2017-07-25T00:00:00+00:00",
+    "title": "Flash EOL",
+    "href": "https://blog.adobe.com/en/publish/2017/07/25/adobe-flash-update.html#gs.kfc3gj",
+    "description": "In July 2017, Adobe said they would stop updating and distributing the Flash Player after December 31, 2020.",
     "comment": ""
   },
   {
@@ -336,8 +336,16 @@
     "comment": ""
   },
   {
+    "priority": 2,
+    "date": "2016-07-28T00:00:00+00:00",
+    "title": "async/await",
+    "href": "https://github.com/tc39/notes/blob/master/meetings/2016-07/jul-28.md#10iv-async-functions",
+    "description": "The async functions proposal was moved to stage 4.",
+    "comment": ""
+  },
+  {
     "priority": 3,
-    "date": "2016-07-26T00:00:00+00:00",
+    "date": "2016-06-07T00:00:00+00:00",
     "title": "First public draft of CSS Houdini",
     "href": "https://www.w3.org/TR/2016/WD-css-properties-values-api-1-20160607/",
     "description": "",
@@ -442,7 +450,7 @@
   {
     "priority": 2,
     "date": "2015-06-02T00:00:00+00:00",
-    "title": "Initial public release of Redux",
+    "title": "Initial release of Redux",
     "href": "https://github.com/reduxjs/redux/releases/tag/v0.2.0",
     "description": "Dan Abramov began writing the first implementation of Redux while preparing for a <a href=\"https://www.youtube.com/watch?v=xsSnOQynTHs\">conference talk at React Europe</a>. Later, he would offer Andrew Clark to collaborate with him.",
     "comment": ""
@@ -618,7 +626,7 @@
   {
     "priority": 2,
     "date": "2013-06-30T00:00:00+00:00",
-    "title": "Nicholas C. Zakas starts working on ESLint",
+    "title": "Work on ESLint started",
     "href": "https://rangle.io/blog/understanding-the-real-advantages-of-using-eslint/",
     "description": "After contributing to JSHint, Nicholas C. Zakas decides to create a new JavaScript linting and style checking tool. Originally called JSCheck, this tool would be later renamed to ESLint.",
     "comment": ""
@@ -634,7 +642,7 @@
   {
     "priority": 3,
     "date": "2013-06-01T00:00:00+00:00",
-    "title": "The beginning of React Native's story",
+    "title": "React Native",
     "href": "https://engineering.fb.com/android/react-native-a-year-in-review/",
     "description": "React Native started as a hackathon project in the summer of 2013.",
     "comment": ""
@@ -826,9 +834,9 @@
   {
     "priority": 1,
     "date": "2011-03-14T00:00:00+00:00",
-    "title": "IE 9 with Chakra",
+    "title": "IE 9 with JIT compilation",
     "href": "https://www.webcitation.org/5xLWkEWWv?url=http://blogs.msdn.com/b/ieinternals/archive/2009/05/29/q-a-64-bit-internet-explorer.aspx",
-    "description": "The 32-bit version of Internet Explorer 9 gets a new JScript engine named Chakra. Later, they would fork it and develop a new open-source version of a JavaScript engine for their new browser, Microsoft Edge.",
+    "description": "The 32-bit version of IE 9 gets a new JScript engine named Chakra, which converted script into machine code before running it.",
     "comment": ""
   },
   {
@@ -924,8 +932,8 @@
     "date": "2010-05-12T00:00:00+00:00",
     "title": "Test262: ECMAScript Test Suite initial contribution",
     "href": "https://github.com/tc39/proposals/commit/023a1c80b553fc4daf87877be72d171524db3450",
-    "description": ".",
-    "comment": "Ecma International starts developing a test suite for the Ecma specifications."
+    "description": "Ecma International starts developing a test suite for the Ecma specifications.",
+    "comment": ""
   },
   {
     "priority": 3,
