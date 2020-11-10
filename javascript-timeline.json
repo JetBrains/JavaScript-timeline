@@ -124,7 +124,7 @@
     "date": "2019-05-10T00:00:00+00:00",
     "title": "GraalVM 19.0",
     "href": "https://medium.com/graalvm/announcing-graalvm-19-4590cf354df8",
-    "description": "GraalVm, a runtime that removes the isolation between programming languages, is ready for production use. It lets you run JavaScript with Java, Ruby, Python, R, and any other languages which support the<a hre=\"https://www.graalvm.org/graalvm-as-a-platform/implement-language/\">Truffle APIs</a> integration.",
+    "description": "GraalVm, a runtime that removes the isolation between programming languages, is ready for production use. It lets you run JavaScript with Java, Ruby, Python, R, and any other languages which support the <a hre=\"https://www.graalvm.org/graalvm-as-a-platform/implement-language/\">Truffle APIs</a> integration.",
     "comment": ""
   },
   {
@@ -402,7 +402,7 @@
   {
     "priority": 2,
     "date": "2015-09-14T00:00:00+00:00",
-    "title": "GraphQL: a data query language",
+    "title": "GraphQL",
     "href": "https://engineering.fb.com/core-data/graphql-a-data-query-language/",
     "description": "After three years of internal use, Facebook introduces GraphQL, a query language for APIs and a runtime for serving those queries with existing data.",
     "comment": ""
@@ -442,9 +442,9 @@
   {
     "priority": 3,
     "date": "2015-06-12T00:00:00+00:00",
-    "title": "Ember.js 1.13.0 with Glimmer",
+    "title": "Glimmer",
     "href": "https://blog.emberjs.com/2015/06/12/ember-1-13-0-released.html",
-    "description": "This update is the first to include the Glimmer rendering engine.",
+    "description": "Ember.js 1.13.0 gets the Glimmer rendering engine.",
     "comment": ""
   },
   {
@@ -898,7 +898,7 @@
   {
     "priority": 3,
     "date": "2010-10-19T00:00:00+00:00",
-    "title": "File API shipped with Chrome",
+    "title": "File API in Chrome",
     "href": "https://chromereleases.googleblog.com/2010/10/stable-channel-update.html",
     "description": "The first release of one of the most important parts of HTML 5 is included in a Google Chrome browser update.",
     "comment": ""
@@ -956,7 +956,7 @@
     "date": "2009-12-14T00:00:00+00:00",
     "title": "Initial commit of CoffeeScript",
     "href": "https://github.com/jashkenas/coffeescript/commit/8e9d637985d2dc9b44922076ad54ffef7fa8e9c2",
-    "description": "On December 14, 2009, Jeremy Ashkenas <a href=\"https://github.com/jashkenas/coffeescript/commit/8e9d637985d2dc9b44922076ad54ffef7fa8e9c2\">commits</a> a bunch of files to GitHub with the message: \"initial commit of the mystery language\". Drawing inspiration from Python, Ruby, and some other languages, he started working on CoffeeScript, a new programming language that compiles into JavaScript.<br /><br /> Ashkenas is also known as the creator of two JavaScript libraries - <a href=\"https://github.com/jashkenas/coffeescript/commit/8e9d637985d2dc9b44922076ad54ffef7fa8e9c2\">Underscore.js</a> and <a href=\"https://backbonejs.org/\">Backbone.js</a>.",
+    "description": "On December 14, 2009, Jeremy Ashkenas <a href=\"https://github.com/jashkenas/coffeescript/commit/8e9d637985d2dc9b44922076ad54ffef7fa8e9c2\">commits</a> a bunch of files to GitHub with the message: \"initial commit of the mystery language\". Drawing inspiration from Python, Ruby, and some other languages, he started working on CoffeeScript, a new programming language that compiles into JavaScript.",
     "comment": ""
   },
   {
@@ -1392,9 +1392,9 @@
     "comment": ""
   },
   {
-    "priority": 2,
+    "priority": 3,
     "date": "1996-08-01T00:00:00+00:00",
-    "title": "JavaScript: The Definitive Guide, Beta Version published",
+    "title": "JavaScript: The Definitive Guide, published",
     "href": "https://web.archive.org/web/20110913022342/http://shop.oreilly.com/product/9781565921931.do",
     "description": "David Flanagan writes one of the first books about JavaScript.",
     "comment": ""
