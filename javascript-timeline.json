@@ -1284,7 +1284,7 @@
     "date": "2001-04-01T00:00:00+00:00",
     "title": "The&nbsp;first JSON message is&nbsp;sent",
     "href": "https://twobithistory.org/2017/09/21/the-rise-and-rise-of-json.html",
-    "description": "The message looks like this:<br /><pre>&lt;html&gt;&lt;head&gt;&lt;script&gt;\n   document.domain = 'fudco';\n   parent.session.receive(\n       { to: “session\", do: “test\",\n         text: “Hello world\" }\n   )\n&lt;/script&gt;&lt;/head&gt;&lt;/html&gt;</pre>",
+    "description": "The message looks like this:<br /><pre>&lt;html&gt;&lt;head&gt;&lt;script&gt;\n   document.domain = 'fudco';\n   parent.session.receive(\n       { to: \"session\", do: \"test\",\n         text: \"Hello world\" }\n   )\n&lt;/script&gt;&lt;/head&gt;&lt;/html&gt;</pre>",
     "comment": ""
   },
   {
