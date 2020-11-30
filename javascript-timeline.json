@@ -124,7 +124,7 @@
     "date": "2019-05-10T00:00:00+00:00",
     "title": "GraalVM 19.0",
     "href": "https://medium.com/graalvm/announcing-graalvm-19-4590cf354df8",
-    "description": "GraalVm, a&nbsp;runtime that removes the&nbsp;isolation between programming languages, is&nbsp;ready for&nbsp;production use. It lets you run JavaScript with&nbsp;Java, Ruby, Python, R, and&nbsp;any other languages which support the&nbsp;<a hre=\"https://www.graalvm.org/graalvm-as-a-platform/implement-language/\">Truffle APIs</a> integration.",
+    "description": "GraalVM, a&nbsp;runtime that removes the&nbsp;isolation between programming languages, is&nbsp;ready for&nbsp;production use. It lets you run JavaScript with&nbsp;Java, Ruby, Python, R, and&nbsp;any other languages which support the&nbsp;<a hre=\"https://www.graalvm.org/graalvm-as-a-platform/implement-language/\">Truffle APIs</a> integration.",
     "comment": ""
   },
   {
@@ -156,7 +156,7 @@
     "date": "2018-10-25T00:00:00+00:00",
     "title": "React hooks announced",
     "href": "https://www.youtube.com/watch?v=dpw9EHDh2bM",
-    "description": "Sophie Alpert, Dan Abramov, and&nbsp;Ryan Florence define the&nbsp;problems with&nbsp;“wrapper hell, huge components and confusing classes” and&nbsp;introduce React hooks as&nbsp;a&nbsp;solution.",
+    "description": "Sophie Alpert, Dan Abramov, and&nbsp;Ryan Florence define the&nbsp;problems with&nbsp;“wrapper hell, huge components and confusing classes” and&nbsp;introduce React hooks as&nbsp;a&nbsp;solution",
     "comment": ""
   },
   {
@@ -260,7 +260,7 @@
     "date": "2017-04-13T00:00:00+00:00",
     "title": "Prettier&nbsp;1.0 released",
     "href": "https://jlongster.com/prettier-1.0",
-    "description": "Christopher Chedeau and&nbsp;James Long publish a&nbsp;blog post about Prettier&nbsp;1.0&nbsp;release.<br /><br /> “It started as&nbsp;an&nbsp;experiment but it clearly resonated with a&nbsp;lot&nbsp;of&nbsp;people, amassing ~7000&nbsp;GitHub stars and over 100,000 monthly npm downloads in&nbsp;just&nbsp;two&nbsp;months.”",
+    "description": "Christopher Chedeau and&nbsp;James Long publish a&nbsp;blog post about Prettier&nbsp;1.0&nbsp;release.<br /><div class=\"timeline__space-between-paragraphs\"></div> “It started as&nbsp;an&nbsp;experiment but it clearly resonated with a&nbsp;lot&nbsp;of&nbsp;people, amassing ~7000&nbsp;GitHub stars and over 100,000 monthly npm downloads in&nbsp;just&nbsp;two&nbsp;months.”",
     "comment": ""
   },
   {
@@ -268,7 +268,7 @@
     "date": "2017-03-13T00:00:00+00:00",
     "title": "Initial Temporal proposal&nbsp;commit",
     "href": "https://github.com/tc39/proposal-temporal/commit/8a171d1661babda716251250fbdb4dd39f2dd1c2",
-    "description": "Maggie Johnson-Pint proposes Temporal, a&nbsp;global Object that acts as&nbsp;a&nbsp;top-level namespace and&nbsp;brings a&nbsp;modern date/time API to&nbsp;ECMAScript.",
+    "description": "Maggie Johnson-Pint proposes Temporal, a&nbsp;global Object that acts as&nbsp;a&nbsp;top-level namespace and&nbsp;brings a&nbsp;modern date/time API to&nbsp;ECMAScript",
     "comment": ""
   },
   {
@@ -332,7 +332,7 @@
     "date": "2016-09-14T00:00:00+00:00",
     "title": "Angular is&nbsp;born",
     "href": "https://www.ngdevelop.tech/angular/history/",
-    "description": "The same team that built AngularJS rewrites it and&nbsp;introduces Angular&nbsp;2, written&nbsp;in&nbsp;TypeScript.<br/><br/> At&nbsp;this point, quite a&nbsp;few teams have abandoned AngularJS in&nbsp;favor of&nbsp;libraries like React. Some developers even wrote <a href=\"https://levelup.gitconnected.com/angular-its-you-not-me-9e9232ad3bcd\">break-up letters</a> to&nbsp;their once-beloved&nbsp;framework.",
+    "description": "The same team that built AngularJS rewrites it and&nbsp;introduces Angular&nbsp;2, written&nbsp;in&nbsp;TypeScript.<br/><div class=\"timeline__space-between-paragraphs\"></div> At&nbsp;this point, quite a&nbsp;few teams have abandoned AngularJS in&nbsp;favor of&nbsp;libraries like React. Some developers even wrote <a href=\"https://levelup.gitconnected.com/angular-its-you-not-me-9e9232ad3bcd\">break-up letters</a> to&nbsp;their once-beloved&nbsp;framework.",
     "comment": ""
   },
   {
@@ -364,7 +364,7 @@
     "date": "2016-05-12T00:00:00+00:00",
     "title": "First commits to the&nbsp;TC39 proposals repository",
     "href": "https://github.com/tc39/proposals/commit/023a1c80b553fc4daf87877be72d171524db3450",
-    "description": "<a href=\"https://github.com/tc39/proposals\">The repository</a> contains information about the&nbsp;stages of&nbsp;proposals&nbsp;to&nbsp;ECMAScript.",
+    "description": "<a href=\"https://github.com/tc39/proposals\">The repository</a> contains information about the&nbsp;stages of&nbsp;proposals&nbsp;to&nbsp;ECMAScript",
     "comment": ""
   },
   {
@@ -460,7 +460,7 @@
     "date": "2015-06-01T00:00:00+00:00",
     "title": "ES2015, big ECMAScript update",
     "href": "http://www.ecma-international.org/ecma-262/6.0/index.html",
-    "description": "This update includes arrow function expressions, let and&nbsp;const keywords, class declaration, promises, generators, and&nbsp;many other improvements.<br /><br /> Starting from this edition, ECMAScript will also get regular updates each&nbsp;year.",
+    "description": "This update includes arrow function expressions, let and&nbsp;const keywords, class declaration, promises, generators, and&nbsp;many other improvements.<br /><div class=\"timeline__space-between-paragraphs\"></div> Starting from this edition, ECMAScript will also get regular updates each&nbsp;year.",
     "comment": ""
   },
   {
@@ -548,7 +548,7 @@
     "date": "2014-09-28T00:00:00+00:00",
     "title": "First commit to&nbsp;Babel.js",
     "href": "https://github.com/babel/babel/commit/c97696c224d718d96848df9e1577f337b45464be#diff-7ae45ad102eab3b6d7e7896acd08c427a9b25b346470d7bc6507b6481575d519",
-    "description": "Sebastian McKenzie starts a&nbsp;new project to&nbsp;help with converting the&nbsp;new&nbsp;version of&nbsp;ECMAScript into versions that older JavaScript&nbsp;engines can&nbsp;process.",
+    "description": "Sebastian McKenzie starts a&nbsp;new project to&nbsp;help with converting the&nbsp;new&nbsp;version of&nbsp;ECMAScript into versions that older JavaScript&nbsp;engines&nbsp;can&nbsp;process",
     "comment": ""
   },
   {
@@ -586,7 +586,7 @@
   {
     "priority": 3,
     "date": "2013-11-06T00:00:00+00:00",
-    "title": "koa&nbsp;0.0.1 on&nbsp;npm",
+    "title": "Koa&nbsp;0.0.1 on&nbsp;npm",
     "href": "https://www.npmjs.com/package/koa/v/0.0.1",
     "description": "The team behind Express designs Koa, a&nbsp;new&nbsp;web framework for&nbsp;Node.js.",
     "comment": ""
@@ -652,7 +652,7 @@
     "date": "2013-05-29T00:00:00+00:00",
     "title": "React goes open source",
     "href": "https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/",
-    "description": "Tom Occhino and&nbsp;Jordan Walke introduce React at&nbsp;<a href=\"https://youtu.be/GW0rj4sNH2w\">JSConf&nbsp;US 2013</a>. React becomes an&nbsp;open-source&nbsp;project.<br /><br /> The audience at&nbsp;the&nbsp;conference is <a href=\"https://youtu.be/A0Kj49z6WdM?t=851\">skeptical</a>. Some people think that React is a&nbsp;huge step backward. This happened because most of&nbsp;the&nbsp;conference attendees were “early adopters” and&nbsp;“early majority”, while React was&nbsp;targeted at&nbsp;“innovators”.",
+    "description": "Tom Occhino and&nbsp;Jordan Walke introduce React at&nbsp;<a href=\"https://youtu.be/GW0rj4sNH2w\">JSConf&nbsp;US 2013</a>. React becomes an&nbsp;open-source&nbsp;project.<br /><div class=\"timeline__space-between-paragraphs\"></div> The audience at&nbsp;the&nbsp;conference is <a href=\"https://youtu.be/A0Kj49z6WdM?t=851\">skeptical</a>. Some people think that React is a&nbsp;huge step backward. This happened because most of&nbsp;the&nbsp;conference attendees were “early adopters” and&nbsp;“early majority”, while React was&nbsp;targeted at&nbsp;“innovators”.",
     "comment": ""
   },
   {
@@ -700,7 +700,7 @@
     "date": "2012-12-01T00:00:00+00:00",
     "title": "ECMAScript Internationalization API Specification 1st&nbsp;Edition",
     "href": "https://www.ecma-international.org/ecma-402/1.0/",
-    "description": "“The ECMAScript Internationalization API provides key language-sensitive functionality as&nbsp;a&nbsp;complement to&nbsp;the&nbsp;ECMAScript Language Specification, 5.1&nbsp;edition or&nbsp;successor. Its functionality has&nbsp;been selected from that of&nbsp;well-established internationalization APIs such as&nbsp;those of&nbsp;the&nbsp;Internationalization Components for&nbsp;Unicode (ICU)&nbsp;library, of&nbsp;the&nbsp;.NET&nbsp;framework, or&nbsp;of&nbsp;the&nbsp;Java platform.<br /><br /> The API was developed by&nbsp;an&nbsp;ad-hoc group established by&nbsp;ECMA&nbsp;TC39 in&nbsp;September&nbsp;2010 based on&nbsp;a&nbsp;proposal by&nbsp;Nebojša&nbsp;Ćirić and&nbsp;Jungshik&nbsp;Shin.”",
+    "description": "“The ECMAScript Internationalization API provides key language-sensitive functionality as&nbsp;a&nbsp;complement to&nbsp;the&nbsp;ECMAScript Language Specification, 5.1&nbsp;edition or&nbsp;successor. Its functionality has&nbsp;been selected from that of&nbsp;well-established internationalization APIs such as&nbsp;those of&nbsp;the&nbsp;Internationalization Components for&nbsp;Unicode (ICU)&nbsp;library, of&nbsp;the&nbsp;.NET&nbsp;framework, or&nbsp;of&nbsp;the&nbsp;Java platform.<br /><div class=\"timeline__space-between-paragraphs\"></div> The API was developed by&nbsp;an&nbsp;ad-hoc group established by&nbsp;ECMA&nbsp;TC39 in&nbsp;September&nbsp;2010 based on&nbsp;a&nbsp;proposal by&nbsp;Nebojša&nbsp;Ćirić and&nbsp;Jungshik&nbsp;Shin.”",
     "comment": ""
   },
   {
@@ -716,7 +716,7 @@
     "date": "2012-10-01T00:00:00+00:00",
     "title": "TypeScript made public",
     "href": "https://www.infoworld.com/article/2614863/microsoft-augments-javascript-for-large-scale-development.html",
-    "description": "After 2&nbsp;years of&nbsp;internal development, Microsoft introduces a&nbsp;JavaScript superset called TypeScript. They developed TypeScript in an attempt to make JavaScript useful for large-scale development.<br /><br />The first impressions of&nbsp;TypeScript were controversial. For&nbsp;example, <a href=\"https://tirania.org/blog/archive/2012/Oct-01.html\">Miguel de Icaza highlighted</a> a&nbsp;number of&nbsp;advantages but&nbsp;also raised concerns about&nbsp;the&nbsp;lack of&nbsp;support for&nbsp;TypeScript in&nbsp;tooling other than Microsoft Visual Studio.",
+    "description": "After 2&nbsp;years of&nbsp;internal development, Microsoft introduces a&nbsp;JavaScript superset called TypeScript. They developed TypeScript in an attempt to make JavaScript useful for large-scale development.<br /><div class=\"timeline__space-between-paragraphs\"></div> The first impressions of&nbsp;TypeScript were controversial. For&nbsp;example, <a href=\"https://tirania.org/blog/archive/2012/Oct-01.html\">Miguel de Icaza highlighted</a> a&nbsp;number of&nbsp;advantages but&nbsp;also raised concerns about&nbsp;the&nbsp;lack of&nbsp;support for&nbsp;TypeScript in&nbsp;tooling other than Microsoft Visual Studio.",
     "comment": ""
   },
   {
@@ -772,7 +772,7 @@
     "date": "2012-03-10T00:00:00+00:00",
     "title": "webpack module bundler",
     "href": "",
-    "description": "webpack, a&nbsp;new&nbsp;static module bundler for&nbsp;JavaScript applications, is&nbsp;introduced.",
+    "description": "webpack, a&nbsp;new&nbsp;static module bundler for&nbsp;JavaScript applications, is&nbsp;introduced",
     "comment": ""
   },
   {
@@ -812,7 +812,7 @@
     "date": "2011-05-11T00:00:00+00:00",
     "title": "WebKit Remote Debugging",
     "href": "https://web.archive.org/web/20110512002552/http://www.webkit.org/blog/1620/webkit-remote-debugging/",
-    "description": "WebKit Remote Debugging marks a&nbsp;new&nbsp;era for&nbsp;mobile browser debugging. It later becomes the&nbsp;<a href=\"https://chromedevtools.github.io/devtools-protocol/\">Chrome DevTools&nbsp;Protocol</a>.",
+    "description": "WebKit Remote Debugging marks a&nbsp;new&nbsp;era for&nbsp;mobile browser debugging. It later becomes the&nbsp;<a href=\"https://chromedevtools.github.io/devtools-protocol/\">Chrome DevTools&nbsp;Protocol</a>",
     "comment": ""
   },
   {
@@ -836,7 +836,7 @@
     "date": "2011-03-14T00:00:00+00:00",
     "title": "IE 9 with JIT compilation",
     "href": "https://www.webcitation.org/5xLWkEWWv?url=http://blogs.msdn.com/b/ieinternals/archive/2009/05/29/q-a-64-bit-internet-explorer.aspx",
-    "description": "The 32-bit version of&nbsp;IE&nbsp;9 gets a&nbsp;new&nbsp;JScript&nbsp;engine named&nbsp;Chakra, which converts JScript into machine code before running&nbsp;it.",
+    "description": "The 32-bit version of&nbsp;IE&nbsp;9 gets a&nbsp;new&nbsp;JScript&nbsp;engine named&nbsp;Chakra, which converts JScript into machine code before&nbsp;running&nbsp;it",
     "comment": ""
   },
   {
@@ -924,7 +924,7 @@
     "date": "2010-05-27T00:00:00+00:00",
     "title": "WebStorm&nbsp;1.0, a&nbsp;new&nbsp;JavaScript&nbsp;IDE by&nbsp;JetBrains",
     "href": "",
-    "description": "Previously known under its working name of Web IDE, <a href=\"https://web.archive.org/web/20101228024817/http://www.jetbrains.com/webstorm/\">WebStorm 1.0</a> is released with support for HTML, CSS, and JavaScript.",
+    "description": "Previously known under its working name of Web IDE, <a href=\"https://web.archive.org/web/20101228024817/http://www.jetbrains.com/webstorm/\">WebStorm 1.0</a> is released with support for HTML, CSS, and JavaScript",
     "comment": ""
   },
   {
@@ -948,7 +948,7 @@
     "date": "2010-01-12T00:00:00+00:00",
     "title": "npm was born",
     "href": "https://blog.izs.me/",
-    "description": "Isaac Schlueter invents a&nbsp;new&nbsp;package manager for&nbsp;JavaScript.",
+    "description": "Isaac Schlueter invents a&nbsp;new&nbsp;package manager for&nbsp;JavaScript",
     "comment": ""
   },
   {
@@ -1124,7 +1124,7 @@
     "date": "2006-08-21T00:00:00+00:00",
     "title": "CouchDB Alpha released",
     "href": "http://web.archive.org/web/20070708200123/http://damienkatz.net/2006/08/the_alpha_has_l_1.html",
-    "description": "Damien Katz unveils CouchB&nbsp;Alpha&nbsp;1. He has been working on&nbsp;it&nbsp;since&nbsp;2005.",
+    "description": "Damien Katz unveils CouchDB&nbsp;Alpha&nbsp;1. He has been working on&nbsp;it&nbsp;since&nbsp;2005.",
     "comment": ""
   },
   {
@@ -1236,7 +1236,7 @@
     "date": "2004-04-01T00:00:00+00:00",
     "title": "Beta release of&nbsp;Gmail",
     "href": "https://time.com/43263/gmail-10th-anniversary/",
-    "description": "Google publicly announces <a href=\"https://googlepress.blogspot.com/2004/04/google-gets-message-launches-gmail.html\">Gmail</a>, launching the&nbsp;Ajax (even though the term wasn’t coined yet) and&nbsp;web&nbsp;application era. Its release on&nbsp;April&nbsp;1 made some people think that the&nbsp;announcement &nbsp;a&nbsp;prank.",
+    "description": "Google publicly announces <a href=\"https://googlepress.blogspot.com/2004/04/google-gets-message-launches-gmail.html\">Gmail</a>, launching the&nbsp;Ajax (even though the term wasn’t coined yet) and&nbsp;web&nbsp;application era. Its release on&nbsp;April&nbsp;1 made some people think that the&nbsp;announcement&nbsp;was&nbsp;a&nbsp;prank.",
     "comment": ""
   },
   {
