@@ -1072,6 +1072,14 @@
     "comment": ""
   },
   {
+    "priority": 1,
+    "date": "2008-08-01T00:00:00+00:00",
+    "title": "Public announcement of termination of ES4 and start of Harmony project",
+    "href": "",
+    "description": "",
+    "comment": ""
+  },
+  {
     "priority": 2,
     "date": "2008-06-17T00:00:00+00:00",
     "title": "Discussions around WebSocket",
@@ -1240,11 +1248,11 @@
     "comment": ""
   },
   {
-    "priority": 1,
+    "priority": 2,
     "date": "2003-06-30T00:00:00+00:00",
-    "title": "Dark times for&nbsp;ECMAScript",
+    "title": "The first draft of ECMAScript&nbsp;4",
     "href": "https://www.ecma-international.org/archive/ecmascript/2003/index.html",
-    "description": "After months of&nbsp;hard work on&nbsp;the new&nbsp;update to&nbsp;ECMAScript, the&nbsp;fourth edition is&nbsp;abandoned in&nbsp;June,&nbsp;2003. Some of&nbsp;the&nbsp;features proposed for&nbsp;that edition never make it into&nbsp;the&nbsp;standard.",
+    "description": "",
     "comment": ""
   },
   {
