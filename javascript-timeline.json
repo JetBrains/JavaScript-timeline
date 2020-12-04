@@ -962,7 +962,7 @@
   {
     "priority": 1,
     "date": "2009-12-09T00:00:00+00:00",
-    "title": "End of&nbsp;dark times for&nbsp;ECMAScript",
+    "title": "ECMAScript 3.1 becomes ECMAScript 5",
     "href": "https://www.infoq.com/news/2009/12/ecmascript5/",
     "description": "Using version&nbsp;3.1 as&nbsp;a&nbsp;starting point, ECMAScript gets revamped after a&nbsp;very long break. The&nbsp;new&nbsp;version includes such important features as&nbsp;strict&nbsp;mode, getters and&nbsp;setters, and&nbsp;JSON&nbsp;support.",
     "comment": ""
