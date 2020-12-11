@@ -1064,19 +1064,19 @@
     "comment": ""
   },
   {
+    "priority": 1,
+    "date": "2008-08-13T00:00:00+00:00",
+    "title": "Harmony project and&nbsp;ES4&nbsp;termination",
+    "href": "https://mail.mozilla.org/pipermail/es-discuss/2008-August/003400.html",
+    "description": "“It’s no&nbsp;secret that the&nbsp;JavaScript standards body, Ecma’s Technical&nbsp;Committee&nbsp;39, has&nbsp;been split for&nbsp;over a&nbsp;year, with some members favoring ES4, a&nbsp;major fourth edition to&nbsp;ECMA-262, and&nbsp;others advocating ES3.1 based on&nbsp;the&nbsp;existing ECMA-262 Edition&nbsp;3&nbsp;(ES3) specification. Now, I’m&nbsp;happy to&nbsp;report, the&nbsp;split is&nbsp;over.”",
+    "comment": ""
+  },
+  {
     "priority": 3,
     "date": "2008-08-02T00:00:00+00:00",
     "title": "Raphaël released",
     "href": "http://dmitry.baranovskiy.com/post/raphael-javascript-library",
     "description": "Dmitry Baranovskiy releases a&nbsp;JavaScript&nbsp;library for working with&nbsp;vector&nbsp;graphics.",
-    "comment": ""
-  },
-  {
-    "priority": 1,
-    "date": "2008-08-01T00:00:00+00:00",
-    "title": "Public announcement of termination of ES4 and start of Harmony project",
-    "href": "",
-    "description": "",
     "comment": ""
   },
   {
@@ -1250,9 +1250,9 @@
   {
     "priority": 2,
     "date": "2003-06-30T00:00:00+00:00",
-    "title": "The first draft of ECMAScript&nbsp;4",
+    "title": "First draft of&nbsp;ECMAScript&nbsp;4",
     "href": "https://www.ecma-international.org/archive/ecmascript/2003/index.html",
-    "description": "",
+    "description": "The draft contains many new&nbsp;features: classes, a&nbsp;module system, optional type annotations and&nbsp;static typing, generators and iterators, destructuring assignment, algebraic data types",
     "comment": ""
   },
   {
