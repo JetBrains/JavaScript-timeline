@@ -962,7 +962,7 @@
   {
     "priority": 1,
     "date": "2009-12-09T00:00:00+00:00",
-    "title": "End of&nbsp;dark times for&nbsp;ECMAScript",
+    "title": "ECMAScript&nbsp;3.1 becomes ECMAScript&nbsp;5",
     "href": "https://www.infoq.com/news/2009/12/ecmascript5/",
     "description": "Using version&nbsp;3.1 as&nbsp;a&nbsp;starting point, ECMAScript gets revamped after a&nbsp;very long break. The&nbsp;new&nbsp;version includes such important features as&nbsp;strict&nbsp;mode, getters and&nbsp;setters, and&nbsp;JSON&nbsp;support.",
     "comment": ""
@@ -1061,6 +1061,14 @@
     "title": "Google Chrome: a&nbsp;fresh take on&nbsp;the&nbsp;browser",
     "href": "https://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html",
     "description": "To “help drive innovation on&nbsp;the&nbsp;web”, Google launches the&nbsp;beta version of&nbsp;Google&nbsp;Chrome, along&nbsp;with a&nbsp;new&nbsp;JavaScript&nbsp;engine, V8. The announcement is&nbsp;accompanied by&nbsp;this&nbsp;<a href=\"https://www.google.com/googlebooks/chrome/index.html\">comic&nbsp;book</a>.",
+    "comment": ""
+  },
+  {
+    "priority": 1,
+    "date": "2008-08-13T00:00:00+00:00",
+    "title": "Harmony project and&nbsp;ES4&nbsp;termination",
+    "href": "https://mail.mozilla.org/pipermail/es-discuss/2008-August/003400.html",
+    "description": "“It’s no&nbsp;secret that the&nbsp;JavaScript standards body, Ecma’s Technical&nbsp;Committee&nbsp;39, has&nbsp;been split for&nbsp;over a&nbsp;year, with some members favoring ES4, a&nbsp;major fourth edition to&nbsp;ECMA-262, and&nbsp;others advocating ES3.1 based on&nbsp;the&nbsp;existing ECMA-262 Edition&nbsp;3&nbsp;(ES3) specification. Now, I’m&nbsp;happy to&nbsp;report, the&nbsp;split is&nbsp;over.”",
     "comment": ""
   },
   {
@@ -1242,9 +1250,9 @@
   {
     "priority": 1,
     "date": "2003-06-30T00:00:00+00:00",
-    "title": "Dark times for&nbsp;ECMAScript",
+    "title": "First draft of&nbsp;ECMAScript&nbsp;4",
     "href": "https://www.ecma-international.org/archive/ecmascript/2003/index.html",
-    "description": "After months of&nbsp;hard work on&nbsp;the new&nbsp;update to&nbsp;ECMAScript, the&nbsp;fourth edition is&nbsp;abandoned in&nbsp;June,&nbsp;2003. Some of&nbsp;the&nbsp;features proposed for&nbsp;that edition never make it into&nbsp;the&nbsp;standard.",
+    "description": "The draft contains many new&nbsp;features: classes, a&nbsp;module system, optional type annotations and&nbsp;static typing, generators and iterators, destructuring assignment, algebraic data types",
     "comment": ""
   },
   {
