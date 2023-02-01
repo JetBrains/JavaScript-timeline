@@ -1,3 +1,5 @@
+![Team](https://jb.gg/badges/team-plastic.svg)
+
 # JavaScript Timeline
 
 Notable events of JavaScript history collected for [https://jetbrains.com/lp/javascript-25/](https://jetbrains.com/lp/javascript-25/)
